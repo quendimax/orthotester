@@ -62,8 +62,7 @@ def get_quest_word(line, exclusions):
     cur_pos = 0
     for exclusion in exclusions:
         orig_word += line[cur_pos:exclusion[0]]
-        excl_str = line[exclusion[0]:exclusion[1]].strip('[]')
-        orig_word += '_' * max(len(excl_str), 1)
+        orig_word += '_'
         cur_pos = exclusion[1]
     orig_word += line[cur_pos:]
     return orig_word
@@ -136,6 +135,35 @@ def test_with_choice(line):
         return False
 
 
+def test_with_small_choice(test_word):
+    checker = re.compile(r'\[[^\[\]]+\]')
+    exclusions = [m.span() for m in checker.finditer(test_word)]
+    # exclusions = [test_word[i:j].strip('[]').split('|') for i, j in exclusions]
+
+    orig_word = ''
+    quest_word = ''
+    cur = 0
+    for i, j in exclusions:
+        orig_word += test_word[cur:i]
+        quest_word += test_word[cur:i]
+        letters = test_word[i:j].strip('[]').split('|')
+        orig_word += letters[0]
+        random.shuffle(letters)
+        quest_word += '[' + '|'.join(letters) + ']'
+        cur = j
+    orig_word += test_word[cur:]
+    quest_word += test_word[cur:]
+
+    print('Question:     %s' % quest_word)
+    answer = input('Your answer:  ').strip()
+    if answer == orig_word:
+        print('Right\n')
+        return True
+    else:
+        print('Mistake!\nRight answer: %s\n' % orig_word)
+        return False
+
+
 def test_with_stress(test_word):
     test_word = test_word.strip()
     checker = re.compile(r'([аоыэуяёіею])ʼ')
@@ -180,7 +208,7 @@ def print_results():
 
 def main():
     gaps_checker = re.compile(r'\[[^\[\]\|]*\]')
-    choice_checker = re.compile(r'[^\[\]\|]+\|[^\[\]\|]+')
+    small_choice_checker = re.compile(r'\[[^\[\]\|]+\|[^\[\]\|]+\]')
     stress_checker = re.compile(r'[аоыэуяёіею]ʼ')
     translate_checker = re.compile(r'->')
 
@@ -201,8 +229,10 @@ def main():
         for line in lines:
             if gaps_checker.search(line):
                 is_right = test_with_gaps(line)
-            elif choice_checker.search(line):
+            elif '[' not in line and ']' not in line and '|' in line:
                 is_right = test_with_choice(line)
+            elif small_choice_checker.search(line):
+                is_right = test_with_small_choice(line)
             elif stress_checker.search(line):
                 is_right = test_with_stress(line)
             elif translate_checker.search(line):
