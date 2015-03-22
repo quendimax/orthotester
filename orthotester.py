@@ -44,6 +44,9 @@ class AnswerStatistic:
 config = None
 answer_stat = AnswerStatistic()
 
+HIGHLIGHT_TEXT = '\x1b[1;31m'
+NORMAL_TEXT = '\x1b[0m'
+
 
 def get_original_word(line, exclusions):
     orig_word = ''
@@ -149,7 +152,8 @@ def test_with_small_choice(test_word):
         letters = test_word[i:j].strip('[]').split('|')
         orig_word += letters[0]
         random.shuffle(letters)
-        quest_word += '[' + '|'.join(letters) + ']'
+        # quest_word += HIGHLIGHT_TEXT + '{}/{}'.format(NORMAL_TEXT, HIGHLIGHT_TEXT).join(letters) + NORMAL_TEXT
+        quest_word += HIGHLIGHT_TEXT + '/'.join(letters) + NORMAL_TEXT
         cur = j
     orig_word += test_word[cur:]
     quest_word += test_word[cur:]
