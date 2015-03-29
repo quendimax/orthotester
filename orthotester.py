@@ -44,8 +44,12 @@ class AnswerStatistic:
 config = None
 answer_stat = AnswerStatistic()
 
-HIGHLIGHT_TEXT = '\x1b[1;31m'
+HIGHLIGHT_TEXT = '\x1b[4;31m'
+COMMENT_TEXT = '\x1b[34m'
+RIGHT_TEXT = '\x1b[1;32m'   # bold green
+WRONG_TEXT = '\x1b[1;31m'   # bold red
 NORMAL_TEXT = '\x1b[0m'
+BOLD_TEXT = '\x1b[1m'
 
 
 def get_original_word(line, exclusions):
@@ -71,6 +75,23 @@ def get_quest_word(line, exclusions):
     return orig_word
 
 
+def print_comment(comment):
+    message = '    ' + COMMENT_TEXT + '(' + comment + ')' + NORMAL_TEXT
+    print(message)
+
+
+def print_right():
+    msg = ' ---> ' + RIGHT_TEXT + 'Right' + NORMAL_TEXT
+    print(msg)
+
+
+def print_wrong(right_answer):
+    msg = ' ---> ' + WRONG_TEXT + 'Wrong' + NORMAL_TEXT
+    print(msg)
+    msg = ' ---> Right answer: ' + BOLD_TEXT + right_answer + NORMAL_TEXT
+    print(msg)
+
+
 def read_test_words(file_name, random_on=True):
     lines = []
     comment_checker = re.compile(r'^\s*#')
@@ -86,8 +107,11 @@ def read_test_words(file_name, random_on=True):
             if comment_checker.match(line)\
                     or empty_checker.match(line):
                 continue
-            lines.append(line.strip())
+            line_comment = line.split('#', 1)
+            line, comment = line_comment if len(line_comment) == 2 else (line_comment[0], '')
+            lines.append((line.strip(), comment.strip()))
     answer_stat.all = len(lines)
+    print(lines)
 
     if config.number_of_tests == 0:
         config.number_of_tests = len(lines)
@@ -100,25 +124,30 @@ def read_test_words(file_name, random_on=True):
     return lines, description
 
 
-def test_with_gaps(test_word):
+def test_with_gaps(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]\|]*\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
 
     orig_word = get_original_word(test_word, exclusions)
     quest_word = get_quest_word(test_word, exclusions)
 
-    print('Question:     %s' % quest_word)
+    print('Question:     %s' % quest_word, end='')
+    if comment:
+        print_comment(comment)
+    print()
     answer = input('Your answer:  ').strip()
     if answer == orig_word:
-        print('Right\n')
+        print_right()
         return True
     else:
-        print('Mistake!\nRight answer: %s\n' % orig_word)
+        print_wrong(orig_word)
         return False
 
 
-def test_with_choice(line):
-    print('Choose right variant:')
+def test_with_choice(line, comment=''):
+    if comment:
+        comment = COMMENT_TEXT + ' ({})'.format(comment) + NORMAL_TEXT
+    print('Choose right variant{}:'.format(comment))
     checker = re.compile(r'[^\[\]\|]+')
     answers = [line[m.span()[0]:m.span()[1]].strip() for m in checker.finditer(line)]
     right_answer = answers[0]
@@ -131,14 +160,14 @@ def test_with_choice(line):
     except ValueError:
         pass
     if answer == right_answer:
-        print('Right\n')
+        print_right()
         return True
     else:
-        print('Mistake!\nRight answer: %s\n' % right_answer)
+        print_wrong(right_answer)
         return False
 
 
-def test_with_small_choice(test_word):
+def test_with_small_choice(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]]+\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
     # exclusions = [test_word[i:j].strip('[]').split('|') for i, j in exclusions]
@@ -158,44 +187,53 @@ def test_with_small_choice(test_word):
     orig_word += test_word[cur:]
     quest_word += test_word[cur:]
 
-    print('Question:     %s' % quest_word)
+    print('Question:     %s' % quest_word, end='')
+    if comment:
+        print_comment(comment)
+    print()
     answer = input('Your answer:  ').strip()
     if answer == orig_word:
-        print('Right\n')
+        print_right()
         return True
     else:
-        print('Mistake!\nRight answer: %s\n' % orig_word)
+        print_wrong(orig_word)
         return False
 
 
-def test_with_stress(test_word):
+def test_with_stress(test_word, comment=''):
     test_word = test_word.strip()
     checker = re.compile(r'([аоыэуяёіею])ʼ')
     quest_word = ''.join(checker.split(test_word))
     orig_word = test_word
-    print('Put the stress: {}'.format(quest_word))
+    print('Put the stress: {}'.format(quest_word), end='')
+    if comment:
+        print_comment(comment)
+    print()
     answer = input('Your answer:    ')
     if answer == orig_word:
-        print('Right\n')
+        print_right()
         return True
     else:
-        print('Mistake!\nRight answer: %s\n' % orig_word)
+        print_wrong(orig_word)
         return False
 
 
-def test_with_translation(line):
+def test_with_translation(line, comment=''):
     checker = re.compile(r'->')
     match = checker.search(line)
     orig_word = line[:match.span()[0]].strip()
     translation = line[match.span()[1]:].strip()
 
-    print('Translate: {}'.format(orig_word))
+    print('Translate: {}'.format(orig_word), end='')
+    if comment:
+        print_comment(comment)
+    print()
     answer = input('You answer: ')
     if answer == translation:
-        print('Right\n')
+        print_right()
         return True
     else:
-        print('Mistake!\nRight answer: %s\n' % translation)
+        print_wrong(translation)
         return False
 
 
@@ -230,9 +268,9 @@ def main():
         print('Starting of {n} tests from {all}'.format(n=answer_stat.quantity, all=answer_stat.all))
         print('=' * 80)
 
-        for line in lines:
+        for line, comment in lines:
             if gaps_checker.search(line):
-                is_right = test_with_gaps(line)
+                is_right = test_with_gaps(line, comment)
             elif '[' not in line and ']' not in line and '|' in line:
                 is_right = test_with_choice(line)
             elif small_choice_checker.search(line):
@@ -246,6 +284,7 @@ def main():
             answer_stat.right += int(is_right)
             answer_stat.wrong += int(not is_right)
             answer_stat.done += 1
+            print('_' * 80, end='\n\n')
 
         print_results()
 
