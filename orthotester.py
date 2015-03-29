@@ -111,7 +111,6 @@ def read_test_words(file_name, random_on=True):
             line, comment = line_comment if len(line_comment) == 2 else (line_comment[0], '')
             lines.append((line.strip(), comment.strip()))
     answer_stat.all = len(lines)
-    print(lines)
 
     if config.number_of_tests == 0:
         config.number_of_tests = len(lines)
