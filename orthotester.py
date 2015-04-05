@@ -76,8 +76,11 @@ def get_quest_word(line, exclusions):
 
 
 def print_comment(comment):
-    message = '    ' + COMMENT_TEXT + '(' + comment + ')' + NORMAL_TEXT
-    print(message)
+    if comment:
+        message = '    ' + COMMENT_TEXT + '(' + comment + ')' + NORMAL_TEXT
+        print(message)
+    else:
+        print()
 
 
 def print_right():
@@ -131,9 +134,7 @@ def test_with_gaps(test_word, comment=''):
     quest_word = get_quest_word(test_word, exclusions)
 
     print('Question:     %s' % quest_word, end='')
-    if comment:
-        print_comment(comment)
-    print()
+    print_comment(comment)
     answer = input('Your answer:  ').strip()
     if answer == orig_word:
         print_right()
@@ -187,9 +188,7 @@ def test_with_small_choice(test_word, comment=''):
     quest_word += test_word[cur:]
 
     print('Question:     %s' % quest_word, end='')
-    if comment:
-        print_comment(comment)
-    print()
+    print_comment(comment)
     answer = input('Your answer:  ').strip()
     if answer == orig_word:
         print_right()
@@ -205,9 +204,7 @@ def test_with_stress(test_word, comment=''):
     quest_word = ''.join(checker.split(test_word))
     orig_word = test_word
     print('Put the stress: {}'.format(quest_word), end='')
-    if comment:
-        print_comment(comment)
-    print()
+    print_comment(comment)
     answer = input('Your answer:    ')
     if answer == orig_word:
         print_right()
@@ -224,9 +221,7 @@ def test_with_translation(line, comment=''):
     translation = line[match.span()[1]:].strip()
 
     print('Translate: {}'.format(orig_word), end='')
-    if comment:
-        print_comment(comment)
-    print()
+    print_comment(comment)
     answer = input('You answer: ')
     if answer == translation:
         print_right()
