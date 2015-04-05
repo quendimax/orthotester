@@ -95,7 +95,7 @@ def print_wrong(right_answer):
     print(msg)
 
 
-def read_test_words(file_name, random_on=True):
+def read_test_words(file_name):
     lines = []
     comment_checker = re.compile(r'^\s*#')
     empty_checker = re.compile(r'^\s*$')
@@ -104,7 +104,7 @@ def read_test_words(file_name, random_on=True):
         the_first_line = True
         for line in f.readlines():
             if the_first_line and comment_checker.match(line):
-                description += line.strip(' \t').strip('#')
+                description += line.lstrip(' \t#')
             else:
                 the_first_line = False
             if comment_checker.match(line)\
@@ -113,8 +113,10 @@ def read_test_words(file_name, random_on=True):
             line_comment = line.split('#', 1)
             line, comment = line_comment if len(line_comment) == 2 else (line_comment[0], '')
             lines.append((line.strip(), comment.strip()))
-    answer_stat.all = len(lines)
+    return lines, description
 
+
+def get_random_lines(lines, random_on=True):
     if config.number_of_tests == 0:
         config.number_of_tests = len(lines)
     else:
@@ -123,7 +125,7 @@ def read_test_words(file_name, random_on=True):
     if random_on:
         rand = random.SystemRandom()
         lines = rand.sample(lines, config.number_of_tests)
-    return lines, description
+    return lines
 
 
 def test_with_gaps(test_word, comment=''):
@@ -243,44 +245,50 @@ def print_results():
 
 
 def main():
+    print('=' * 80)
+    lines = []
+    for file_input in config.input:
+        cur_lines, description = read_test_words(file_input)
+        lines += cur_lines
+        description = '* ' + description.strip('\n').replace('\n', '\n  ')
+        print(description)
+
+    answer_stat.right = 0
+    answer_stat.wrong = 0
+    answer_stat.done = 0
+    answer_stat.all = len(lines)
+
+    lines = get_random_lines(lines)
+    answer_stat.quantity = len(lines)
+
+    print('Starting of {n} tests from {all}'.format(n=answer_stat.quantity, all=answer_stat.all))
+    print('=' * 80)
+
     gaps_checker = re.compile(r'\[[^\[\]\|]*\]')
     small_choice_checker = re.compile(r'\[[^\[\]\|]+\|[^\[\]\|]+\]')
     stress_checker = re.compile(r'[аоыэуяёіею]ʼ')
     translate_checker = re.compile(r'->')
+    answer_stat.time = time.time()
 
-    for file_input in config.input:
-        answer_stat.time = time.time()
-        answer_stat.right = 0
-        answer_stat.wrong = 0
-        answer_stat.done = 0
-        lines, description = read_test_words(file_input)
-        answer_stat.quantity = len(lines)
+    for line, comment in lines:
+        if gaps_checker.search(line):
+            is_right = test_with_gaps(line, comment)
+        elif '[' not in line and ']' not in line and '|' in line:
+            is_right = test_with_choice(line)
+        elif small_choice_checker.search(line):
+            is_right = test_with_small_choice(line)
+        elif stress_checker.search(line):
+            is_right = test_with_stress(line)
+        elif translate_checker.search(line):
+            is_right = test_with_translation(line)
+        else:
+            raise Exception('Unknown test: "{}"'.format(line))
+        answer_stat.right += int(is_right)
+        answer_stat.wrong += int(not is_right)
+        answer_stat.done += 1
+        print('_' * 80, end='\n\n')
 
-        print('=' * 80)
-        print(description)
-        print('Reading the {} file'.format(file_input))
-        print('Starting of {n} tests from {all}'.format(n=answer_stat.quantity, all=answer_stat.all))
-        print('=' * 80)
-
-        for line, comment in lines:
-            if gaps_checker.search(line):
-                is_right = test_with_gaps(line, comment)
-            elif '[' not in line and ']' not in line and '|' in line:
-                is_right = test_with_choice(line)
-            elif small_choice_checker.search(line):
-                is_right = test_with_small_choice(line)
-            elif stress_checker.search(line):
-                is_right = test_with_stress(line)
-            elif translate_checker.search(line):
-                is_right = test_with_translation(line)
-            else:
-                raise Exception('Unknown test: "{}"'.format(line))
-            answer_stat.right += int(is_right)
-            answer_stat.wrong += int(not is_right)
-            answer_stat.done += 1
-            print('_' * 80, end='\n\n')
-
-        print_results()
+    print_results()
 
 
 if __name__ == '__main__':
