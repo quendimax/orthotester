@@ -274,13 +274,13 @@ def main():
         if gaps_checker.search(line):
             is_right = test_with_gaps(line, comment)
         elif '[' not in line and ']' not in line and '|' in line:
-            is_right = test_with_choice(line)
+            is_right = test_with_choice(line, comment)
         elif small_choice_checker.search(line):
-            is_right = test_with_small_choice(line)
+            is_right = test_with_small_choice(line, comment)
         elif stress_checker.search(line):
-            is_right = test_with_stress(line)
+            is_right = test_with_stress(line, comment)
         elif translate_checker.search(line):
-            is_right = test_with_translation(line)
+            is_right = test_with_translation(line, comment)
         else:
             raise Exception('Unknown test: "{}"'.format(line))
         answer_stat.right += int(is_right)
