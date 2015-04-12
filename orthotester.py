@@ -172,7 +172,6 @@ def test_with_choice(line, comment=''):
 def test_with_small_choice(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]]+\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
-    # exclusions = [test_word[i:j].strip('[]').split('|') for i, j in exclusions]
 
     orig_word = ''
     quest_word = ''
