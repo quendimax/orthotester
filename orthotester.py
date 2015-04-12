@@ -183,7 +183,6 @@ def test_with_small_choice(test_word, comment=''):
         letters = test_word[i:j].strip('[]').split('|')
         orig_word += letters[0]
         random.shuffle(letters)
-        # quest_word += HIGHLIGHT_TEXT + '{}/{}'.format(NORMAL_TEXT, HIGHLIGHT_TEXT).join(letters) + NORMAL_TEXT
         quest_word += HIGHLIGHT_TEXT + '/'.join(letters) + NORMAL_TEXT
         cur = j
     orig_word += test_word[cur:]
