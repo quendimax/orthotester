@@ -138,6 +138,8 @@ def get_random_lines(lines, random_on=True):
     if random_on:
         rand = random.SystemRandom()
         lines = rand.sample(lines, config.number_of_tests)
+    else:
+        lines = lines[:config.number_of_tests]
     return lines
 
 
