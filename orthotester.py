@@ -30,6 +30,15 @@ import datetime
 import traceback
 
 
+parser = argparse.ArgumentParser(description='Helper for training for central testing')
+parser.add_argument('input', nargs='+', type=str, help='the list of test files')
+parser.add_argument('--check', action='store_true', help='just check all tests for correct (it ignores -n)')
+parser.add_argument('--no-random', action='store_true', help='switch off random of tests')
+parser.add_argument('-n', '--number-of-tests', type=int, metavar='N', default=0,
+                    help='how many tests you want to pass. 0 means every test.')
+config = parser.parse_args()
+
+
 class AnswerStatistic:
 
     def __init__(self):
@@ -41,7 +50,6 @@ class AnswerStatistic:
         self.time = 0
 
 
-config = None
 answer_stat = AnswerStatistic()
 
 HIGHLIGHT_TEXT = '\x1b[4;31m'
@@ -133,6 +141,14 @@ def get_random_lines(lines, random_on=True):
     return lines
 
 
+def check_test(func):
+    if config.check:
+        return lambda word, comment='': True
+    else:
+        return func
+
+
+@check_test
 def test_with_gaps(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]\|]*\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
@@ -151,6 +167,7 @@ def test_with_gaps(test_word, comment=''):
         return False
 
 
+@check_test
 def test_with_choice(line, comment=''):
     if comment:
         comment = COMMENT_TEXT + ' ({})'.format(comment) + NORMAL_TEXT
@@ -174,6 +191,7 @@ def test_with_choice(line, comment=''):
         return False
 
 
+@check_test
 def test_with_small_choice(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]]+\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
@@ -203,6 +221,7 @@ def test_with_small_choice(test_word, comment=''):
         return False
 
 
+@check_test
 def test_with_stress(test_word, comment=''):
     test_word = test_word.strip()
     checker = re.compile(r'([аоыэуяёіею])ʼ')
@@ -219,6 +238,7 @@ def test_with_stress(test_word, comment=''):
         return False
 
 
+@check_test
 def test_with_translation(line, comment=''):
     checker = re.compile(r'->')
     match = checker.search(line)
@@ -261,7 +281,8 @@ def main():
     answer_stat.done = 0
     answer_stat.all = len(lines)
 
-    lines = get_random_lines(lines)
+    if not config.check:
+        lines = get_random_lines(lines, random_on=not config.no_random)
     answer_stat.quantity = len(lines)
 
     print('Starting of {n} tests from {all}'.format(n=answer_stat.quantity, all=answer_stat.all))
@@ -295,11 +316,6 @@ def main():
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Helper for training for central testing')
-    parser.add_argument('input', nargs='+', type=str, help='the list of test files')
-    parser.add_argument('-n', '--number-of-tests', type=int, metavar='N', default=0,
-                        help='how many tests you want to pass. 0 means every test.')
-    config = parser.parse_args()
     try:
         main()
     except UnicodeEncodeError:
