@@ -312,7 +312,8 @@ def main():
         answer_stat.right += int(is_right)
         answer_stat.wrong += int(not is_right)
         answer_stat.done += 1
-        print('_' * 80, end='\n\n')
+        if not config.check:
+            print('_' * 80, end='\n\n')
 
     print_results()
 
