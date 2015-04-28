@@ -21,6 +21,7 @@
 __author__ = 'Maksim Tomkowicz'
 
 
+import os
 import re
 import sys
 import time
@@ -52,12 +53,23 @@ class AnswerStatistic:
 
 answer_stat = AnswerStatistic()
 
-HIGHLIGHT_TEXT = '\x1b[4;31m'
-COMMENT_TEXT = '\x1b[34m'
-RIGHT_TEXT = '\x1b[1;32m'   # bold green
-WRONG_TEXT = '\x1b[1;31m'   # bold red
-NORMAL_TEXT = '\x1b[0m'
-BOLD_TEXT = '\x1b[1m'
+
+if sys.platform == 'win32' and os.environ.get('PYCHARM_HOSTED', '0') == '0':
+    class TextProp:
+        HIGHLIGHT = ''
+        COMMENT = ''
+        RIGHT = ''
+        WRONG = ''
+        NORMAL = ''
+        BOLD = ''
+else:
+    class TextProp:
+        HIGHLIGHT = '\x1b[4;31m'
+        COMMENT = '\x1b[34m'
+        RIGHT = '\x1b[1;32m'   # bold green
+        WRONG = '\x1b[1;31m'   # bold red
+        NORMAL = '\x1b[0m'
+        BOLD = '\x1b[1m'
 
 
 def get_original_word(line, exclusions):
@@ -90,21 +102,21 @@ def read_answer(comment=''):
 
 def print_comment(comment):
     if comment:
-        message = '    ' + COMMENT_TEXT + '(' + comment + ')' + NORMAL_TEXT
+        message = '    ' + TextProp.COMMENT + '(' + comment + ')' + TextProp.NORMAL
         print(message)
     else:
         print()
 
 
 def print_right():
-    msg = ' ---> ' + RIGHT_TEXT + 'Right' + NORMAL_TEXT
+    msg = ' ---> ' + TextProp.RIGHT + 'Right' + TextProp.NORMAL
     print(msg)
 
 
 def print_wrong(right_answer):
-    msg = ' ---> ' + WRONG_TEXT + 'Wrong' + NORMAL_TEXT
+    msg = ' ---> ' + TextProp.WRONG + 'Wrong' + TextProp.NORMAL
     print(msg)
-    msg = ' ---> Right answer: ' + BOLD_TEXT + right_answer + NORMAL_TEXT
+    msg = ' ---> Right answer: ' + TextProp.BOLD + right_answer + TextProp.NORMAL
     print(msg)
 
 
@@ -172,7 +184,7 @@ def test_with_gaps(test_word, comment=''):
 @check_test
 def test_with_choice(line, comment=''):
     if comment:
-        comment = COMMENT_TEXT + ' ({})'.format(comment) + NORMAL_TEXT
+        comment = TextProp.COMMENT + ' ({})'.format(comment) + TextProp.NORMAL
     print('Choose right variant{}:'.format(comment))
     checker = re.compile(r'[^\[\]\|]+')
     answers = [line[m.span()[0]:m.span()[1]].strip() for m in checker.finditer(line)]
@@ -207,7 +219,7 @@ def test_with_small_choice(test_word, comment=''):
         letters = test_word[i:j].strip('[]').split('|')
         orig_word += letters[0]
         random.shuffle(letters)
-        quest_word += HIGHLIGHT_TEXT + '/'.join(letters) + NORMAL_TEXT
+        quest_word += TextProp.HIGHLIGHT + '/'.join(letters) + TextProp.NORMAL
         cur = j
     orig_word += test_word[cur:]
     quest_word += test_word[cur:]
