@@ -132,8 +132,7 @@ def read_test_words(file_name):
                 description += line.lstrip(' \t#')
             else:
                 the_first_line = False
-            if comment_checker.match(line)\
-                    or empty_checker.match(line):
+            if comment_checker.match(line) or empty_checker.match(line):
                 continue
             line_comment = line.split('#', 1)
             line, comment = line_comment if len(line_comment) == 2 else (line_comment[0], '')
