@@ -302,7 +302,7 @@ def main():
     print('=' * 80)
 
     gaps_checker = re.compile(r'\[[^\[\]\|]*\]')
-    small_choice_checker = re.compile(r'\[[^\[\]\|]+\|[^\[\]\|]+\]')
+    small_choice_checker = re.compile(r'\[[^\[\]]+\]')
     stress_checker = re.compile(r'[аоыэуяёіею]ʼ')
     translate_checker = re.compile(r'->')
     answer_stat.time = time.time()
