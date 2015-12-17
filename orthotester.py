@@ -18,9 +18,6 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
-__author__ = 'Maksim Tomkowicz'
-
-
 import os
 import re
 import sys
@@ -29,6 +26,9 @@ import random
 import argparse
 import datetime
 import traceback
+
+
+__author__ = 'Maksim Tomkowicz'
 
 
 parser = argparse.ArgumentParser(description='Helper for training for central testing')
