@@ -43,4 +43,7 @@
 Дрэнны муж — малая бяда, благая жонка — вялікая -> Res mala vir malus est, mala femina pessima res est
 Помні, як доўга цягнецца зіма -> Cogitato, quam longa sit hiems
 Канец вянчае дзела -> Finis coronat opus
-# 33
+Грош гроша нажывае -> Nummus nummum parit
+Ваўкі пабачылі мяне першымі -> Lupi me viderunt priores
+# 35
+У мутнай вадзе чэрці водзяцца -> Ab aqua silente cave
