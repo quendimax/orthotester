@@ -46,7 +46,7 @@
 Грош гроша нажывае -> Nummus nummum parit
 Ваўкі пабачылі мяне першымі -> Lupi me viderunt priores
 # 35
-Сцеражыся мутнай вады -> Ab aqua silente cave
+Сцеражыся ціхай вады -> Ab aqua silente cave
 Мыць эфіёпа -> Aethiopem lavare
 Помні, што ты чалавек -> Te hominem esse memento
 Што маем, не шануем -> Quod habet, non numerat
