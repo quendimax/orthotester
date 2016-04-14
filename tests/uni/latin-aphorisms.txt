@@ -58,4 +58,13 @@
 Помні пра смерць -> Memento mori
 Здаравейшы за рыбу -> Sanior est pisce
 Колькі людзей, столькі думак -> Quot homines, tot sententiae
-#45
+# 45
+Даручаць ваўку барана -> Ovem lupo committere
+Запас не нястача -> Copia non est inopia
+Чый край, таго і мова -> Cujus regio, ejus lingua
+Пад гэтым знакам пераможаш -> In hoc signo vinces
+Цярпенне ўсё перамагае -> Patientia omnia vincit
+# 50
+
+Аўрора — Музам сяброўка -> Aurora Musis amica est
+Майстрам робяцца ў справе -> Fabricando fit faber
