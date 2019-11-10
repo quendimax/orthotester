@@ -17,6 +17,7 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
+# pylint: disable=missing-docstring
 
 import os
 import re
@@ -31,13 +32,13 @@ import traceback
 __author__ = 'Maksim Tomkowicz'
 
 
-parser = argparse.ArgumentParser(description='Helper for training for central testing')
-parser.add_argument('input', nargs='+', type=str, help='the list of test files')
-parser.add_argument('--check', action='store_true', help='just check all tests for correct (it ignores -n)')
-parser.add_argument('--no-random', action='store_true', help='switch off random of tests')
-parser.add_argument('-n', '--number-of-tests', type=int, metavar='N', default=0,
+PARSER = argparse.ArgumentParser(description='Helper for training for central testing')
+PARSER.add_argument('input', nargs='+', type=str, help='the list of test files')
+PARSER.add_argument('--check', action='store_true', help='just check all tests for correct (it ignores -n)')
+PARSER.add_argument('--no-random', action='store_true', help='switch off random of tests')
+PARSER.add_argument('-n', '--number-of-tests', type=int, metavar='N', default=0,
                     help='how many tests you want to pass. 0 means every test.')
-config = parser.parse_args()
+CONFIG = PARSER.parse_args()
 
 
 class AnswerStatistic:
@@ -51,7 +52,7 @@ class AnswerStatistic:
         self.time = 0
 
 
-answer_stat = AnswerStatistic()
+ANSWER_STAT = AnswerStatistic()
 
 
 if sys.platform == 'win32' and os.environ.get('PYCHARM_HOSTED', '0') == '0':
@@ -113,11 +114,53 @@ def print_right():
     print(msg)
 
 
-def print_wrong(right_answer):
-    msg = ' ---> ' + TextProp.WRONG + 'Wrong' + TextProp.NORMAL
+def print_wrong(right_answer, wrong_position, answer_marks, right_marks):
+    msg = ' ---> ' + TextProp.WRONG + 'Wrong' + (' ' * wrong_position) + answer_marks + TextProp.NORMAL
     print(msg)
     msg = ' ---> Right answer: ' + TextProp.BOLD + right_answer + TextProp.NORMAL
     print(msg)
+    msg = '                    ' + TextProp.RIGHT + right_marks + TextProp.NORMAL
+    print(msg)
+
+
+def get_diff(answer, right):
+    matrix = []
+    for _ in range(len(answer) + 1):
+        matrix.append([0] * (len(right) + 1))
+
+    for i, answer_char in enumerate(answer):
+        for j, right_char in enumerate(right):
+            if answer_char == right_char:
+                matrix[i + 1][j + 1] = matrix[i][j] + 1
+            else:
+                matrix[i + 1][j + 1] = max(matrix[i][j + 1], matrix[i + 1][j])
+
+    answer_marks = ''
+    right_marks = ''
+    i = len(answer)
+    j = len(right)
+    while i > 0 or j > 0:
+        if i > 0 and j > 0 and answer[i - 1] == right[j - 1]:
+            answer_marks = ' ' + answer_marks
+            right_marks = ' ' + right_marks
+            i, j = i - 1, j - 1
+        elif i > 0 and (j == 0 or matrix[i - 1][j] >= matrix[i][j - 1]):
+            answer_marks = '-' + answer_marks
+            i -= 1
+        elif j > 0 and (i == 0 or matrix[i - 1][j] < matrix[i][j - 1]):
+            right_marks = '+' + right_marks
+            j -= 1
+
+    return answer_marks, right_marks
+
+
+def check_answer(answer, right_answer, extra_indent=0):
+    if answer != right_answer:
+        answer_marks, right_marks = get_diff(answer, right_answer)
+        print_wrong(right_answer, extra_indent, answer_marks, right_marks)
+        return False
+    print_right()
+    return True
 
 
 def read_test_words(file_name):
@@ -125,9 +168,9 @@ def read_test_words(file_name):
     comment_checker = re.compile(r'^\s*#')
     empty_checker = re.compile(r'^\s*$')
     description = ''
-    with open(file_name, 'rt', encoding='utf-8') as f:
+    with open(file_name, 'rt', encoding='utf-8') as fd:
         the_first_line = True
-        for line in f.readlines():
+        for line in fd.readlines():
             if the_first_line and comment_checker.match(line):
                 description += line.lstrip(' \t#')
             else:
@@ -141,29 +184,28 @@ def read_test_words(file_name):
 
 
 def get_random_lines(lines, random_on=True):
-    if config.number_of_tests == 0:
-        config.number_of_tests = len(lines)
+    if CONFIG.number_of_tests == 0:
+        CONFIG.number_of_tests = len(lines)
     else:
-        config.number_of_tests = min(config.number_of_tests, len(lines))
+        CONFIG.number_of_tests = min(CONFIG.number_of_tests, len(lines))
 
     if random_on:
         rand = random.SystemRandom()
-        lines = rand.sample(lines, config.number_of_tests)
+        lines = rand.sample(lines, CONFIG.number_of_tests)
     else:
-        lines = lines[:config.number_of_tests]
+        lines = lines[:CONFIG.number_of_tests]
     return lines
 
 
 def check_test(func):
-    if config.check:
+    if CONFIG.check:
         return lambda word, comment='': True
-    else:
-        return func
+    return func
 
 
 @check_test
 def test_with_gaps(test_word, comment=''):
-    checker = re.compile(r'\[[^\[\]\|]*\]')
+    checker = re.compile(r'\[[^\[\]|]*\]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
 
     orig_word = get_original_word(test_word, exclusions)
@@ -172,12 +214,7 @@ def test_with_gaps(test_word, comment=''):
     print('Question:     %s' % quest_word, end='')
     print_comment(comment)
     answer = read_answer('Your answer:  ')
-    if answer == orig_word:
-        print_right()
-        return True
-    else:
-        print_wrong(orig_word)
-        return False
+    return check_answer(answer, orig_word, 3)
 
 
 @check_test
@@ -185,7 +222,7 @@ def test_with_choice(line, comment=''):
     if comment:
         comment = TextProp.COMMENT + ' ({})'.format(comment) + TextProp.NORMAL
     print('Choose right variant{}:'.format(comment))
-    checker = re.compile(r'[^\[\]\|]+')
+    checker = re.compile(r'[^\[\]|]+')
     answers = [line[m.span()[0]:m.span()[1]].strip() for m in checker.finditer(line)]
     right_answer = answers[0]
     random.shuffle(answers)
@@ -196,12 +233,7 @@ def test_with_choice(line, comment=''):
         answer = answers[int(answer) - 1]
     except ValueError:
         pass
-    if answer == right_answer:
-        print_right()
-        return True
-    else:
-        print_wrong(right_answer)
-        return False
+    return check_answer(answer, right_answer)
 
 
 @check_test
@@ -226,12 +258,7 @@ def test_with_small_choice(test_word, comment=''):
     print('Question:     %s' % quest_word, end='')
     print_comment(comment)
     answer = read_answer('Your answer:  ')
-    if answer == orig_word:
-        print_right()
-        return True
-    else:
-        print_wrong(orig_word)
-        return False
+    return check_answer(answer, orig_word, 3)
 
 
 @check_test
@@ -243,12 +270,7 @@ def test_with_stress(test_word, comment=''):
     print('Put the stress: {}'.format(quest_word), end='')
     print_comment(comment)
     answer = read_answer('Your answer:    ')
-    if answer == orig_word:
-        print_right()
-        return True
-    else:
-        print_wrong(orig_word)
-        return False
+    return check_answer(answer, orig_word, 5)
 
 
 @check_test
@@ -258,54 +280,48 @@ def test_with_translation(line, comment=''):
     orig_word = line[:match.span()[0]].strip()
     translation = line[match.span()[1]:].strip()
 
-    print('Translate:  {}'.format(orig_word), end='')
+    print('Translate:   {}'.format(orig_word), end='')
     print_comment(comment)
-    answer = read_answer('You answer: ')
-    if answer == translation:
-        print_right()
-        return True
-    else:
-        print_wrong(translation)
-        return False
+    answer = read_answer('Your answer: ')
+    return check_answer(answer, translation, 2)
 
 
 def print_results():
-    elapsed_time = datetime.timedelta(seconds=time.time()-answer_stat.time)
-    print()
+    elapsed_time = datetime.timedelta(seconds=time.time() - ANSWER_STAT.time)
     print('=' * 80)
-    print('Done {} tests from {}'.format(answer_stat.done, answer_stat.quantity))
+    print('Done {} tests from {}'.format(ANSWER_STAT.done, ANSWER_STAT.quantity))
     print('Elapsed time: {}'.format(elapsed_time))
-    print('\nRight answers: {:d} ({:.1%})'.format(answer_stat.right, answer_stat.right / answer_stat.done))
-    print('Wrong answers: {:d} ({:.1%})'.format(answer_stat.wrong, answer_stat.wrong / answer_stat.done))
+    print('\nRight answers: {:d} ({:.1%})'.format(ANSWER_STAT.right, ANSWER_STAT.right / ANSWER_STAT.done))
+    print('Wrong answers: {:d} ({:.1%})'.format(ANSWER_STAT.wrong, ANSWER_STAT.wrong / ANSWER_STAT.done))
     print('=' * 80)
 
 
 def main():
     print('=' * 80)
     lines = []
-    for file_input in config.input:
+    for file_input in CONFIG.input:
         cur_lines, description = read_test_words(file_input)
         lines += cur_lines
         description = '* ' + description.strip('\n').replace('\n', '\n  ')
         print(description)
 
-    answer_stat.right = 0
-    answer_stat.wrong = 0
-    answer_stat.done = 0
-    answer_stat.all = len(lines)
+    ANSWER_STAT.right = 0
+    ANSWER_STAT.wrong = 0
+    ANSWER_STAT.done = 0
+    ANSWER_STAT.all = len(lines)
 
-    if not config.check:
-        lines = get_random_lines(lines, random_on=not config.no_random)
-    answer_stat.quantity = len(lines)
+    if not CONFIG.check:
+        lines = get_random_lines(lines, random_on=not CONFIG.no_random)
+    ANSWER_STAT.quantity = len(lines)
 
-    print('Starting of {n} tests from {all}'.format(n=answer_stat.quantity, all=answer_stat.all))
+    print('Starting of {n} tests from {all}'.format(n=ANSWER_STAT.quantity, all=ANSWER_STAT.all))
     print('=' * 80)
 
-    gaps_checker = re.compile(r'\[[^\[\]\|]*\]')
+    gaps_checker = re.compile(r'\[[^\[\]|]*\]')
     small_choice_checker = re.compile(r'\[[^\[\]]+\]')
     stress_checker = re.compile(r'[аоыэуяёіею]ʼ')
     translate_checker = re.compile(r'->')
-    answer_stat.time = time.time()
+    ANSWER_STAT.time = time.time()
 
     for line, comment in lines:
         if gaps_checker.search(line):
@@ -320,10 +336,10 @@ def main():
             is_right = test_with_translation(line, comment)
         else:
             raise Exception('Unknown test: "{}"'.format(line))
-        answer_stat.right += int(is_right)
-        answer_stat.wrong += int(not is_right)
-        answer_stat.done += 1
-        if not config.check:
+        ANSWER_STAT.right += int(is_right)
+        ANSWER_STAT.wrong += int(not is_right)
+        ANSWER_STAT.done += 1
+        if not CONFIG.check:
             print('_' * 80, end='\n\n')
 
     print_results()
