@@ -1,0 +1,40 @@
+# Capitulum II. Familia Romana. Vocabula nova
+
+мужчына -> vir, viri m
+жанчына -> femina
+хлопчык -> puer, eri m
+дзяўчынка -> puella
+сямʼя -> familia
+бацька -> pater, tris m
+маці -> mater, tris f
+сын -> filius
+дачка -> filia
+дзеці -> liberi, orum m
+раб -> servus
+гаспадар -> dominus
+служанка -> ancilla
+гаспадыня -> domina
+кніга -> liber, bri m
+назва -> titulus
+старонка -> pagina
+
+старажытны -> antiquus
+новы -> novus
+астатнія -> ceteri
+мой -> meus
+твой -> tuus
+
+сто -> centum
+дзве -> duae
+тры -> tria  # feminae
+
+і-постфікс -> -que
+хто? -> quis?  # m
+хто? -> quae?  # f
+чый? -> cuius?
+колькі? -> quot?
+
+мужчынскі -> masculinum  # род
+жаночы -> femininum  # род
+ніякі -> neutrum  # род
+родны -> genetivus  # склон

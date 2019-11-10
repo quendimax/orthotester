@@ -1,0 +1,81 @@
+# Praesentis indicativi activi
+
+# laudo, 1
+хвалю -> laudo
+хваліш -> laudas
+хваліць -> laudat
+хвалім -> laudamus
+хваліце -> laudatis
+хваляць -> laudant
+
+# numero, 1
+лічу -> numero
+лічыш -> numeras
+лічыць -> numerat
+лічым -> numeramus
+лічыце -> numeratis
+лічаць -> numerant
+
+# doceo, 2
+навучаю -> doceo
+навучаеш -> doces
+навучае -> docet
+навучаем -> docemus
+навучаеце -> docetis
+навучаюць -> docent
+
+# timeo, ui, ‐, 2
+баюся -> timeo
+баішся -> times
+баіцца -> timet
+баімся -> timemus
+баіцёся -> timetis
+баяцца -> timent
+
+# scribo, 3а
+пішу -> scribo
+пішаш -> scribis
+піша -> scribit
+пішам -> scribimus
+пішаце -> scribitis
+пішуць -> scribunt
+
+# veho, vexi, vectum, 3
+вязу -> veho
+вязеш -> vehis
+вязе -> vehit
+вязём -> vehimus
+везяцё -> vehitis
+вязуць -> vehunt
+
+# facio, 3б
+раблю -> facio
+робіш -> facis
+робіць -> facit
+робім -> facimus
+робіце -> facitis
+робяць -> faciunt
+
+# carpio, 3б
+збіраю -> carpio
+збіраеш -> carpis
+збірае -> carpit
+збіраем -> carpimus
+збіраеце -> carpitis
+збіраюць -> carpiunt
+
+# audio, 4
+слухаю -> audio
+слухаеш -> audis
+слухае -> audit
+слухаем -> audimus
+слухаеце -> auditis
+слухаюць -> audiunt
+
+# venio, 4
+прыходжу -> venio
+прыходзіш -> venis
+прыходзіць -> venit
+прыходзім -> venimus
+прыходзіце -> venitis
+прыходзяць -> veniunt

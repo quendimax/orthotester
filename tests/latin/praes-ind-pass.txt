@@ -1,0 +1,45 @@
+# Praesentis indicativi passivi
+
+# laudo, 1
+хвалюся -> laudor
+хвалішся -> laudaris
+хваліцца -> laudatur
+хвалімся -> laudamur
+хваліцеся -> laudamini
+хваляцца -> laudantur
+
+
+# doceo, 2
+навучаюся -> doceor
+навучаешся -> doceris
+навучаецца -> docetur
+навучаемся -> docemur
+навучаецеся -> docemini
+навучаюцца -> docentur
+
+
+# scribo, 3а
+пішуся -> scribor
+пішашся -> scriberis
+пішацца -> scribitur
+пішамся -> scribimur
+пішацеся -> scribimini
+пішуцца -> scribuntur
+
+
+# facio, 3б
+раблюся -> facior
+робішся -> faceris
+робіцца -> facitur
+робімся -> facimur
+робіцеся -> facimini
+робяцца -> faciuntur
+
+
+# audio, 4
+слухаюся -> audior
+слухаешся -> audiris
+слухаецца -> auditur
+слухаемся -> audimur
+слухаецеся -> audimini
+слухаюцца -> audiuntur

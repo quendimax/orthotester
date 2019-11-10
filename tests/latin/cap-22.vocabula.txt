@@ -1,0 +1,64 @@
+# Capitulum XXII. Cave canem. Vocabula nova
+
+дзверы -> foris, is f
+парог -> limen, inis n
+завеса -> cardo, inis m
+брамнік -> ianitor, oris m  # = ostiarius
+ланцуг -> catena
+золата -> aurum
+драўніна -> lignum
+рамеснік -> faber, bri m
+пасыльны -> tabellarius
+выява -> imago, inis f
+плашч -> pallium
+
+дзікі -> ferox, ocis  # ferus
+жалезны -> ferreus
+залаты -> aureus
+драўляны -> ligneus
+
+круціцца -> vertor, versus sum, verti
+пільнаваць -> custodio, custodivi, custoditum, custodire
+прапускаць -> admitto, admisi, admissum, admittere
+звязваць, прыкоўваць -> vincio, vinxi, vinctum, vincire
+зачыняць, закрываць -> claudo, clausi, clausum, claudere
+распытваць -> rogito, rogitavi, rogitatum, rogitare
+гыркаць -> fremo, fremui, fremitum, fremere
+кусаць -> mordeo, momordi, morsum, mordere
+стрымліваць -> retineo, retinui, retentum, retinere
+сцерагчыся -> caveo, cavi, cautum, cavere
+нагадваць -> moneo, monui, monitum, monere
+спыняцца -> resisto, restiti, —, resistere  # = consisto
+развязваць -> solvo, solvi, solutum, solvere
+пужаць -> terreo, terrui, territum, terrere
+падыходзіць -> accedo, accessi, accessum, accedere
+скакаць -> salio, salui, saltum, salire
+ірваць, ламаць -> rumpo, rupi, ruptum, rumpere
+ісці -> cedo, cessi, cessum, cedere  # = eo, ire
+хапаць -> prehendo, prehendi, prehensum, prehendere
+адыходзіць назад -> recedo, recessi, recessum, recedere
+праходзіць уперад -> procedo, processi, processum, procedere
+дазваляць -> sino, sivi (sii), situm, sinere
+высмейваць -> derideo, derisi, derisum, deridere
+дрыжаць -> tremo, tremui, —, tremere
+гнаць -> pello, pepuli, pulsum, pellere
+выдаляць -> removeo, removi, remotum, removere
+меркаваць, думаць -> arbitror, arbitratus sum, arbitrari  # = puto, putare
+раздзіраць -> scindo, scidi, scissum, scindere
+
+гэты побач з сабой -> iste, ista, istud
+ut sciunt omnes -> scilicet
+раней -> antea
+пазней -> postea  # = deinde
+раней, спачатку -> prius  # adv.
+нарэшце -> tandem
+бліжэй -> propius
+нядаўна -> nuper  # = paulo ante
+знадворку -> foris  # за дзвярмі
+з дому -> foras  # adv.
+так+як -> sicut
+чаму не -> quin  # = cur non
+знадворку -> extra
+унутры -> intra
+
+супін -> supinum

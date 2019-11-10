@@ -1,0 +1,45 @@
+# Comparativus
+
+# Masculina
+
+вышэйшы (Nom-sg-m) -> altior
+вышэйшы (Acc-sg-m) -> altiorem
+вышэйшага (Gen-sg-m) -> altioris
+вышэйшаму (Dat-sg-m) -> altiori
+вышэйшым (Abl-sg-m) -> altiore
+
+вышэйшыя (Nom-pl-m) -> altiores
+вышэйшыя (Acc-pl-m) -> altiores
+вышэйшых (Gen-pl-m) -> altiorum
+вышэйшым (Dat-pl-m) -> altioribus
+вышэйшымі (Abl-pl-m) -> altioribus
+
+
+# Feminina
+
+вышэйшая (Nom-sg-f) -> altior
+вышэйшую (Acc-sg-f) -> altiorem
+вышэйшай (Gen-sg-f) -> altioris
+вышэйшай (Dat-sg-f) -> altiori
+вышэйшай (Abl-sg-f) -> altiore
+
+вышэйшыя (Nom-pl-f) -> altiores
+вышэйшыя (Acc-pl-f) -> altiores
+вышэйшых (Gen-pl-f) -> altiorum
+вышэйшым (Dat-pl-f) -> altioribus
+вышэйшымі (Abl-pl-f) -> altioribus
+
+
+# Neutrum
+
+вышэйшае (Nom-sg-n) -> altius
+вышэйшае (Acc-sg-n) -> altius
+вышэйшага (Gen-sg-n) -> altioris
+вышэйшаму (Dat-sg-n) -> altiori
+вышэйшым (Abl-sg-n) -> altiore
+
+вышэйшыя (Nom-pl-n) -> altiora
+вышэйшыя (Acc-pl-n) -> altiora
+вышэйшых (Gen-pl-n) -> altiorum
+вышэйшым (Dat-pl-n) -> altioribus
+вышэйшымі (Abl-pl-n) -> altioribus

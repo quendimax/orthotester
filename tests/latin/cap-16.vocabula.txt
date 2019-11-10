@@ -1,0 +1,75 @@
+# Capitulum XVI. Tempestas. Vocabula nova
+
+карабель -> navis, is f
+порт -> portus, us m
+вусце -> ostium
+месца -> locus
+бераг -> ora
+тавар -> merx, mercis f
+марак -> nauta
+вецер -> ventus
+бура -> tempestas, atis f
+хваля -> fluctus, us m
+парус -> velum
+карма -> puppis, is f
+стырнавы -> gubernator, oris m
+усход -> oriens, entis m
+захад -> occidens, entis m
+поўнач -> septentriones, um m  # частка свету
+поўдзень -> meridies, ei m  # частка свету
+адкрытае мора -> altum
+гром -> tonitrus, us m
+маланка -> fulgur, uris n
+
+размешчаны -> situs
+верхні -> superus
+ніжні -> inferus
+прыморскі -> maritimus
+ціхі -> tranquillus  # = quietus
+бурны -> turbidus
+процілеглы -> contrarius
+ясны -> serenus
+матавы чорны -> ater, atra, atrum
+
+быць пасярод -> intersum, interfui, —, interesse
+называць -> appello, appellavi, appellatum, appellare  # = nominare
+плыць на караблі -> navigo, navigavi, navigatum, navigare
+уцякаць -> influo, influxi, influxum, influere  # пра раку
+чакаць -> opperior, oppertus sum, opperiri  # = exspectare
+дзьмуць -> flo, flavi, flatum, flare
+хваляваць -> turbo, turbavi, turbatum, turbare
+заліваць -> impleo, implevi, impletum, implere
+выходзіць, выязджаць -> egredior, egressus sum, egredi  # = exire, proficisci
+кіраваць -> guberno, gubernavi, gubernatum, gubernare
+узыходзіць -> orior, ortus sum, oriri  # пра сонца
+падаць, заходзіць -> occido, occidi, occasum, occidere
+падымацца, узыходзіць -> conscendo, conscendi, conscensum, conscendere
+выязджаць -> proficiscor, profectus sum, proficisci  # = abire, egredi
+рухацца следам -> sequor, secutus sum, sequi
+разгледзець, заўважыць -> cerno, crevi, cretum, cernere
+радавацца -> laetor, laetatus sum, laetari  # = gaudere
+баяцца -> vereor, veritus sum, vereri  # depon., = timere
+углядацца -> intueor, intuitus sum, intueri
+слізгацець, скочвацца -> labor, lapsus sum, labi
+абдымаць -> complector, complexus sum, complecti
+суцяшаць -> consolor, consolatus sum, consolari
+гаварыць -> loquor, locutus sum, loqui  # = dicere
+заклікаць -> invoco, invocavi, invocatum, invocare
+кідаць і кідаць -> iacto, iactavi, iactatum, iactare
+вычэрпваць -> haurio, hausi, haustum, haurire
+ратаваць -> servo, servavi, servatum, servare
+спрабаваць -> conor, conatus sum, conari
+рабіцца -> fio, factus sum, fieri
+робіцца -> fit
+робяцца -> fiunt
+
+мала -> paulum
+усягды -> semper
+адначасова -> simul
+ледзь -> vix
+апрача таго -> praeterea
+ізноў -> iterum  # = rursus
+ці еслі -> sive
+праўда, аднак -> vero
+з прычыны -> propter
+адкладальны (дзеяслоў) -> deponens

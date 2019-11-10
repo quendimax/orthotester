@@ -1,0 +1,17 @@
+# Declinatio quatra
+
+# Masculinum: dies, meridies
+
+дзень (Nom-sg) -> dies
+дзень (Acc-sg) -> diem
+дня (Gen-sg) -> diei
+дню (Dat-sg) -> diei
+днём (Abl-sg) -> die
+
+дні (Nom-pl) -> dies
+дні (Acc-pl) -> dies
+дзён (Gen-pl) -> dierum
+дням (Dat-pl) -> diebus
+днямі (Abl-pl) -> diebus
+
+

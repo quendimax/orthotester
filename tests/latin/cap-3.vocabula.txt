@@ -1,0 +1,42 @@
+# Capitulum III. Puer improbus. Vocabula nova
+
+сцэна -> scaena
+асоба -> persona
+мама -> mamma
+
+радасны -> laetus
+раздражнёны -> iratus
+прыстойны -> probus
+непрыстойны -> improbus
+
+пяе -> cantat
+бʼе -> pulsat
+рыдае -> plorat
+смяецца -> ridet
+бачыць -> videt  # 3 sg.
+кліча -> vocat
+прыходзіць -> venit  # 3 sg.
+пытае -> interrogat
+адказвае -> respondet
+спіць -> dormit
+слухае -> audit
+лупцуе -> verberat
+
+мяне -> me  # Acc.
+цябе -> te  # Acc.
+яго -> eum  # Acc.
+яе -> eam  # Acc.
+
+і не -> neque
+ужо -> iam
+чаму? -> cur?
+бо -> quia
+тут -> hic
+які -> qui
+якая -> quae
+якога, які -> quem
+якую -> quam
+
+назоўны -> nominativus  # склон
+вінавальны -> accusativus  # склон
+слова, выраз -> verbum

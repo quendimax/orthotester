@@ -1,0 +1,66 @@
+# Capitulum XI. Copus humanum. Vocabula nova
+
+цела -> corpus, oris n
+член -> membrum
+рука -> bracchium
+галёнка -> crus, cruris n
+кісць -> manus, us f
+галава -> caput, itis n
+вуха -> auris, is f
+рот -> os, oris n
+волас -> capillus
+лоб -> frons, frontis f
+шчака -> gena
+мазгі -> cerebrum
+губа -> labrum
+язык -> lingua
+грудзі -> pectus, oris n
+сэрца -> cor, cordis n
+кроў -> sanguis, inis m
+вена -> vena
+колер -> color, oris m
+печань -> iecur, oris n
+страўнік -> venter, tris m
+вантробы -> viscera, um n
+лекар -> medicus
+кубак -> poculum
+нож -> culter, tri m
+
+чалавечы -> humanus
+неразумны -> stultus
+спакойны -> quietus
+чырвоны -> ruber, bra, brum
+здаровы -> sanus
+хворы -> aeger, gra, grum
+наш -> noster, tra, trum
+
+добра -> bene
+блага -> male
+
+цячы -> fluo, fluxi, fluxum, fluere
+лячыць -> sano, sanavi, sanatum, sanare
+сядзець -> sedeo, sedi, sessum, sedere
+стаяць -> sto, steti, statum, stare
+кранаць -> tango, tetigi, tactum, tangere
+запрашаць, прыносіць -> arcesso, arcessivi, arcessitum, arcessere
+загадваць -> iubeo, iussi, iussum, iubere
+вяртацца -> revenio, reveni, reventum, revenire  # = redeo
+хварэць -> aegroto, —, —, aegrotare
+гаварыць -> dico, dixi, dictum, dicere
+аглядаць -> specto, spectavi, spectatum, spectare
+балець -> doleo, dolui, —, dolere
+прыкладаць -> appono, apposui, appositum, apponere
+адчуваць -> sentio, sensi, sensum, sentire
+баяцца -> horreo, horrui, —, horrere  # = timeo
+біцца -> palpito, palpitavi, palpitatum, palpitare  # пра сэрца
+уважаць -> puto, putavi, putatum, putare
+радавацца -> gaudeo, gavisus sum, gaudere  # = laetor
+выціраць -> detergeo, detersi, detersum, detergere  # = tergeo
+магчы -> possum, potui, —, posse
+
+толькі -> modo  # = tantum, solum
+над -> super
+знізу, здолу -> infra
+з -> de  # уніз
+і -> atque  # = et
+і не -> nec  # = neque

@@ -1,0 +1,56 @@
+# Capitulum IX. Pastor et oves. Vocabula nova
+
+поле -> campus
+пастух -> pastor, oris m
+сабака -> canis, is m, f
+авечка -> ovis, is f
+яда -> cibus
+трава -> herba
+ручай -> rivus
+хлеб -> panis, is m
+гара -> mons, montis m
+даліна -> vallis, is f
+узгорак -> collis, is m
+дрэва -> arbor, oris f
+лес -> silva
+воўк -> lupus
+сонца -> sol, solis m
+неба -> caelum
+зямля -> terra
+хмара -> nubes, is f
+цень -> umbra
+след -> vestigium
+страх -> timor, oris m
+зуб -> dens, dentis m
+крык -> clamor, oris m
+спосаб -> modus
+
+чорны -> niger, gra, grum
+белы -> albus
+дзевяноста дзевяць -> undecentum
+
+есць -> est
+ядуць -> edunt
+пʼе -> bibit
+свеціць -> lucet
+імкнецца, накіроўваецца; нападае -> petit
+вядзе -> ducit
+ляжыць -> iacet
+пакідае -> relinquit
+брэша -> latrat
+блукае -> errat
+шукае -> quaerit
+знаходзіць -> reperit  # 3 sg.
+вые -> ululat
+мэкае -> balat
+прыбягае -> accurrit
+кладзе на -> imponit
+
+сам -> ipse
+далёка -> procul
+зверху -> supra
+пад -> sub
+пакуль -> dum
+як -> ut
+скланенне -> declinatio, onis f
+скланяе -> declinat

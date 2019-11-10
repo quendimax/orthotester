@@ -1,0 +1,127 @@
+# Capitulum VIII. Taberna Romana. Grammatica
+
+Qu[is] saccum portat? Servus saccum portat. Qu[i] servus?
+Servus qu[i] saccum portat est Syrus.
+I[s]/ill[e] servus saccum portat.
+
+Iulius servum vocat. Qu[em] servum?
+Servus qu[em] Iulius vocat est Syrus.
+Iulius e[um]/ill[um] servum vocat.
+
+Iulius dominus servi est. C[uius] servi?
+Syrus est servus c[uius] dominus Iulius est.
+Iulius dominus e[ius]/ill[ius] servi est.
+
+Iulius servo malum dat. C[ui] servo?
+Servus c[ui] Iulius malum dat est Syrus.
+Iulius e[i]/ill[i] servo malum dat.
+
+Saccus a servo portatur. A qu[o] servo?
+Servus a qu[o] saccus portatur est Syrus.
+Saccus ab e[o]/ill[o] servo portatur.
+
+Servi saccos portant. Qu[i] servi?
+Servi qu[i] saccos portant sunt Syrus et Leander.
+I[i]/ill[i] servi saccos portant.
+
+Iulius servos vocat. Qu[os] servos?
+Servi qu[os] Iulius vocat sunt Syrus et Leander.
+Iulius e[os]/ill[os] servos vocat.
+
+Iulius dominus servorum est. Qu[orum] servorum?
+Servi qu[orum] dominus est Iulius sunt Syrus et Leander.
+Iulius dominus e[orum]/ill[orum] servorum est.
+
+Iulius servis mala dat. Qu[ibus] servis?
+Servi qu[ibus] Iulius mala dat sunt Syrus et Leander.
+I. i[is]/ill[is] servis mala dat.
+
+Sacci a servis portantur. A qu[ibus] servis?
+Servi a qu[ibus] sacci portantur sunt Syrus et Leander.
+Ab i[is]/ill[is] servis sacci portantur.
+
+
+# [B] Femininum
+
+Ancilla abest. Qu[ae] ancilla?
+Ancilla qu[ae] abest est Syra.
+E[a]/ill[a] ancilla abest.
+
+Iulius ancillam vocat. Qu[am] ancillam?
+Ancilla qu[am] Iulius vocat est Syra.
+Iulius e[am]/ill[am] ancillam vocat.
+
+Iulius dominus ancillae est. C[uius] ancillae?
+Syra est ancilla c[uius] dominus Iulius est.
+I. dominus e[ius]/ill[ius] ancillae est.
+
+Iulius ancillae malum dat. C[ui] ancillae?
+Ancilla c[ui] Iulius malum dat est Syra.
+Iulius e[i]/ill[i] ancillae malum dat.
+
+Iulius ab ancilla salutatur. A qu[a] ancilla?
+Ancilla a qu[a] Iulius salutatur est Syra.
+Iulius ab e[a]/ill[a] ancilla salutatur.
+
+Ancillae absunt. Qu[ae] ancillae?
+Ancillae qu[ae] absunt sunt Syra et Delia.
+E[ae]/ill[ae] ancillae absunt.
+
+Iulius ancillas vocat. Qu[as] ancillas?
+Ancillae qu[as] Iulius vocat sunt Syra et Delia.
+Iulius e[as]/ill[as] ancillas vocat.
+
+Iulius dominus ancillarum est. Qu[arum] ancillarum?
+Ancillae qu[arum] dominus est Iulius sunt Syra et Delia.
+Iulius dominus e[arum]/ill[arum] ancillarum est.
+
+Iulius ancillis mala dat. Qu[ibus] ancillis?
+Ancillae qu[ibus] Iulius mala dat sunt Syra et Delia.
+I. i[is]/ill[is] ancillis mala dat.
+
+Iulius ab ancillis salutatur. A qu[ibus] ancillis?
+Ancillae a qu[ibus] Iulius salutatur sunt Syra et Delia.
+Ab i[is]/ill[is] ancillis Iulius salutatur.
+
+
+# [C] Neutrum
+
+Qu[id] est anulus? Anulus est ornamentum. Qu[od] ornamentum?
+Anulus est ornamentum qu[od] digitum ornat.
+I[d]/ill[ud] ornamentum pulchrum est.
+
+Qu[id] Lydia in collo habet? Ornamentum habet. Qu[od] ornamentum?
+Ornamentum qu[od] Lydia in collo habet est linea margaritarum.
+Lydia i[d]/ill[ud] ornamentum amat.
+
+Pretium ornamenti est HS C. C[uius] ornamenti?
+Ornamentum c[uius] pretium est HS C est anulus.
+Pretium e[ius]/ill[ius] ornamenti est HS C.
+
+Fluvius oppido aquam dat. C[ui] oppido?
+Oppidum c[ui] fluvius aquam dat est Capua.
+Fluvius e[i]/ill[i] oppido aquam dat.
+
+Cornelius in parvo oppido habitat. In qu[o] oppido?
+Oppidum in qu[o] Cornelius habitat est Tusculum.
+In e[o]/ill[o] oppido habitat Cornelius.
+
+Qu[ae] oppida prope Romam sunt?
+Ostia et Tusculum sunt oppida qu[ae] prope Romam sunt.
+E[a]/ill[a] oppida prope Romam sunt.
+
+Albinus ornamenta vendit. Qu[ae] ornamenta?
+Ornamenta qu[ae] A. vendit sunt anuli.
+E[a]/ill[a] ornamenta vendit A.
+
+Pretium ornamentorum est HS C. Qu[orum] ornamentorum?
+Ornamenta qu[orum] pretium est HS C anuli sunt.
+Pretium e[orum]/ill[orum] ornamentorum est HS C.
+
+Fluvii oppidis aquam dant. Qu[ibus] oppidis?
+Oppida qu[ibus] fluvii aquam dant sunt Capua et Brundisium.
+Fluvii i[is]/ill[is] oppidis aquam dant.
+
+Feminae ornamentis delectantur. Qu[ibus] ornamentis?
+Ornamenta qu[ibus] feminae delectantur sunt margaritae et gemmae.
+I[is]/ill[is] ornamentis delectantur feminae.

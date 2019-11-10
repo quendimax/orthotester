@@ -1,0 +1,45 @@
+# Capitulum VIII. Taberna Romana. Vocabula nova
+
+крама -> taberna
+каштоўны камень -> gemma
+перліна -> margarita
+крамнік -> tabernarius
+аздабленне -> ornamentum
+персцень -> anulus
+нітка -> linea
+палец -> digitus
+шыя -> collum
+цана -> pretium
+сэстэрцый -> sestertius
+багатыр -> pecuniosus
+
+аздоблены каштоўнымі камянямі -> gemmatus
+сярэдні -> medius
+
+чацвёрты -> quartus
+дваццаць -> viginti
+восемдзясят -> octoginta
+дзевяноста -> nonaginta
+
+прадае -> vendit
+спыняецца -> consistit
+купляе -> emit
+глядзіць -> aspicit
+адыходзіць -> abit  # 3 sg.; = discedit
+дастае -> accipit  # ад некага
+аздабляе -> ornat
+крычыць -> clamat
+паказвае -> monstrat
+дэманструе -> ostendit
+каштуе -> constat
+пасуе -> convenit
+
+іншы, другі -> alius
+гэны, той -> ille
+такі вялікі -> tantus
+які вялікі -> quantus
+даволі, досыць -> satis  # adv.
+занадта -> nimis
+ці, або -> aut
+
+займеннік -> pronomen, inis n

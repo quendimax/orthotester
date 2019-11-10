@@ -1,0 +1,39 @@
+# Capitulum I. Imperivum Romanum. Vocabula nova
+
+раздзел -> capitulum  # кнігі
+склад -> syllaba  # слова
+прыклад -> exemplum
+заданне -> pensum
+
+малы -> parvus
+грэцкі -> Graecus
+рымскі -> Romanus
+лацінскі -> Latinus
+шматлікія -> multi
+нешматлікія -> pauci
+
+адзін -> unus
+два -> duo
+тры -> tres  # viri
+шэсць -> sex
+тысяча -> mille
+першы -> primus
+другі -> secundus
+трэці -> tertius
+
+ёсць -> est  # ён, яна, яно
+ёсць -> sunt  # яны
+
+у -> in
+і -> et
+але -> sed
+не -> non
+таксама -> quoque   # == etiam
+пытальны постфікс -> -ne
+дзе? -> ubi?
+ці? хіба? няўжо? -> num?
+што? -> quid?
+
+граматыка -> grammatica
+адзіночны -> singularis, e  # лік
+множны -> pluralis, e  # лік

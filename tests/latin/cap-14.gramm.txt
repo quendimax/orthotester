@@ -1,0 +1,16 @@
+# Capitulum XIV. Novus dies. Grammatica
+# Participium
+
+Puer vigil[ans] in lecto iac[ens] gallum can[entem] audit.
+Gallus can[ens] non auditur a puero dorm[iente].
+Puer dorm[iens] servum clam[antem] audit, nec a gallo can[ente], sed a servo clam[ante] excitatur.
+Non vox galli can[entis], sed vox servi clam[antis] puerum dorm[ientem] excitat.
+
+Pueri vigil[antes] gallos can[entes] audiunt.
+Galli can[entes] a pueris dorm[ientibus] non audiuntur.
+Pueri dorm[ientes] servos clam[antes] audiunt, nec a gallis can[entibus], sed a servis clam[antibus] excitantur.
+Non voces gallorum can[entium], sed voces servorum clam[antium] pueros dorm[ientes] excitant.
+
+Caput val[ens] non dolet nec membra val[entia].
+Canis animal vol[ans] non est; animalia vol[antia] sunt aves.
+Milites inter pila vol[antia] pugnant.

@@ -1,0 +1,58 @@
+# Capitulum XIX. Maritus et uxor. Vocabula nova
+
+жонка -> uxor, oris f
+муж -> maritus
+калона -> columna
+статуя -> signum
+страха -> tectum
+багіня -> dea
+малжонак, -ка -> coniunx, iugis m, f
+матрона -> matrona
+каханне -> amor, oris m
+прыгажосць -> pulchritudo, inis f
+малады чалавек -> adulescens, entis m
+дзяўчына -> virgo, inis f
+дом -> domus, us f
+храм -> templum
+плошча -> forum
+дар -> donum
+кветка -> flos, floris m
+патрэба -> opus n  # indecl.
+
+лепшы -> melior, ius
+горшы -> peior, ius
+найлепшы -> optimus
+найгоршы -> pessimus
+большы, старэйшы -> maior, ius
+меншы, малодшы -> minor, minus
+найбольшы, найстарэйшы -> maximus
+найменшы, наймаладзейшы -> minimus
+раскошны -> magnificus
+больш шматлікія -> plures, a
+найбольш шматлікія -> plurimi
+багаты -> dives, itis
+бедны -> pauper, eris
+няшчасны -> miser, era, erum
+шчаслівы -> beatus
+дастойны -> dignus
+стройны -> gracilis, e
+дваццаты -> vicesimus
+
+збірацца -> convenio, conveni, conventum, convenire
+валодаць -> possideo, possedi, possessum, possidere
+адсылаць -> mitto, misi, missum, mittere
+перасылаць -> remitto, remisi, remissum, remittere
+цалаваць -> osculor, osculatus sum, osculari
+памяншаць -> minuo, minui, minutum, minuere
+павялічваць -> augeo, auxi, auctum, augere
+
+мой -> mi  # Voc.
+хоць які, любы -> ullus
+аднак -> tamen
+штодня -> cotidie
+меней -> minus
+болей -> plus
+у адносінах да -> erga
+
+цяперашні час -> praesens, entis n
+прошлы час -> praeteritum

@@ -1,0 +1,57 @@
+# Capitulum XX. Parentes. Vocabula nova
+
+немаўля -> infans, antis m, f
+калыска -> cunae, arum f
+сон -> somnus
+малако -> lac, lactis n
+замужняя жанчына -> mulier, eris f
+карміцелька -> nutrix, icis f
+шаг -> gradus, us m
+гутарка -> sermo, onis m  # = colloquium
+дачушка -> filiola
+сыночак -> filiolus
+размова -> colloquium  # = sermo
+абавязак -> officium
+маўчанне -> silentium
+
+маленькі -> parvulus
+патрэбны -> necessarius
+чужы -> alienus
+будучы -> futurus
+вільготны -> umidus
+
+гаварыць -> for, fatus sum, fari  # = loqui, dicere
+быць пазбаўленым -> careo, carui, cariturus, carere
+прасіць -> postulo, postulavi, postulatum, postulare  # = posco, poscere
+плакаць -> vagio, vagivi, vagitum, vagire  # пра немаўля
+карміць -> alo, alui, alitum (altum), alere
+гаварыць між сабой -> colloquor, collocutus sum, colloqui
+хачу -> volo  # velle 1-sg
+хочаш -> vis  # velle 2-sg
+хочам -> volumus  # velle 1-pl
+хочаце -> vultis  # velle 2-pl
+заставацца -> maneo, mansi, mansum, manere
+працягваць -> pergo, perrexi, perrectum, pergere
+клапаціцца -> curo, curavi, curatum, curare
+быць павінным -> debeo, debui, debitum, debere
+ляцець насустрач -> occurro, occurri, occursum, occurrere
+маўчаць -> sileo, silui, —, silere  # = taceo, tacere
+прывозіць -> adveho, advexi, advectum, advehere
+вяртацца -> revertor, reversus sum, reverti  # = red-īre
+любіць, шанаваць -> diligo, dilexi, dilectum, diligere
+быть вартым -> deceo, decui, —, decere
+не хацець -> nolo, nolui, —, nolle
+
+увечары -> vesperi  # adv. = Loc.
+domus -> domo  # Abl. sg.
+неўзабаве -> mox
+болей -> magis  # = plus
+рэдка -> raro
+заўтра -> cras
+у кірунку -> adversus, ad...versus
+не хаці -> noli
+не хаціце -> nolite
+ці еслі...ці еслі -> sive...sive
+вядома -> profecto  # = certe
+вядома не! -> minime!
+разам з -> una cum

@@ -1,0 +1,25 @@
+# Capitulum X. Bestiae et homines. Pensum B
+
+Leo et aquila [bestiae] sunt. Viri et feminae [homines] sunt.
+Mercurius non homo, sed [deus] est.
+In aqua sunt [pisces].
+In aere sunt [aves].
+Quid agunt pisces et aves? Pisces in aqua [natant], aves in aere [volant].
+Avis duas [alas] habet, itaque avis volare [potest].
+Avis quae volat alas [movet].
+Cum homo ambulat, [pedes] moventur.
+Cum homo [spirat], anima in [pulmones] intrat.
+Homo qui spirat [vivus] est, qui non spirat [mortuus] est.
+Nam sine anima [nemo] vivere potest.
+Spirare homini [necesse] est.
+
+Iulia [canit].  # = cantat
+Iulia [vocem] pulchram habet.
+Pueri [nidos] quaerunt.
+Nidi sunt inter [ramos] et folia arborum.
+In nidis avium sunt [ova] aut pulli.
+Aves non pullos vivos, sed ova [pariunt].
+Quintus in arborem [ascendit] et IV [pullos] videt in nido.
+Ramus qui nidum [sustinet] tenuis est.
+Ramus tenuis puerum [crassum] sustinere non potest: Quintus ad terram [cadit].
+Marcus eum cadere videt et [perterritus] est.

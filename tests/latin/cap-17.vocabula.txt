@@ -1,0 +1,66 @@
+# Capitulum XVII. Numeri difficiles. Vocabula nova
+
+адказ -> responsum
+ас -> as, assis m
+дэнарый -> denarius
+
+адукаваны -> doctus
+неадукаваны -> indoctus
+лянівы -> piger, gra, grum
+разумны -> prudens
+старанны -> industrius
+правільны -> rectus
+памылковы -> pravus
+просты -> facilis, e
+трудны -> difficilis, e
+адсутны -> absens
+пэўны -> certus
+няпэўны -> incertus
+шчодры -> largus
+соты -> centesimus
+
+трынаццаць -> tredecim
+чатырнаццаць -> quattuordecim
+пятнаццаць -> quindecim
+шаснаццаць -> sedecim
+сямнаццаць -> septendecim
+васемнаццаць -> duodeviginti
+дзевятнаццаць ->undeviginti
+сорак -> quadraginta
+пяцьдзясят -> quinquaginta
+семдзясят -> septuaginta
+чатырыста -> quadringenti
+пяцьсот -> quingenti
+шэсцьсот -> sescenti
+семсот -> septingenti
+восемсот -> octingenti
+дзевяцьсот -> nongenti
+
+вучыцца -> disco, didici, —, discere
+навучаць -> doceo, docui, doctum, docere
+знаць -> scio, scivi, scitum, scire
+не знаць -> nescio, nescivi, nescitum, nescire
+падымаць (дагары) -> tollo, sustuli, sublatum, tollere
+перапыняць -> interpello, interpellavi, interpellatum, interpellare
+хваліць -> laudo, laudavi, laudatum, laudare
+думаць -> cogito, cogitavi, cogitatum, cogitare
+ганіць -> reprehendo, reprehendi, reprehensum, reprehendere
+даставаць (з) -> promo, prompsi, prompsum, promere
+трэба -> oportet, oportuit, —, oportere  # = licet, licere
+лічыць -> computo, computavi, computatum, computare  # = numero, слоўн. ф.
+класці назад -> repono, reposui, repositum, reponere
+шчодра даваць -> largior, largitus sum, largiri
+паказваць (словамі) -> demonstro, demonstravi, demostratum, demonstrare
+дзяліць -> partior, partitus sum, partiri  # depon., = divido
+
+кожны -> quisque  # = omnis, e
+так многа -> tot
+у канцы -> postremo
+правільна -> recte
+памылкова -> prave
+роўна -> aeque
+аж да -> usque
+ніколі -> numquam
+часта -> saepe
+хоць -> quamquam
+чаму -> quare  # = cur

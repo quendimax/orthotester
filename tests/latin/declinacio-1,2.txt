@@ -1,0 +1,120 @@
+# 1-е скланенне
+
+ружа (Nom. sg.) -> rosa
+ружа (Gen. sg.) -> rosae
+ружа (Dat. sg.) -> rosae
+ружа (Acc. sg.) -> rosam
+ружа (Abl. sg.) -> rosa
+ружа (Voc. sg.) -> rosa
+
+ружа (Nom. pl.) -> rosae
+ружа (Gen. pl.) -> rosarum
+ружа (Dat. pl.) -> rosis
+ружа (Acc. pl.) -> rosas
+ружа (Abl. pl.) -> rosis
+ружа (Voc. pl.) -> rosae
+
+прыгожая жанчына -> femina pulchra
+прыгожай жанчыны -> feminae pulchrae
+прыгожай жанчыне -> feminae pulchrae
+прыгожую жанчыну -> feminam pulchram
+прыгожай жанчынай -> femina pulchra
+
+прыгожныя жанчыны -> feminae pulchrae
+(няма) прыгожых жанчын -> feminarum pulchrarum
+прыгожым жанчынам -> feminis pulchris
+(клікаць) прыгожых жанчын -> feminas pulchras
+прыгожымі жанчынамі -> feminis pulchris
+
+
+# 2-е скланенне
+
+сад (Nom. sg.) -> hortus
+сад (Gen. sg.) -> horti
+сад (Dat. sg.) -> horto
+сад (Acc. sg.) -> hortum
+сад (Abl. sg.) -> horto
+сад (Voc. sg.) -> horte
+
+сад (Nom. pl.) -> horti
+сад (Gen. pl.) -> hortorum
+сад (Dat. pl.) -> hortis
+сад (Acc. pl.) -> hortos
+сад (Abl. pl.) -> hortis
+сад (Voc. pl.) -> horti
+
+
+яблык (Nom. sg.) -> pomum
+яблык (Gen. sg.) -> pomi
+яблык (Dat. sg.) -> pomo
+яблык (Acc. sg.) -> pomum
+яблык (Abl. sg.) -> pomo
+
+яблык (Nom. pl.) -> poma
+яблык (Gen. pl.) -> pomorum
+яблык (Dat. pl.) -> pomis
+яблык (Acc. pl.) -> poma
+яблык (Abl. pl.) -> pomis
+
+
+хлопчык (Nom. sg.) -> puer
+хлопчык (Gen. sg.) -> pueri
+хлопчык (Dat. sg.) -> puero
+хлопчык (Acc. sg.) -> puerum
+хлопчык (Abl. sg.) -> puero
+хлопчык (Voc. sg.) -> puer
+
+хлопчык (Nom. pl.) -> pueri
+хлопчык (Gen. pl.) -> puerorum
+хлопчык (Dat. pl.) -> pueris
+хлопчык (Acc. pl.) -> pueros
+хлопчык (Abl. pl.) -> pueris
+хлопчык (Voc. pl.) -> pueri
+
+
+поле (Nom. sg.) -> ager
+поле (Gen. sg.) -> agri
+поле (Dat. sg.) -> agro
+поле (Acc. sg.) -> agrum
+поле (Abl. sg.) -> agro
+поле (Voc. sg.) -> ager
+
+поле (Nom. pl.) -> agri
+поле (Gen. pl.) -> agrorum
+поле (Dat. pl.) -> agris
+поле (Acc. pl.) -> agros
+поле (Abl. pl.) -> agris
+поле (Voc. pl.) -> agri
+
+
+муж (Nom. sg.) -> vir
+муж (Gen. sg.) -> viri
+муж (Dat. sg.) -> viro
+муж (Acc. sg.) -> virum
+муж (Abl. sg.) -> viro
+муж (Voc. sg.) -> vir
+
+муж (Nom. pl.) -> viri
+муж (Gen. pl.) -> virorum
+муж (Dat. pl.) -> viris
+муж (Acc. pl.) -> viros
+муж (Abl. pl.) -> viris
+муж (Voc. pl.) -> viri
+
+
+Tullius (Voc. sg.) -> Tulli
+Gajus (Voc. sg.) -> Gai
+filius (Voc. sg.) -> fili
+
+
+свабодны муж -> vir liber
+(няма) свабоднага мужа -> viri liberi
+свабоднаму мужу -> viro libero
+(клікаць) свабоднага мужа -> virum liberum
+свабодным мужам -> viro libero
+
+свабодныя мужы -> viri liberi
+(няма) свабодных мужоў -> virorum liberorum
+свабодным мужам -> viris liberis
+(клікаць) свабодных мужоў -> viros liberos
+свабоднымі мужамі -> viris liberis

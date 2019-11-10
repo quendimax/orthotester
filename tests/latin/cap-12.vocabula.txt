@@ -1,0 +1,63 @@
+# Capitulum XII. Miles Romanus. Vocabula nova
+
+брат -> frater, tris m
+сястра -> soror, oris f
+радавое імя -> nomen, inis n
+асабістае імя -> praenomen, inis n
+фамільная мянушка -> cognomen, inis n
+дзядзька па маці -> avunculus
+воін -> miles, itis m
+шчыт -> scutum
+меч -> gladius
+дзіда -> pilum
+зброя -> arma, orum n  # pl. t.
+лук -> arcus, us m
+страла -> sagitta
+кулак -> pugnus
+капʼё -> hasta
+пехацінец -> pedes, itis m
+коннік -> eques, itis m
+частка -> pars, partis f
+граніца -> finis, is m
+радзіма -> patria
+вораг -> hostis, is m
+вайна -> bellum
+войска -> exercitus, us m
+палкаводзец -> dux, ducis m
+лагер -> castra, orum n  # pl. t.
+пас (падвойны шаг) -> passus, us m
+роў -> fossa
+вал -> vallum
+конніца -> equitatus, us m
+напад -> impetus, us m
+страх -> metus, us m  # = timor
+радок -> versus, us m
+тысячы -> milia
+
+сумны -> tristis, e
+узброены -> armatus
+кароткі -> brevis, e
+цяжкі -> gravis, e
+лёгкі -> levis, e
+чужаземны -> barbarus
+высокі -> altus
+шырокі -> latus
+смелы -> fortis, e
+ваш -> vester, tra, trum
+
+насіць -> fero, tuli, latum, ferre
+біцца -> pugno, pugnavi, pugnatum, pugnare
+насяляць -> incolo, incolui, incoltum, incolere
+раздзяляць -> divido, divisi, divisum, dividere
+нападаць -> oppugno, oppugnavi, oppugnatum, oppugnare
+апасацца -> metuo, metui, metutum, metuere  # = timere
+служыць у войску -> milito, militavi, militatum, militare
+бараніць -> defendo, defendi, defensum, defendere
+кідаць -> iacio, ieci, iactum, iacere
+заваёўваць -> expugno, expugnavi, expugnatum, expugnare
+уцякаць -> fugio, fugi, —, fugere   # ад каго
+
+проці -> contra
+і -> ac  # = atque
+прыметнік -> adiectivum
+кампаратыў -> comparativus

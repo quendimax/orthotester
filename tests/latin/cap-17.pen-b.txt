@@ -1,0 +1,27 @@
+# Capitulum XVII. Numeri difficiles. Pensum B
+
+Discipulus est puer qui [discit].
+Vir qui pueros [docet] magister est.
+Magister est vir [doctus] qui multas res [scit] quas pueri [nesciunt].
+Sextus nec stultus nec piger, sed [prudens] atque [industrius] est.
+Magister interrogat, discipulus qui respondere potest manum [tollit].
+Non [oportet] respondere antequam magister interrogat.
+Magister: "[Dic] numeros a decem [usque] ad centum!"
+[Quisque] puer manum tollit, primum Sextus, deinde Titus, [postremo] Marcus.
+Sextus numeros dicit: "[Decem], [undecim], [duodecim],
+[tredecim], [quattuordecim], [quindecim],
+[sedecim], [septendecim], [duodeviginti],
+[undeviginti], [viginti], [triginta],
+[quadraginta], [quinquaginta], [sexaginta],
+[septuaginta], [octoginta], [nonaginta], [centum]."
+Sextus bonus discipulus est, qui semper [recte] respondet; itaque magister eum [laudat].
+Marcus, qui semper [prave] respondet, a magistro [reprehenditur]:
+"[Numquam] recte respondes, Marce! Cur non [cogitas] antequam respondes?"
+Marcus: "Cur Titum non interrogas? Is non tam [saepe] interrogatur quam ego?"
+Magister: "Iam eum interrogo: quot sunt [viginti unus] et [sexaginta octo]?"  # 1: XXI, 2: LXVIII
+Titus: "[Octoginta septem]? an [octoginta octo]?"  # 1: LXXXVII, 2: LXXXVIII
+Titus non [certus], sed [incertus] est ac magistro [responsum] incertum dat.
+Sextus vero recte respondet, [quamquam] difficile est id quod interrogatur.
+Quod Marcus interrogatur non difficile, sed [facile] est.
+
+Unus [dinarius] est quattuor sestertii, unus sestertius quattuor [asses].

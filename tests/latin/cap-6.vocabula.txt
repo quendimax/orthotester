@@ -1,0 +1,46 @@
+# Capitulum VI. Via Latina. Vocabula nova
+
+дарога -> via
+сцяна -> murus
+брама -> porta
+лектыка -> lectica
+мех -> saccus
+друг -> amicus
+недруг -> inimicus
+конь -> equus
+сяброўка -> amica
+
+доўгі -> longus
+благі -> malus
+змораны -> fessus
+
+дванаццаць -> duodecim
+
+ідзе -> it
+ідуць -> eunt
+нясе -> portat
+шпацыруе -> ambulat
+вязе -> vehit
+баіцца -> timet
+уваходзіць -> intrat  # 3 sg.
+
+так...як -> tam...quam
+паміж -> inter
+бліз, побач -> prope
+далёка ад -> procul ab
+вакол -> circum
+да -> ad
+перад -> ante
+пасля -> post
+пры, у прысутнасці -> apud
+праз -> per
+таму што -> nam
+такім чынам -> itaque
+аднак, жа -> autem
+адкуль? -> unde?
+куды? -> quo?
+
+прыназоўнік -> praepositio, onis f
+месны склон -> locativus
+незалежны стан -> activum
+залежны стан -> passivum

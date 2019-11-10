@@ -1,0 +1,45 @@
+# Capitulum VII. Puella et rosa. Vocabula nova
+
+вока -> oculus
+сляза -> lacrima
+люстра -> speculum
+брамнік -> ostiarius
+яблык -> malum
+груша -> pirum
+пацалунак -> osculum
+
+прыгожы, вытанчаны -> formosus
+напоўнены -> plenus
+
+жджэ, чакае -> exspectat
+дзержыць -> tenet
+плача -> lacrimat
+адкрывае, адчыняе -> aperit
+закрывае, зачыняе -> claudit
+паварочвае -> vertit
+выцірае -> terget
+прыбывае, прыходзіць -> advenit  # ад venio
+ёсць у -> inest  # 3 sg.
+дае -> dat
+прыбывае, падыходзіць -> adit  # ад eo
+бяжыць -> currit
+выходзіць -> exit  # 3 sg.
+будзь -> es
+ідзі -> i
+
+сябе -> se  # Acc.
+гэты -> hic  # m
+гэта -> haec  # f
+гэта -> hoc  # n
+наадварот -> immo
+хіба не -> nonne
+і...і -> et...et
+і не...і не -> neque...neque
+адно толькі -> solum
+там -> illic
+# e = ex
+яму -> ei
+ім -> iis  # Dat. pl.
+каму -> cui
+
+давальны -> dativus  # склон

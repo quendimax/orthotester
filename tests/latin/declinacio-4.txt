@@ -1,0 +1,55 @@
+# Declinatio quatra
+
+# Masculinum
+
+войска (Nom-sg) -> exercitus
+войска (Acc-sg) -> exercitum
+войска (Gen-sg) -> exercitus
+войску (Dat-sg) -> exercitui
+войскам (Abl-sg) -> exercitu
+
+войскі (Nom-pl) -> exercitus
+войскі (Acc-pl) -> exercitus
+войскаў (Gen-pl) -> exercituum
+войскам (Dat-pl) -> exercitibus
+войскамі (Abl-pl) -> exercitibus
+
+
+лук (Nom-sg) -> arcus
+лук (Acc-sg) -> arcum
+лука (Gen-sg) -> arcus
+луку (Dat-sg) -> arcui
+лукам (Abl-sg) -> arcu
+
+лукі (Nom-pl) -> arcus
+лукі (Acc-pl) -> arcus
+лукаў (Gen-pl) -> arcuum
+лукам (Dat-pl) -> arcibus
+лукамі (Abl-pl) -> arcibus
+
+
+напад (Nom-sg) -> impetus
+напад (Acc-sg) -> impetum
+нападу (Gen-sg) -> impetus
+нападу (Dat-sg) -> impetui
+нападам (Abl-sg) -> impetu
+
+напады (Nom-pl) -> impetus
+напады (Acc-pl) -> impetus
+нападаў (Gen-pl) -> impetuum
+нападам (Dat-pl) -> impetibus
+нападамі (Abl-pl) -> impetibus
+
+
+страх (Nom-sg) -> metus
+страх (Acc-sg) -> metum
+страху (Gen-sg) -> metus
+страху (Dat-sg) -> metui
+страхам (Abl-sg) -> metu
+
+страхі (Nom-pl) -> metus
+страхі (Acc-pl) -> metus
+страхаў (Gen-pl) -> metuum
+страхам (Dat-pl) -> metibus
+страхамі (Abl-pl) -> metibus
+

@@ -1,0 +1,181 @@
+# Verba anomala
+
+# cap-10
+лавіць -> capio, cepi, captum, capere
+рухаць -> moveo, movi, motum, movere
+рабіць, учыняць -> facio, feci, factum, facere
+жыць -> vivo, vixi, victum, vivere
+нараджаць -> pario, peperi, partum, parere
+гуляць -> ludo, lusi, lusum, ludere
+спяваць -> cano, cecini, cantum, canere  # = canto, 1
+асмельвацца -> audeo, ausus sum, audere
+залазіць -> ascendo, ascendi, ascensum, ascendere  # слоўн. ф.
+падтрымліваць -> sustineo, sustinui, sustentum, sustinere
+падаць -> cado, cecidi, casum, cadere
+
+# cap-11
+цячы -> fluo, fluxi, fluxum, fluere
+сядзець -> sedeo, sedi, sessum, sedere
+стаяць -> sto, steti, statum, stare
+кранаць -> tango, tetigi, tactum, tangere
+запрашаць, прыносіць -> arcesso, arcessivi, arcessitum, arcessere
+загадваць -> iubeo, iussi, iussum, iubere
+прыходзіць -> venio, veni, ventum, venire
+хварэць -> aegroto, —, —, aegrotare
+гаварыць -> dico, dixi, dictum, dicere
+балець -> doleo, dolui, —, dolere
+класці -> pono, posui, positum, ponere
+адчуваць -> sentio, sensi, sensum, sentire
+баяцца -> horreo, horrui, —, horrere  # indepon., = timere, vereri
+радавацца -> gaudeo, gavisus sum, gaudere  # = laetari
+церці -> tergeo, tersi, tersum, tergere
+магчы -> possum, potui, —, posse
+
+# cap-12
+насіць -> fero, tuli, latum, ferre
+насяляць -> incolo, incolui, incoltum, incolere
+раздзяляць -> divido, divisi, divisum, dividere
+апасацца -> metuo, metui, metutum, metuere  # = timere
+бараніць -> defendo, defendi, defensum, defendere
+кідаць -> iacio, ieci, iactum, iacere
+уцякаць -> fugio, fugi, —, fugere   # ад каго
+
+# cap-13
+пачынаць -> incipio, incepi, inceptum, incipere
+пакрываць -> operio, operui, opertum, operire
+хацець -> volo, volui, —, velle
+
+# cap-14
+ляжаць у ложку -> cubo, cubui, cubitum, cubare
+быць здаровым -> valeo, valui, —, valere
+падымацца -> surgo, surrexi, surrectum, surgere  # з крэсла
+прыносіць -> affero, attuli, allatum, afferre
+мыць -> lavo, lavi, lautum, lavare
+тапіць -> mergo, mersi, mersum, mergere
+мець звычку -> soleo, solitus sum, solere
+мёрзнуць -> frigeo, frixi, —, frigere
+прасіць -> posco, poposci, —, poscere
+апранаць -> vestio, vestivi, vestitum, vestire
+надзяваць -> induo, indui, indutum, induere
+насіць -> gero, gessi, gestum, gerere  # адзежу
+
+# cap-15
+сядаць -> consido, consedi, consessum, considere
+пераставаць -> desino, desivi, desitum, desinere
+вяртацца -> redeo, redii, reditum, redire  # = revenio
+вяртаць -> reddo, reddidi, redditum, reddere
+дазволена -> licet, licuit, —, licere  # impers.
+
+# cap-16
+быць пасярод -> intersum, interfui, —, interesse
+чакаць -> opperior, oppertus sum, opperiri  # = exspectare
+выходзіць, выязджаць -> egredior, egressus sum, egredi  # = exire, proficisci
+узыходзіць -> orior, ortus sum, oriri  # пра сонца
+падаць, заходзіць -> occido, occidi, occasum, occidere
+выязджаць -> proficiscor, profectus sum, proficisci  # = abire, egredi
+рухацца следам -> sequor, secutus sum, sequi
+разгледзець, заўважыць -> cerno, crevi, cretum, cernere  # = animadverto, conspicio
+баяцца -> vereor, veritus sum, vereri  # depon., = timere, horrere
+углядацца -> intueor, intuitus sum, intueri
+слізгацець, скочвацца -> labor, lapsus sum, labi
+абдымаць -> complector, complexus sum, complecti
+гаварыць -> loquor, locutus sum, loqui  # = dicere
+вычэрпваць -> haurio, hausi, haustum, haurire
+спрабаваць -> conor, conatus sum, conari
+рабіцца -> fio, factus sum, fieri
+
+# cap-17
+вучыцца -> disco, didici, —, discere
+навучаць -> doceo, docui, doctum, docere
+падымаць (дагары) -> tollo, sustuli, sublatum, tollere
+#ганіць -> reprehendo, reprehendi, reprehensum, reprehendere
+даставаць (з) -> promo, prompsi, prompsum, promere
+трэба -> oportet, oportuit, —, oportere  # = licet, licere
+класці назад -> repono, reposui, repositum, reponere
+шчодра даваць -> largior, largitus sum, largiri
+
+# cap-18
+злучаць -> iungo, iunxi, iunctum, iungere
+чытаць -> lego, legi, lectum, legere
+разумець -> intellego, intellexi, intellectum, intellegere
+пісаць -> scribo, scripsi, scriptum, scribere
+# дадаваць -> addo, addidi, additum, addere
+выпраўляць -> corrigo, correxi, correctum, corrigere
+ціснуць -> premo, pressi, pressum, premere
+вырабляць -> efficio, effeci, effectum, efficere
+заўважаць -> animadverto, animadverti, animadversum, animadvertere  # = cerno, conspicio
+уціскаць -> imprimo, impressi, impressum, imprimere
+
+# cap-19
+валодаць -> possideo, possedi, possessum, possidere
+адсылаць -> mitto, misi, missum, mittere
+памяншаць -> minuo, minui, minutum, minuere
+павялічваць -> augeo, auxi, auctum, augere
+
+# cap-20
+гаварыць -> for, fatus sum, fari  # = loqui, dicere
+быць пазбаўленым -> careo, carui, cariturus, carere
+карміць -> alo, alui, alitum (altum), alere
+заставацца -> maneo, mansi, mansum, manere
+працягваць -> pergo, perrexi, perrectum, pergere
+быць павінным -> debeo, debui, debitum, debere
+ляцець насустрач -> occurro, occurri, occursum, occurrere
+маўчаць -> sileo, silui, —, silere  # = taceo, tacere
+прывозіць -> adveho, advexi, advectum, advehere
+вяртацца -> revertor, reversus sum, reverti  # = red-īre
+любіць, шанаваць -> diligo, dilexi, dilectum, diligere
+быть вартым -> deceo, decui, —, decere
+не хацець -> nolo, nolui, —, nolle
+
+# cap-21
+пазнаць -> cognosco, cognovi, cognitum, cognoscere
+заўважаць -> conspicio, conspexi, conspectum, conspicere  # = cerno, animadverto
+перамагаць -> vinco, vici, victum, vincere
+верыць -> credo, credidi, creditum, credere  # = давяраць
+ілгаць -> fallo, fefelli, falsum, fallere  # = mentior
+
+# cap-22
+круціцца -> vertor, versus sum, verti
+звязваць, прыкоўваць -> vincio, vinxi, vinctum, vincire
+зачыняць, закрываць -> claudo, clausi, clausum, claudere
+гыркаць -> fremo, fremui, fremitum, fremere
+кусаць -> mordeo, momordi, morsum, mordere
+стрымліваць -> retineo, retinui, retentum, retinere
+сцерагчыся -> caveo, cavi, cautum, cavere
+нагадваць -> moneo, monui, monitum, monere
+спыняцца -> resisto, restiti, —, resistere  # = consisto
+развязваць -> solvo, solvi, solutum, solvere
+пужаць -> terreo, terrui, territum, terrere
+скакаць -> salio, salui, saltum, salire
+ірваць, ламаць -> rumpo, rupi, ruptum, rumpere
+хапаць -> prehendo, prehendi, prehensum, prehendere
+праходзіць уперад -> procedo, processi, processum, procedere
+дазваляць -> sino, sivi (sii), situm, sinere
+высмейваць -> derideo, derisi, derisum, deridere
+дрыжаць -> tremo, tremui, —, tremere
+гнаць -> pello, pepuli, pulsum, pellere
+меркаваць, думаць -> arbitror, arbitratus sum, arbitrari  # = puto, putare
+раздзіраць -> scindo, scidi, scissum, scindere
+
+# cap-23
+уручаць, перадаваць -> trado, tradidi, traditum, tradere
+адпускаць, высылаць <некага> -> dimitto, dimisi, dimissum, dimittere
+# быць павінным -> debeo, debui, debitum, debere
+утрымліваць (у сабе) -> contineo, continui, contentum, continere
+бляднець -> palleo, pallui, —, pallere
+заслугоўваць -> mereo, merui, meritum, merere
+адварочваць -> averto, averti, aversum, avertere
+прызнаваць -> fateor, fassus sum, fateri
+блэціць, марнаваць -> perdo, perdidi, perditum, perdere
+стыдацца -> pudeo, pudui, puditum, pudere
+чырванець -> rubeo, rubui, —, rubere
+абяцаць -> promitto, promisi, promissum, promittere
+замыкаць -> includo, inclusi, inclusum, includere
+
+# cap-24
+лажыцца -> recumbo, recubui, —, recumbere   # <-> surgo
+стукаць -> percutio, percussi, percussum, percutere   # = pulso, pulsare
+ламаць -> frango, fregi, fractum, frangere  # = rumpere (rem duram)
+цярпець -> patior, passus sum, pati
+даведвацца, пазнаваць -> nosco, novi, notum, noscere
+жадаць -> cupio, cupivi, cupitum, cupere

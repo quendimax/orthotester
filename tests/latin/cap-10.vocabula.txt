@@ -1,0 +1,66 @@
+# Capitulum X. Bestiae et homines. Vocabula nova
+
+асёл -> asinus
+леў -> leo, onis m
+звер -> bestia
+чалавек -> homo, inis m
+дзікая жывёла -> fera
+птушка -> avis, is f
+рыба -> piscis, is m
+арол -> aquila
+паветра -> aer, aeris m
+крыло -> ala
+стапа -> pes, pedis m
+хвост -> cauda
+падарожны капялюш -> petasus
+бог -> deus
+гандляр -> mercator, oris m
+вястун -> nuntius
+мора -> mare, is n
+рака -> flumen, inis n  # = fluvius
+дух -> anima
+лёгкае -> pulmo, onis m
+жывая істота -> animal, alis n
+гняздо -> nidus
+галіна -> ramus
+ліст -> folium
+яйцо -> ovum
+птушанё -> pullus
+мяч -> pila
+голас -> vox, vocis f
+ложак -> lectus
+
+дзікі -> ferus
+жывы -> vivus
+мёртвы -> mortuus
+тоўсты -> crassus
+тонкі -> tenuis, e
+зляканы -> perterritus
+
+лавіць -> capio, cepi, captum, capere
+лётаць -> volo, volavi, volatum, volare
+плаваць -> nato, natavi, natatum, natare
+рухаць -> moveo, movi, motum, movere
+рабіць, учыняць -> facio, feci, factum, facere
+жыць -> vivo, vixi, victum, vivere
+дыхаць -> spiro, spiravi, spiratum, spirare
+нараджаць -> pario, peperi, partum, parere
+гуляць -> ludo, lusi, lusum, ludere
+спяваць -> cano, cecini, cantum, canere  # = canto, 1
+асмельвацца -> audeo, ausus sum, audere
+хаваць -> occulto, occultavi, occultatum, occultare
+залазіць -> ascendo, ascendi, ascensum, ascendere  # слоўн. ф.
+падтрымліваць -> sustineo, sustinui, sustentum, sustinere
+падаць -> cado, cecidi, casum, cadere
+можа -> potest  # 3 sg.
+могуць -> possunt  # 3 pl.
+хоча -> vult  # 3 sg.
+хочуць -> volunt  # 3 pl.
+
+трэба -> necesse est
+ніхто -> nemo
+калі, у той час як -> cum
+бо -> quod  # = quia, nam
+бо -> enim  # inter. = quia, nam
+значыць -> ergo  # particula
+інфінітыў -> infinitivus

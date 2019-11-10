@@ -1,0 +1,73 @@
+# Capitulum XIII. Annus et menses. Vocabula nova
+
+год -> annus
+месяц -> mensis, is m  # частка года
+дзень -> dies, ei m
+стагоддзе -> saeculum
+час -> tempus, oris n
+твар -> facies, ei f
+раніца -> mane  # indecl.
+вечар -> vesper, eri m
+ноч -> nox, noctis f
+пачатак -> initium
+гадзіна -> hora
+поўдзень -> meridies, ei m  # сярэдзіна дня
+месяц -> luna  # спадарожнік Зямлі
+зорка -> stella
+святло -> lux, lucis f
+форма -> forma
+календы -> kalendae, arum f
+іды -> idus, uum f
+ноны -> nonae, arum f
+раўнадзенства -> aequinoctium
+лета -> aestas, atis f
+зіма -> hiems, emis f
+вясна -> ver, veris n
+восень -> autumnus
+дождж -> imber, bris m
+снег -> nix, nivis f
+возера -> lacus, us m
+лёд -> glacies, ei f
+
+мураваны горад -> urbs, urbis f
+апошні -> postremus
+палавінны -> dimidius
+роўны -> aequus
+светлы -> clarus
+цэлы -> totus
+цёмны -> obscurus
+невялікі -> exiguus  # = parvus
+гарачы -> calidus
+халодны -> frigidus
+
+адзінаццаць -> undecim
+трыццаць -> triginta
+шэсцьдзясят -> sexaginta
+дзвесце -> ducenti
+трыста -> trecenti
+пяты -> quintus
+шосты -> sextus
+сёмы -> septimus
+восьмы -> octavus
+дзявяты -> nonus
+дзясяты -> decimus
+адзінаццаты -> undecimus
+дванаццаты -> duodecimus
+
+называць -> nomino, nominavi, nominatum, nominare  # = appello
+асвятляць -> illustro, illustravi, illustratum, illustrare
+пачынаць -> incipio, incepi, inceptum, incipere
+пакрываць -> operio, operui, opertum, operire
+хацець -> volo, volui, —, velle
+быў -> erat
+былі -> erant
+
+ці, або -> vel  # = aut
+тады -> tunc  # у гэным часе
+цяпер -> nunc
+значыць, нават -> igitur  # = ergo
+таксама -> item  # = etiam
+калі? -> quando?
+
+найвышэйшая ступень параўнання -> superlativus
+нескланяльны -> indeclinabilis, e

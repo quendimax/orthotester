@@ -1,0 +1,20 @@
+# Capitulum IV. Dominus et servi. Pensum A
+
+Medus ad[est].
+Davus ab[est].
+Iulius imper[at]: "Voc[a] Davum, Med[e]!"
+Medus Davum voc[at]: "Dav[e]! Ven[i]!"
+Davus ven[it] neque Iulium vid[et].
+Medus: "Salut[a] dominum!"
+Davus dominum salut[at]: "Salve, domin[e]! Quid est?"
+Dominus: "Tac[e], serv[e]! Nummi mei ubi sunt?"
+Servus tac[et] neque respond[et].
+Iulius: "Respond[e]!"
+Davus: "Interrog[a] Medum!"
+Iulius Medum interrog[at]: "Ubi est pecunia mea, Med[e]?"
+Medus: "Davus pecuniam tuam hab[et]."
+Iulius: "Pon[e] sacculum tuum in mensa, Dav[e]!"
+Davus par[et]: sacculum suum in mensa pon[it].
+Davus: "Vid[e], domin[e]: sacculus meus vacuus est."
+Iulius: "Sum[e] sacculum tuum et disced[e], bon[e] serv[e]!"
+Davus sacculum suum sum[it] et disced[it].

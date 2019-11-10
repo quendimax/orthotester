@@ -1,0 +1,46 @@
+# Capitulum XV. Magister et discipuli. Vocabula nova
+
+школа -> ludus
+вучыцель -> magister, tri m
+вучань -> discipulus
+розга -> virga
+крэсла -> sella
+уваход -> ianua  # = ostium
+праўда -> verum
+спіна -> tergum
+бяда -> malum
+малы ложак -> lectulus
+
+строгі -> severus
+маўклівы -> tacitus
+праўдзівы -> verus
+задні -> posterior, ius  # comp.
+ніжэйшы -> inferior, ius  # comp.
+пярвейшы -> prior, ius  # comp.
+
+наказваць -> punio, punivi, punitum, punire
+сядаць -> consido, consedi, consessum, considere
+ускрыкваць -> exclamo, exclamavi, exclamatum, exclamare
+пераставаць -> desino, desivi, desitum, desinere
+вяртацца -> redeo, redii, reditum, redire  # = revenio
+вяртаць -> reddo, reddidi, redditum, reddere
+чытаць уголас -> recito, recitavi, recitatum, recitare
+дазволена -> licet, licuit, —, licere  # impers.
+есмь -> sum
+еси -> es
+есмъ ->sumus
+есте -> estis
+я -> ego
+ты -> tu
+мы -> nos
+вы -> vos
+
+пакуль не -> nondum
+адразу -> statim
+затым -> tum  # = deinde
+чаму? -> quid?  # = cur?
+дома -> domi  # Loc.
+перш чым -> antequam
+але -> at  # = sed
+еслі -> si
+еслі не -> nisi

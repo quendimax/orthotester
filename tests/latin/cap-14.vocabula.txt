@@ -1,0 +1,58 @@
+# Capitulum XIV. Novus dies. Vocabula nova
+
+певень -> gallus
+адзежына -> vestimentum
+туніка -> tunica
+тога -> toga
+чаравік -> calceus
+бацькі -> parentes, ium m, f  # pl.
+дошка -> tabula
+палачка для пісьма -> stilus
+лінейка -> regula
+рэч -> res, rei f
+
+адчынены -> apertus
+зачынены -> clausus
+брудны -> sordidus
+чысты -> purus
+голы -> nudus
+адзеты ў тогу -> togatus
+правы -> dexter, tra, trum
+левы -> sinister, tra, trum
+кожны -> omnis, e
+
+ляжаць у ложку -> cubo, cubui, cubitum, cubare
+не спаць -> vigilo, vigilavi, vigilatum, vigilare
+быць здаровым -> valeo, valui, —, valere
+будзіць -> excito, excitavi, excitatum, excitare
+падымацца -> surgo, surrexi, surrectum, surgere  # з крэсла, пасцелі
+прыносіць -> affero, attuli, allatum, afferre
+мыць -> lavo, lavi, lautum, lavare
+акунаць, тапіць -> mergo, mersi, mersum, mergere
+мець звычку -> soleo, solitus sum, solere
+мёрзнуць -> frigeo, frixi, —, frigere
+прасіць -> posco, poposci, —, poscere
+апранаць -> vestio, vestivi, vestitum, vestire
+надзяваць -> induo, indui, indutum, induere
+насіць -> gero, gessi, gestum, gerere  # адзежу
+кажа -> inquit
+
+кожны з двух -> uterque
+ніводзін з двух -> neuter
+адзін з двух -> alter
+які з двух? -> uter?
+мне -> mihi
+табе -> tibi
+са мной -> mecum
+з табой -> tecum
+з сабой -> secum
+нішто -> nihil
+як, якім чынам -> quomodo
+сёння -> hodie
+дагэтуль -> adhuc
+спачатку -> primum
+потым -> deinde  # = tum
+апрача -> praeter
+ці, або -> an  # = aut, vel
+бывай -> vale  # развітанне
+дзеепрыметнік -> participium

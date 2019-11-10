@@ -1,0 +1,40 @@
+# Capitulum XXIV. Puer aegrotus. Vocabula nova
+
+бок -> latus, eris n
+гук -> sonus
+шум -> strepitus, us m  # = sonus magnus
+боль -> dolor, oris m
+косць -> os, ossis n
+перапалох -> tumultus, us m
+
+хворы -> aegrotus  # = aeger
+левы -> laevus  # = sinister
+роўны, аднолькавы -> par, paris  # = aequus
+няроўны -> impar, paris  # <-> aequus
+нечаканы -> subitus   # non exspectatus
+скрываўлены -> cruentus
+
+паварочваць -> converto, converti, conversum, convertere  # = verto
+дзівіцца -> miror, miratus sum, mirari
+лажыцца -> recumbo, recubui, —, recumbere   # <-> surgo
+стукаць -> percutio, percussi, percussum, percutere   # = pulso, pulsare
+ламаць -> frango, fregi, fractum, frangere  # = rumpere (rem duram)
+плакаць -> fleo, flevi, fletum, flere  # = lacrimo
+цярпець -> patior, passus sum, pati
+не ведаць, не знать -> ignoro, ignoravi, ignoratum, ignorare
+даведвацца, пазнаваць -> nosco, novi, notum, noscere
+жадаць -> cupio, cupivi, cupitum, cupere
+
+побач -> iuxta
+нанова, ізноў -> denuo   # = rursus
+нечакана, знянацку -> subito
+адразу ж -> continuo  # = statim
+пэўна -> certo  # adv.
+спачатку -> primo  # = prius
+моцна -> valde
+інакш -> aliter
+знутры -> intus  # = intra
+хоць, хаця -> etsi  # = quamquam
+зрэшты -> ceterum
+
+пазапрошлы час -> plusquamperfectum

@@ -1,0 +1,16 @@
+# Capitulum XX. Parentes. Pensum B
+
+Parvulus puer qui in [cunis] iacet [infans] appellatur.
+Infans qui cibo [caret] magna voce [vagit].
+Non panis, sed [lac] cibus infantium est.
+Nutrix est [mulier] quae non suum, sed [alienum] infantem [alit].
+Multae matres infantes suos ipsae alere [nolunt].
+
+Maritus et uxor iam non de tempore praeterito [colloquuntur], sed de tempore futuro.
+Aemilia: "Cur tu filium habere [vis], Iuli?"
+"Ego alteram filiam habere [volo], plures quam duos filios [nolo]."
+"Vos viri filios tantum [vultis]! Filios [magis] diligitis quam filias!"
+Iulius [silet].  # 1:= tacet
+Aemilia irata [gradum] adversus ostium facit, sed Iulius "[Mane] hic apud me!" inquit, "[Noli] discedere!"
+Aemilia manet ac loqui [pergit]: "Bona mater apud infantem suum manere [debet], hoc matris [officium] est."
+"Nemo enim infantem melius [curare] potest quam mater ipsa."

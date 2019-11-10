@@ -1,0 +1,30 @@
+# Capitulum XX. Parentes. Grammatica
+# Futurum I (primum)
+
+# Activum
+
+Malus discipulus: "Ab hoc die bonus discipulus [ero], magister:"
+"numquam in ludo dormi[am], semper tibi pare[bo], bene computa[bo] et pulchre scrib[am]!"
+Magister: "Quid? Tune bonus discipulus [eris]? Id fieri non potest!"
+"Cras rursus in ludo dormi[es], male computa[bis], foede scrib[es], nec mihi pare[bis]!"
+Cras discipulus tam malus [erit] quam hodie est: in ludo dormi[et],
+male computa[bit], foede scrib[et], nec magistro pare[bit].
+
+Mali discipuli: "Ab hoc die boni discipuli [erimus], magister:"
+"numquam in ludo dormi[emus], bene computa[bimus] et pulchre scrib[emus]!"
+Magister: "Quid? Vosne boni discipuli [eritis]? Id fieri non potest!"
+"Cras rursus in ludo dormi[etis], male computa[bitis], foede scrib[etis], nec mihi pare[bitis]!"
+Cras discipuli tam improbi [erunt] quam hodie sunt:
+in ludo dormi[ent], male computa[bunt], foede scrib[ent], nec magistro pare[bunt].
+
+# Passivum
+
+Filius: "Ab hoc die bonus discipulus [ero]."
+"Ergo a magistro lauda[bor], non reprehend[ar]."
+Pater: "Tu non lauda[beris], sed reprehend[eris] a magistro!"
+Cras discipulus rursus a magistro reprehend[etur], non lauda[bitur].
+
+Filii: "Ab hoc die boni discipuli [erimus]."
+"Ergo a magistro lauda[bimur], non reprehend[emur]."
+Pater: "Vos non lauda[bimini], sed reprehend[emini] a magistro!"
+Cras discipuli rursus a magistro reprehend[entur], non lauda[buntur].

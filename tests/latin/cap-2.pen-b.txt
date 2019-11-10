@@ -1,0 +1,20 @@
+# Capitulum II. Familia Romana. Pensum B
+
+Marcus [puer] Romanus est.
+Iulius [vir] Romanus est.
+Aemilia est [femina] Romana.
+Iulius est [pater] Marci et Quinti et Iuliae.
+In [familia] Iulii sunt tres [liberi]: duo [filii] et una [filia].
+[Mater] liberorum est Aemilia.
+
+[Quis] est Davus?
+Davus est [servus] Iulii.
+Iulius [dominus] Davi est.
+Quis est Syra? Syra [ancilla] Aemiliae est.
+Aemilia est [domina] Syrae.
+
+Cornelius: "[Quot] servi sunt in familia tua?"
+Iulius: "In familia [mea] sunt [centum] servi."  # C=100
+Cornelius: "Familia [tua] magna est!"
+
+LINGVA LATINA est titulus [libri] tui Latini.

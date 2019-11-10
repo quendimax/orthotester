@@ -1,0 +1,38 @@
+# Capitulum XIX. Maritus et uxor. Grammatica
+# Imperfectum
+
+# Activum
+
+Ante viginti annos Iulius discipulus tam improbus er[at] quam Marcus nunc est:
+in ludo dormi[ebat], male computa[bat], foede scrib[ebat], neque magistro suo pare[bat].
+
+Marcus: "Num tu melior discipulus er[as], pater, quam ego sum?"
+"Nonne tu in ludo dormi[ebas]? Num semper magistro pare[bas], bene computa[bas] et pulchre scrib[ebas]?"
+Iulius: "Ego numquam in ludo dormi[ebam], semper magistro pare[bam], bene computa[bam] et pulchre scrib[ebam]!"
+"Certe ego discipulus multo melior er[am] quam tu nunc es!"
+
+Quintus: "Quid? Num vos meliores discipuli er[atis] quam nos sumus?"
+"Nonne vos in ludo dormi[ebatis]?"
+"Num semper magistro pare[batis], bene computa[batis] et pulchre scrib[ebatis]?"
+Iulius: "Nos numquam in ludo dormi[ebamus], semper magistro pare[bamus], bene computa[bamus] et pulchre scrib[ebamus]!"
+"Certe nos discipuli multo meliores er[amus] quam vos nunc estis!"
+
+Iulius verum non dicit: ante viginti annos discipuli tam mali er[ant] quam nunc sunt: in ludo dormi[ebant],
+male computa[bant], foede scrib[ebant], neque magistro suo pare[bant]!
+
+# Passivum
+
+Iulius magistrum suum non timebat, sed ipse a magistro time[batur]!
+Itaque non reprehend[ebatur] nec puni[ebatur], sed lauda[batur] a magistro.
+
+Marcus: "Num tu semper a magistro tuo lauda[baris]? Nonne reprehend[ebaris]?"
+Iulius: "Ego a magistro meo saepe lauda[bar], numquam reprehend[ebar] aut puni[ebar]."
+"Ego magistrum non timebam, sed ipse ab eo time[bar]!"
+Marcus: "Tune a magistro time[baris]?"
+Iulius: "Nos omnes a magistro time[bamur]."
+"Itaque non reprehend[ebamur] nec puni[ebamur], sed semper lauda[bamur]!"
+Marcus: "Non verum dicis! Vos non time[bamini] a magistro nec semper lauda[bamini],"
+"sed reprehend[ebamini] ac puni[ebamini]!"
+
+In illo ludo discipuli a magistro time[bantur]!
+Itaque non reprehend[ebantur] nec puni[ebantur], sed semper lauda[bantur].

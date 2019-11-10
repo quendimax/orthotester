@@ -1,0 +1,13 @@
+# Capitulum XX. Parentes. Grammatica
+# Participium et infinitivus futuri
+
+Marcus: "Posthac bonus discipulus fut[urus] sum."
+Marcus dicit 'se posthac bonum discipulum fut[urum] [esse],'
+'semper magistro parit[urum] [esse] nec umquam in ludo dormit[urum] [esse].'
+
+Pueri: "Posthac boni discipuli fut[uri] sumus."
+Pueri dicunt 'se posthac bonos discipulos fut[uros] [esse],'
+'semper magistro parit[uros] [esse] nec umquam in ludo dormit[uros] [esse].'
+Magister non credit eos promissum fact[uros] [esse].
+
+Iulius: "Sextus a magistro laudabitur." Iulius dicit 'Sextum a magistro laud[atum] [iri].'

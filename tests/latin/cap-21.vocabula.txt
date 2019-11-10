@@ -1,0 +1,48 @@
+# Capitulum XXI. Pugna discipulorum. Vocabula nova
+
+адзежа -> vestis, is f
+калена -> genu, us n
+глеба -> humus, i f
+у зямлі (выкачацца) -> humi  # Loc.
+кроў звонку -> cruor, oris m  # = sanguis
+бык/карова -> bos, bovis m, f
+рог -> cornu, us n
+прычына -> causa
+свіння -> porcus
+бойка -> pugna
+гразь -> sordes, is f
+падлога -> solum
+дошчачка -> tabella
+
+чысты -> mundus  # = purus
+беласнежны -> candidus  # = albus
+вузкі -> angustus
+моцны -> validus
+недастойны -> indignus
+непраўдзівы -> falsus
+
+пазнаць -> cognosco, cognovi, cognitum, cognoscere
+заўважаць -> conspicio, conspexi, conspectum, conspicere
+апраўдваць -> excuso, excusavi, excusatum, excusare
+перамагаць -> vinco, vici, victum, vincere
+апавядаць -> narro, narravi, narratum, narrare
+мяняць -> muto, mutavi, mutatum, mutare
+здымаць -> pono, posui, positum, ponere  # адзежу
+маніць -> mentior, mentitus sum, mentiri  # = fallo
+верыць -> credo, credidi, creditum, credere  # = давяраць
+ілгаць -> fallo, fefelli, falsum, fallere  # = mentior
+сумнявацца -> dubito, dubitavi, dubitatum, dubitare
+быць -> fuisse  # inf. perf.
+кажу -> aio  # = dico
+кажаш -> ais  # = dicis
+кажа -> ait  # = dicit
+кажаш? -> ainʼ  # = dicisne
+
+нехта -> aliquis  # m
+нешта -> aliquid
+між тым -> interim
+пасля таго як -> postquam
+з якой прычыны? -> qua de causa?
+
+перфект -> perfectum
+імперфект -> imperfectum

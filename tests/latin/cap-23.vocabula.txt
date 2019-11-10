@@ -1,0 +1,49 @@
+# Capitulum XXIII. Epistula magistri. Vocabula nova
+
+пячаць -> signum
+пісьмо -> litterae, arum f pl  # = epistula
+вітанні -> salus, utis f
+твар -> vultus, us m  # = facies
+пахвала -> laus, laudis f
+учынак -> factum
+сорам -> pudor, oris m
+абяцанне -> promissum
+пабои -> verbera, um n pl
+ключ -> clavis, is f
+спадарожнік -> comes, itis m
+
+цэлы, непашкоджаны -> integer, gra, grum
+бледны -> pallidus
+відочны -> planus
+вышэйшы, верхні -> superior, ius
+пазычаны -> debitus
+
+уручаць, перадаваць -> trado, tradidi, traditum, tradere
+адпускаць, высылаць <некага> -> dimitto, dimisi, dimissum, dimittere
+# быць павінным -> debeo, debui, debitum, debere
+утрымліваць (у сабе) -> contineo, continui, contentum, continere
+вітаць -> salutem dicere  # толькі неазначальная форма
+бляднець -> palleo, pallui, —, pallere
+вяртаць грошы -> pecuniam solvere  # толькі неазначальная форма
+заслугоўваць -> mereo, merui, meritum, merere
+адварочваць -> averto, averti, aversum, avertere
+пісаць на -> inscribo, inscripsi, inscriptum, inscribere
+адмаўляць -> nego, negavi, negatum, negare
+прызнаваць -> fateor, fassus sum, fateri
+блэціць, марнаваць -> perdo, perdidi, perditum, perdere
+стыдацца -> pudeo, pudui, puditum, pudere
+чырванець -> rubeo, rubui, —, rubere
+абяцаць -> promitto, promisi, promissum, promittere
+замыкаць -> includo, inclusi, inclusum, includere
+суправаджаць -> comitor, comitatus sum, comitari
+
+адтуль -> illinc
+адсюль -> hinc
+што ж? -> quidnam?
+хто ж? -> quisnam?
+можа, хіба -> fortasse   # часц.
+хоць калі, калі-небудзь -> umquam
+па гэтым -> posthac
+дагэтуль -> antehac
+учора -> heri
+з прычыны, ад -> ob  # = propter

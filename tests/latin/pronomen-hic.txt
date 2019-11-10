@@ -1,0 +1,39 @@
+# Pronomen hic
+
+h[ic] murus
+h[unc] murum
+h[uius] muri  # Gen. sg.
+h[uic] muro   # Dat. sg.
+h[oc] muro    # Abl. sg.
+
+h[i] muri     # Nom. pl.
+h[os] muros
+h[orum] murorum
+h[is] muris   # Dat. pl.
+h[is] muris   # Abl. pl.
+
+
+h[aec] via    # Nom. sg.
+h[anc] viam
+h[uius] viae  # Gen. sg.
+h[uic] viae   # Dat. sg.
+h[ac] via     # Abl. sg.
+
+h[ae] viae    # Nom. pl.
+h[as] vias
+h[arum] viarum
+h[is] viis    # Dat. pl.
+h[is] viis    # Abl. pl.
+
+
+h[oc] verbum  # Nom. sg.
+h[oc] verbum  # Acc. sg.
+h[uius] verbi
+h[uic] verbo  # Dat. sg.
+h[oc] verbo   # Abl. sg.
+
+h[aec] verba  # Nom. pl.
+h[aec] verba  # Acc. pl.
+h[orum] verborum
+h[is] verbis  # Dat. pl.
+h[is] verbis  # Abl. pl.

@@ -1,0 +1,43 @@
+# Capitulum IV. Dominus et servi. Vocabula nova
+
+машна -> sacculus
+грошы -> pecunia
+манета -> nummus
+стол -> mensa
+палка -> baculum
+
+пусты -> vacuus
+харошы -> bonus
+
+чатыры -> quattuor
+пять ->quinque
+сем -> septem
+восем -> octo
+дзевяць -> novem
+дзесяць -> decem
+
+мае -> habet  # 3 sg
+лічыць -> numerat  # 3 sg.
+прысутнічае -> adest  # 3 sg.
+адсутнічае -> abest  # 3 sg.
+вітае -> salutat  # 3 sg.
+маўчыць -> tacet  # 3 sg.
+вінаваціць -> accusat  # 3 sg.
+кладзе -> ponit  # 3 sg.
+бярэ -> sumit  # 3 sg.
+адыходзіць, выходзіць -> discedit  # 3 sg.; = abit
+загадвае -> imperat  # 3 sg.
+падпарадкоўваецца -> paret  # 3 sg.
+
+жадны, ніякі -> nullus
+яго, яе -> eius  # чый? gen.
+ягоны, свой -> suus
+ён -> is
+якое -> quod
+яшчэ раз -> rursus
+толькі -> tantum
+вітаю -> salve
+
+клічны -> vocativus  # склон
+загадны -> imperativus  # лад
+абвесны -> indicativus  # лад

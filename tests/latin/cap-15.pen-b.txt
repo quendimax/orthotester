@@ -1,0 +1,21 @@
+# Capitulum XV. Magister et discipuli. Pensum B
+
+Mane pueri in [ludum] eunt.
+Pueri qui in ludum eunt [discipuli] sunt.
+Qui ludum habet [magister] est.
+Marcus magistrum metuit, nam Diodorus magister [severus] est qui pueros improbos [virga] verberat.
+
+Intrat magister. Sextus de [sella] surgit.
+Ceteri discipuli [nondum] adsunt.
+Magister [exclamat]: "O, discipulos improbos!"
+Sextus: "Num ego improbus [sum]?"
+Magister: "[Tu] discipulus improbus non es, [at] ceteri discipuli improbi sunt!"  # 2: = sed
+
+Post Sextum venit Titus, [tum] Marcus.  # 1: = deinde
+Marcus [ianuam] non pulsat, [cum] ludum intrat, nec magistrum salutat.
+Magister: "Discipulus improbus [es], Marce! [Statim] ad me veni!"
+Magister [tergum] Marci verberat.
+Tergum est [posterior] pars corporis.
+Magister puerum verberare [desinit]. Marcus ad sellam suam [redit] neque [considit].
+Magister: "[Quid] non considis?"  # 1: = cur
+Marcus: "Sedere non [possum], quod pars tergi [inferior] mihi dolet!"

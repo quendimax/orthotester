@@ -1,0 +1,206 @@
+# Declinatio tertia
+
+# Masculina
+# -o, -or, -os, -er, -es, -ex
+
+чалавек (Nom-sg) -> homo
+чалавека (Acc-sg) -> hominem
+чалавека (Gen-sg) -> hominis
+чалавеку (Dat-sg) -> homini
+чалавекам (Abl-sg) -> homine
+
+людзі (Nom-pl) -> homines
+людзей (Acc-pl) -> homines
+людзей (Gen-pl) -> hominum
+людзям (Dat-pl) -> hominibus
+людзьмі (Abl-pl) -> hominibus
+
+
+пастух (Nom-sg) -> pastor
+пастуха (Acc-sg) -> pastorem
+пастуха (Gen-sg) -> pastoris
+пастуху (Dat-sg) -> pastori
+пастухом (Abl-sg) -> pastore
+
+пастухі (Nom-pl) -> pastores
+пастухоў (Acc-pl) -> pastores
+пастухоў (Gen-pl) -> pastorum
+пастухам (Dat-pl) -> pastoribus
+пастухамі (Abl-pl) -> pastoribus
+
+
+# TODO: add -os
+
+
+бацька (Nom-sg) -> pater
+бацьку (Acc-sg) -> patrem
+бацькі (Gen-sg) -> patris
+бацьку (Dat-sg) -> patri
+бацькам (Abl-sg) -> patre
+
+бацькі (Nom-pl) -> patres
+бацькаў (Acc-pl) -> patres
+бацькаў (Gen-pl) -> patrum
+бацькам (Dat-pl) -> patribus
+бацькамі (Abl-pl) -> patribus
+
+
+стапа (Nom-sg) -> pes
+стапу (Acc-sg) -> pedem
+стапы (Gen-sg) -> pedis
+стапе (Dat-sg) -> pedi
+стапой (Abl-sg) -> pede
+
+стопы (Nom-pl) -> pedes
+стопы (Acc-pl) -> pedes
+стоп (Gen-pl) -> pedum
+стопам (Dat-pl) -> pedibus
+стопамі (Abl-pl) -> pedibus
+
+
+# TODO: add -ex
+
+
+# Feminina
+# -as, -is, -aus, -us, -x, -s, равносложные на -es
+
+# TODO: add -as
+
+
+авечка (Nom-sg) -> ovis
+авечку (Acc-sg) -> ovem
+авечкі (Gen-sg) -> ovis
+авечцы (Dat-sg) -> ovi
+авечкай (Abl-sg) -> ove
+
+авечкі (Nom-pl) -> oves
+авечкі (Acc-pl) -> oves
+авечак (Gen-pl) -> ovium
+авечкам (Dat-pl) -> ovibus
+авечкамі (Abl-pl) -> ovibus
+
+
+# TODO: add -aus, -us
+
+
+голас (Nom-sg) -> vox
+голасу (Acc-sg) -> vocem
+голасу (Gen-sg) -> vocis
+голасу (Dat-sg) -> voci
+голасам (Abl-sg) -> voce
+
+галасы (Nom-pl) -> voces
+галасы (Acc-pl) -> voces
+галасоў (Gen-pl) -> vocum
+галасам (Dat-pl) -> vocibus
+галасамі (Abl-pl) -> vocibus
+
+
+лоб (Nom-sg) -> frons
+лоб (Acc-sg) -> frontem
+ілба (Gen-sg) -> frontis
+ілбу (Dat-sg) -> fronti
+ілбом (Abl-sg) -> fronte
+
+ілбы (Nom-pl) -> frontes
+ілбы (Acc-pl) -> frontes
+ілбоў (Gen-pl) -> frontium
+ілбам (Dat-pl) -> frontibus
+ілбамі (Abl-pl) -> frontibus
+
+
+хмара (Nom-sg) -> nubes
+хмару (Acc-sg) -> nubem
+хмары (Gen-sg) -> nubis
+хмары (Dat-sg) -> nubi
+хмарай (Abl-sg) -> nube
+
+хмары (Nom-pl) -> nubes
+хмары (Acc-pl) -> nubes
+хмараў (Gen-pl) -> nubium
+хмарам (Dat-pl) -> nubibus
+хмарамі (Abl-pl) -> nubibus
+
+
+# Neutrum
+# -a, -e, -c, -l, -n, -t, -ar, -ur, -us
+
+# TODO: add -a
+
+мора (Nom-sg) -> mare
+мора (Acc-sg) -> mare
+мора (Gen-sg) -> maris
+мору (Dat-sg) -> mari
+морам (Abl-sg) -> mari
+
+моры (Nom-pl) -> maria
+моры (Acc-pl) -> maria
+мораў (Gen-pl) -> marium
+морам (Dat-pl) -> maribus
+морамі (Abl-pl) -> maribus
+
+
+
+жывёла (Nom-sg) -> animal
+жывёлу (Acc-sg) -> animal
+жывёлы (Gen-sg) -> animalis
+жывёле (Dat-sg) -> animali
+жывёлай (Abl-sg) -> animali
+
+жывёлы (Nom-pl) -> animalia
+жывёлы (Acc-pl) -> animalia
+жывёлаў (Gen-pl) -> animalium
+жывёлам (Dat-pl) -> animalibus
+жывёламі (Abl-pl) -> animalibus
+
+
+рака (Nom-sg) -> flumen
+раку (Acc-sg) -> flumen
+ракі (Gen-sg) -> fluminis
+рацэ (Dat-sg) -> flumini
+ракой (Abl-sg) -> flumine
+
+рэкі (Nom-pl) -> flumina
+рэкі (Acc-pl) -> flumina
+рэк (Gen-pl) -> fluminum
+рэкам (Dat-pl) -> fluminibus
+рэкамі (Abl-pl) -> fluminibus
+
+
+галава (Nom-sg) -> caput
+галаву (Acc-sg) -> caput
+галавы (Gen-sg) -> capitis
+галаве (Dat-sg) -> capiti
+галавой (Abl-sg) -> capite
+
+галовы (Nom-pl) -> capita
+галовы (Acc-pl) -> capita
+галоваў (Gen-pl) -> capitum
+галовам (Dat-pl) -> capitibus
+галовамі (Abl-pl) -> capitibus
+
+
+печань (Nom-sg) -> iecur
+печань (Acc-sg) -> iecur
+печані (Gen-sg) -> iecoris
+печані (Dat-sg) -> iecori
+печанню (Abl-sg) -> iecore
+
+печані (Nom-pl) -> iecora
+печані (Acc-pl) -> iecora
+печаней (Gen-pl) -> iecorum
+печаням (Dat-pl) -> iecoribus
+печанямі (Abl-pl) -> iecoribus
+
+
+грудзі (Nom-sg) -> pectus
+грудзі (Acc-sg) -> pectus
+грудзей (Gen-sg) -> pectoris
+грудзям (Dat-sg) -> pectori
+грудзьмі (Abl-sg) -> pectore
+
+грудзі (Nom-pl) -> pectora
+грудзі (Acc-pl) -> pectora
+грудзей (Gen-pl) -> pectorum
+грудзям (Dat-pl) -> pectoribus
+грудзьмі (Abl-pl) -> pectoribus

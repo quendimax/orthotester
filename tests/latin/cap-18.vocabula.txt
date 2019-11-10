@@ -1,0 +1,65 @@
+# Capitulum XVIII. Litterae Latinae. Vocabula nova
+
+галосны гук -> vocalis, is f
+зычны гук -> consonans, antis f
+заходні вецер -> zephyrus
+сказ -> sententia
+гаспадар -> erus  # = dominus
+памылка -> mendum
+воск -> cera
+матэрыял -> materia
+пчала -> apis, is f
+жалеза -> ferrum
+пісьмо -> epistula
+пяро -> calamus  # пісаць
+аркуш папірусу -> charta
+папірус -> papyrus
+плата -> merces, edis f
+
+рэдкі -> rarus
+часты -> frequens
+розны -> varius
+агідны -> turpis, e
+мяккі -> mollis, e
+цвёрды -> durus
+які (якасцю) -> qualis, e
+такі (якасцю) -> talis, e
+нелянівы -> impiger, gra, grum
+
+злучаць -> iungo, iunxi, iunctum, iungere
+спалучаць -> coniungo, coniunxi, coniunctum, coniungere
+значыць -> significo, significavi, significatum, significare  # verb.
+чытаць -> lego, legi, lectum, legere
+разумець -> intellego, intellexi, intellectum, intellegere
+пісаць -> scribo, scripsi, scriptum, scribere
+дыктаваць -> dicto, dictavi, dictatum, dictare
+параўноўваць -> comparo, comparavi, comparatum, comparare
+пачуць -> exaudio, exaudivi, exauditum, exaudire
+бракаваць -> desum, defui, —, deesse
+дадаваць -> addo, addidi, additum, addere
+выпраўляць -> corrigo, correxi, correctum, corrigere
+ціснуць -> premo, pressi, pressum, premere
+вырабляць -> efficio, effeci, effectum, efficere
+заўважаць -> animadverto, animadverti, animadversum, animadvertere  # = cerno
+быць лішнім -> supersum, superfui, —, superesse
+выдаляць -> deleo, delevi, deletum, delere
+пазначаць -> signo, signavi, signatum, signare
+уціскаць -> imprimo, impressi, impressum, imprimere
+
+гэты ж -> idem
+гэта ж -> eadem
+гэто ж -> idem
+кожная -> quaeque
+кожнае -> quodque
+так, гэтак -> sic  # = hōc modō, ita
+так, гэтак -> ita  # = eō modō, sic
+колькі разоў -> quoties
+столькі разоў -> toties
+аднойчы -> semel
+двойчы -> bis
+тройчы -> ter
+чатыры разы -> quater
+пяць разоў -> quinques
+шэсць разоў -> sexies
+дзесяць разоў -> decies
+прыслоўе -> adverbium

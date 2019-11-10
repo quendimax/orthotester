@@ -1,0 +1,44 @@
+# Capitulum V. Villa et hortus. Vocabula nova
+
+сядзіба -> villa
+сад -> hortus
+ружа -> rosa
+лілія -> lilium
+нос -> nasus
+уваход -> ostius
+акно -> fenestra
+гасцёўня -> atrium
+вадасток -> impluvium
+вада -> aqua
+двор з каланадай -> peristylum
+пакой -> cubiculum
+
+прыгожы -> pulcher, chra, chrum
+брыдкі -> foedus
+адзін, адзінокі -> solus
+
+жыве -> habitat  # пражывае
+любіць -> amat  # 3 sg.
+збірае, зрывае -> carpit
+захапляе -> delectat
+робіць, заняты (нечым) -> agit
+
+таксама -> etiam   # = quoque
+з -> cum  # разам
+без -> sine
+ад -> ab  # адыходзіць
+з -> ex  # выходзіць
+яна -> ea
+яно -> id
+у ім -> in eo
+з ёй -> cum ea
+яны -> ii  # m, Nom.
+яны -> eae  # f, Nom.
+яны ->  ea  # n, Nom.
+іх -> eos  # m, Acc.
+іх -> eas  # f, Acc.
+іх -> eorum  # m, Gen.
+іх -> earum  # f, Gen.
+імі -> iis
+
+творны -> ablativus  # склон
