@@ -37,10 +37,10 @@
 насіць -> gero, gessi, gestum, gerere  # адзежу
 кажа -> inquit
 
-кожны з двух -> uterque
-ніводзін з двух -> neuter
-адзін з двух -> alter
-які з двух? -> uter?
+кожны з двух -> uterque, utraque, utrumque
+ніводзін з двух -> neuter, tra, trum
+адзін з двух -> alter, era, erum
+які з двух -> uter, utra, utrum
 мне -> mihi
 табе -> tibi
 са мной -> mecum

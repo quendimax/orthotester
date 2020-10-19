@@ -34,7 +34,7 @@ Iulius dominus e[orum]/ill[orum] servorum est.
 
 Iulius servis mala dat. Qu[ibus] servis?
 Servi qu[ibus] Iulius mala dat sunt Syrus et Leander.
-I. i[is]/ill[is] servis mala dat.
+Iulius i[is]/ill[is] servis mala dat.
 
 Sacci a servis portantur. A qu[ibus] servis?
 Servi a qu[ibus] sacci portantur sunt Syrus et Leander.
@@ -53,7 +53,7 @@ Iulius e[am]/ill[am] ancillam vocat.
 
 Iulius dominus ancillae est. C[uius] ancillae?
 Syra est ancilla c[uius] dominus Iulius est.
-I. dominus e[ius]/ill[ius] ancillae est.
+Iulius dominus e[ius]/ill[ius] ancillae est.
 
 Iulius ancillae malum dat. C[ui] ancillae?
 Ancilla c[ui] Iulius malum dat est Syra.
@@ -77,7 +77,7 @@ Iulius dominus e[arum]/ill[arum] ancillarum est.
 
 Iulius ancillis mala dat. Qu[ibus] ancillis?
 Ancillae qu[ibus] Iulius mala dat sunt Syra et Delia.
-I. i[is]/ill[is] ancillis mala dat.
+Iulius i[is]/ill[is] ancillis mala dat.
 
 Iulius ab ancillis salutatur. A qu[ibus] ancillis?
 Ancillae a qu[ibus] Iulius salutatur sunt Syra et Delia.
@@ -111,8 +111,8 @@ Ostia et Tusculum sunt oppida qu[ae] prope Romam sunt.
 E[a]/ill[a] oppida prope Romam sunt.
 
 Albinus ornamenta vendit. Qu[ae] ornamenta?
-Ornamenta qu[ae] A. vendit sunt anuli.
-E[a]/ill[a] ornamenta vendit A.
+Ornamenta qu[ae] Albinus vendit sunt anuli.
+E[a]/ill[a] ornamenta vendit Albinus.
 
 Pretium ornamentorum est HS C. Qu[orum] ornamentorum?
 Ornamenta qu[orum] pretium est HS C anuli sunt.

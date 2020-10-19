@@ -27,16 +27,16 @@
 яго -> eum  # Acc.
 яе -> eam  # Acc.
 
-і не -> neque
+і не -> neque   # = nec
 ужо -> iam
 чаму? -> cur?
-бо -> quia
+бо -> quia   # = nam, quod
 тут -> hic
 які -> qui
 якая -> quae
 якога, які -> quem
 якую -> quam
 
-назоўны -> nominativus  # склон
-вінавальны -> accusativus  # склон
+назоўны -> casus nominativus  # склон
+вінавальны -> casus accusativus  # склон
 слова, выраз -> verbum

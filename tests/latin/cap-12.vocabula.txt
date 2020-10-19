@@ -9,12 +9,12 @@
 воін -> miles, itis m
 шчыт -> scutum
 меч -> gladius
-дзіда -> pilum
+капʼё пешага -> pilum
 зброя -> arma, orum n  # pl. t.
 лук -> arcus, us m
 страла -> sagitta
 кулак -> pugnus
-капʼё -> hasta
+капʼё коннага -> hasta
 пехацінец -> pedes, itis m
 коннік -> eques, itis m
 частка -> pars, partis f
@@ -60,4 +60,4 @@
 проці -> contra
 і -> ac  # = atque
 прыметнік -> adiectivum
-кампаратыў -> comparativus
+кампаратыў -> gradus comparativus

@@ -1,0 +1,36 @@
+# Capitulum XII. Miles Romanus. Grammatica. Adiectiva D3
+
+# Adiectiva declinationis tertiae
+
+Pedes fort[is] Roman[us] gladium grav[em] et lev[em], scutum magn[um] et grav[e] fert.
+Eques hastam fert long[am] et grav[em].
+Pediti fort[i] Roman[o] est gladius brev[is] et lev[is], scutum magn[um] et grav[e].
+Equiti hasta long[a] et grav[is] est.
+Pedes gladio brev[i] et lev[i], scuto magn[o] et grav[i] armatus est.
+Eques hasta long[a] et grav[i] pugnat.
+
+Pedites fort[es] Roman[i] gladios brev[es] et lev[es], scuta magn[a] et grav[ia] ferunt.
+Equites hastas ferunt long[as] et grav[es].
+Peditibus fort[ibus] Roman[is] sunt gladii brev[es] et lev[es], scuta magn[a] et grav[ia].
+Equitibus hastae long[ae] et grav[es] sunt.
+Pedites gladiis brev[ibus] et lev[ibus], scutis magn[is] et grav[ibus] armati sunt.
+Equites hastis long[is] et grav[ibus] pugnant.
+
+# Comparativus
+
+Gladius equitis long[ior] et grav[ior] est quam peditis.
+Eques gladium long[iorem] et grav[iorem] fert quam pedes.
+Eques gladio long[iore] et grav[iore] pugnat.
+Gladii equitum long[iores] et grav[iore] sunt quam peditum.
+Equites gladiis long[ioribus] et grav[ioribus] pugnant.
+Pilum brev[ius] et lev[ius] est quam hasta.
+Pila brev[iora] et lev[iora] sunt quam hastae.
+
+Delia ancilla pulchr[ior] est quam Syra.
+Leander, qui ancillae pulchr[ioris] amicus est, ancillae pulchr[iori] rosam dat.
+Quid pulchr[ius] est quam rosa?
+
+Milites Romani fort[iores] sunt quam hostes.
+Dux Romanus militibus fort[ioribus] imperat quam dux hostium.
+Ille dux militum fort[iorum] est.
+

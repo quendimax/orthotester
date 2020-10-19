@@ -16,7 +16,7 @@
 аздоблены каштоўнымі камянямі -> gemmatus
 сярэдні -> medius
 
-чацвёрты -> quartus
+чацверты -> quartus
 дваццаць -> viginti
 восемдзясят -> octoginta
 дзевяноста -> nonaginta
@@ -29,10 +29,10 @@
 дастае -> accipit  # ад некага
 аздабляе -> ornat
 крычыць -> clamat
-паказвае -> monstrat
-дэманструе -> ostendit
+паказвае -> monstrat   # = ostendit
+паказвае -> ostendit   # = monstrat
 каштуе -> constat
-пасуе -> convenit
+падыходзіць, пасуе -> convenit
 
 іншы, другі -> alius
 гэны, той -> ille
@@ -40,6 +40,6 @@
 які вялікі -> quantus
 даволі, досыць -> satis  # adv.
 занадта -> nimis
-ці, або -> aut
+ці, або -> aut  # = vel, an
 
 займеннік -> pronomen, inis n

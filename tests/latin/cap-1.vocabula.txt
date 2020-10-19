@@ -1,4 +1,4 @@
-# Capitulum I. Imperivum Romanum. Vocabula nova
+# Capitulum I. Imperium Romanum. Vocabula nova
 
 раздзел -> capitulum  # кнігі
 склад -> syllaba  # слова
@@ -28,12 +28,12 @@
 і -> et
 але -> sed
 не -> non
-таксама -> quoque   # == etiam
+таксама -> quoque   # = etiam, item
 пытальны постфікс -> -ne
 дзе? -> ubi?
 ці? хіба? няўжо? -> num?
 што? -> quid?
 
 граматыка -> grammatica
-адзіночны -> singularis, e  # лік
-множны -> pluralis, e  # лік
+адзіночны -> numerus singularis  # лік
+множны -> numerus pluralis  # лік

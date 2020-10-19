@@ -35,9 +35,9 @@
 ён -> is
 якое -> quod
 яшчэ раз -> rursus
-толькі -> tantum
+толькі -> tantum  # = solum, modo
 вітаю -> salve
 
-клічны -> vocativus  # склон
-загадны -> imperativus  # лад
-абвесны -> indicativus  # лад
+клічны -> casus vocativus  # склон
+загадны -> modus imperativus  # лад
+абвесны -> modus indicativus  # лад

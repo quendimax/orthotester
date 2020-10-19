@@ -5,7 +5,7 @@
 ружа -> rosa
 лілія -> lilium
 нос -> nasus
-уваход -> ostius
+уваход -> ostium
 акно -> fenestra
 гасцёўня -> atrium
 вадасток -> impluvium
@@ -23,7 +23,7 @@
 захапляе -> delectat
 робіць, заняты (нечым) -> agit
 
-таксама -> etiam   # = quoque
+таксама -> etiam   # = quoque, item
 з -> cum  # разам
 без -> sine
 ад -> ab  # адыходзіць
@@ -41,4 +41,4 @@
 іх -> earum  # f, Gen.
 імі -> iis
 
-творны -> ablativus  # склон
+творны -> casus ablativus  # склон

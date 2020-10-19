@@ -1,0 +1,18 @@
+# Capitulum X.  Bestiae et homines. Grammatica. Infinitivus
+
+# Activum
+
+Iulius Marcum non vid[ere], sed aud[ire] potest.
+Pater filium voc[are] audit, et accurr[ere] videt.
+Medus servus [esse] non vult.
+Nemo gemmas [esse] non potest.
+
+# Passivum
+
+Marcus a Iulio non vid[eri], sed aud[iri] potest.
+Marcus Quintum a Iulio port[ari] et in lecto pon[i] videt.
+
+Pisces numer[ari] non possunt.
+Syra rosam a Iulia ten[eri] videt.
+Gemmae ed[i] non possunt.
+Magnum ostium a parva puella neque aper[iri] neque claud[i] potest.

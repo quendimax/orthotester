@@ -34,7 +34,7 @@
 палавінны -> dimidius
 роўны -> aequus
 светлы -> clarus
-цэлы -> totus
+увесь, цэлы -> totus
 цёмны -> obscurus
 невялікі -> exiguus  # = parvus
 гарачы -> calidus
@@ -62,12 +62,12 @@
 быў -> erat
 былі -> erant
 
-ці, або -> vel  # = aut
+ці, або -> vel  # = aut, an
 тады -> tunc  # у гэным часе
 цяпер -> nunc
 значыць, нават -> igitur  # = ergo
-таксама -> item  # = etiam
+таксама -> item  # = quoque, etiam
 калі? -> quando?
 
-найвышэйшая ступень параўнання -> superlativus
+найвышэйшая ступень параўнання -> gradus superlativus
 нескланяльны -> indeclinabilis, e

@@ -117,9 +117,9 @@ def print_right():
 def print_wrong(right_answer, wrong_position, answer_marks, right_marks):
     msg = ' ---> ' + TextProp.WRONG + 'Wrong' + (' ' * wrong_position) + answer_marks + TextProp.NORMAL
     print(msg)
-    msg = ' ---> Right answer: ' + TextProp.BOLD + right_answer + TextProp.NORMAL
+    msg = ' ---> Right: ' + TextProp.BOLD + right_answer + TextProp.NORMAL
     print(msg)
-    msg = '                    ' + TextProp.RIGHT + right_marks + TextProp.NORMAL
+    msg = '             ' + TextProp.RIGHT + right_marks + TextProp.NORMAL
     print(msg)
 
 

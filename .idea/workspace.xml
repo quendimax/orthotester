@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add cap-24.pen-b.txt&#10;Some fixes">
-      <change afterPath="$PROJECT_DIR$/tests/latin/cap-24.gramm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-1.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-1.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-23.pen-b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-23.pen-b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-24.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-24.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-5.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-5.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/verba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/verba.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,9 +98,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="orthotester" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -127,15 +116,23 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/tests/latin/aphorisms.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="JupyterTrust" id="1a9468e9-1ffe-4e3a-a4dd-42bc5ae00de6" />
   <component name="ProjectId" id="1OV2flejfKpKcRXnfr9s4p2Eshr" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/reggen" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -172,19 +169,7 @@
       <recent name="$PROJECT_DIR$/tests/latin" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Praes. ind. act.">
+  <component name="RunManager" selected="Python.Vocabula">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,6 +188,28 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
+    </configuration>
+    <configuration name="Arabic 1" type="PythonConfigurationType" factoryName="Python" folderName="Arabic">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/arabic/test-01.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Capitulum III. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
@@ -541,9 +548,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -563,9 +570,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -585,9 +592,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Program Files (x86)\Python27\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -673,9 +680,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -908,6 +915,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Capitulum XII. Grammatica. Adiectiva Decl 3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-12.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Capitulum XII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -981,9 +1010,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -1223,7 +1252,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -1333,9 +1362,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -1854,6 +1883,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Capitulum X. Grammatica. Infinitivus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-10.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Capitulum X. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1971,9 +2022,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/.venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -2171,7 +2222,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -2285,9 +2336,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -2430,7 +2481,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="-n 100 tests/latin/cap-1.vocabula.txt tests/latin/cap-2.vocabula.txt tests/latin/cap-3.vocabula.txt tests/latin/cap-4.vocabula.txt tests/latin/cap-5.vocabula.txt tests/latin/cap-6.vocabula.txt tests/latin/cap-7.vocabula.txt tests/latin/cap-8.vocabula.txt tests/latin/cap-9.vocabula.txt tests/latin/cap-10.vocabula.txt tests/latin/cap-11.vocabula.txt tests/latin/cap-12.vocabula.txt tests/latin/cap-13.vocabula.txt tests/latin/cap-14.vocabula.txt tests/latin/cap-15.vocabula.txt tests/latin/cap-16.vocabula.txt tests/latin/cap-17.vocabula.txt tests/latin/cap-18.vocabula.txt tests/latin/cap-19.vocabula.txt tests/latin/cap-20.vocabula.txt tests/latin/cap-21.vocabula.txt tests/latin/cap-22.vocabula.txt tests/latin/cap-23.vocabula.txt" />
+      <option name="PARAMETERS" value="-n 100 tests/latin/cap-1.vocabula.txt tests/latin/cap-2.vocabula.txt tests/latin/cap-3.vocabula.txt tests/latin/cap-4.vocabula.txt tests/latin/cap-5.vocabula.txt tests/latin/cap-6.vocabula.txt tests/latin/cap-7.vocabula.txt tests/latin/cap-8.vocabula.txt tests/latin/cap-9.vocabula.txt tests/latin/cap-10.vocabula.txt tests/latin/cap-11.vocabula.txt tests/latin/cap-12.vocabula.txt tests/latin/cap-13.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3382,12 +3433,14 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Arabic 1" />
       <item itemvalue="Python.English" />
       <item itemvalue="Python.Declinatio prima" />
       <item itemvalue="Python.Declinatio secunda" />
@@ -3411,84 +3464,86 @@
       <item itemvalue="Python.Praes. ind. act." />
       <item itemvalue="Python.Praes. ind. pass." />
       <item itemvalue="Python.Pronomen hic" />
-      <item itemvalue="Python.Capitulum I. Pensum A" />
-      <item itemvalue="Python.Capitulum I. Pensum B" />
-      <item itemvalue="Python.Capitulum I. Vocabula" />
-      <item itemvalue="Python.Capitulum II. Pensum A" />
-      <item itemvalue="Python.Capitulum II. Pensum B" />
-      <item itemvalue="Python.Capitulum II. Vocabula" />
       <item itemvalue="Python.Capitulum III. Pensum A" />
       <item itemvalue="Python.Capitulum III. Pensum B" />
       <item itemvalue="Python.Capitulum III. Vocabula" />
+      <item itemvalue="Python.Capitulum II. Pensum A" />
+      <item itemvalue="Python.Capitulum II. Pensum B" />
+      <item itemvalue="Python.Capitulum II. Vocabula" />
       <item itemvalue="Python.Capitulum IV. Pensum A" />
       <item itemvalue="Python.Capitulum IV. Pensum B" />
       <item itemvalue="Python.Capitulum IV. Vocabula" />
-      <item itemvalue="Python.Capitulum V. Pensum A" />
-      <item itemvalue="Python.Capitulum V. Pensum B" />
-      <item itemvalue="Python.Capitulum V. Vocabula" />
-      <item itemvalue="Python.Capitulum VI. Pensum A" />
-      <item itemvalue="Python.Capitulum VI. Pensum B" />
-      <item itemvalue="Python.Capitulum VI. Vocabula" />
-      <item itemvalue="Python.Capitulum VII. Pensum A" />
-      <item itemvalue="Python.Capitulum VII. Pensum B" />
-      <item itemvalue="Python.Capitulum VII. Vocabula" />
+      <item itemvalue="Python.Capitulum IX. Pensum A" />
+      <item itemvalue="Python.Capitulum IX. Pensum B" />
+      <item itemvalue="Python.Capitulum IX. Vocabula" />
+      <item itemvalue="Python.Capitulum I. Pensum A" />
+      <item itemvalue="Python.Capitulum I. Pensum B" />
+      <item itemvalue="Python.Capitulum I. Vocabula" />
       <item itemvalue="Python.Capitulum VIII. Grammatica. Qui, is, ille." />
       <item itemvalue="Python.Capitulum VIII. Pensum A" />
       <item itemvalue="Python.Capitulum VIII. Pensum B" />
       <item itemvalue="Python.Capitulum VIII. Vocabula" />
-      <item itemvalue="Python.Capitulum IX. Pensum A" />
-      <item itemvalue="Python.Capitulum IX. Pensum B" />
-      <item itemvalue="Python.Capitulum IX. Vocabula" />
-      <item itemvalue="Python.Capitulum X. Pensum A" />
-      <item itemvalue="Python.Capitulum X. Pensum B" />
-      <item itemvalue="Python.Capitulum X. Vocabula" />
-      <item itemvalue="Python.Capitulum XI. Pensum A" />
-      <item itemvalue="Python.Capitulum XI. Pensum B" />
-      <item itemvalue="Python.Capitulum XI. Vocabula" />
-      <item itemvalue="Python.Capitulum XII. Pensum A" />
-      <item itemvalue="Python.Capitulum XII. Pensum B" />
-      <item itemvalue="Python.Capitulum XII. Vocabula" />
+      <item itemvalue="Python.Capitulum VII. Pensum A" />
+      <item itemvalue="Python.Capitulum VII. Pensum B" />
+      <item itemvalue="Python.Capitulum VII. Vocabula" />
+      <item itemvalue="Python.Capitulum VI. Pensum A" />
+      <item itemvalue="Python.Capitulum VI. Pensum B" />
+      <item itemvalue="Python.Capitulum VI. Vocabula" />
+      <item itemvalue="Python.Capitulum V. Pensum A" />
+      <item itemvalue="Python.Capitulum V. Pensum B" />
+      <item itemvalue="Python.Capitulum V. Vocabula" />
       <item itemvalue="Python.Capitulum XIII. Grammatica. Declinatio quinta. Superlativus" />
       <item itemvalue="Python.Capitulum XIII. Pensum A" />
       <item itemvalue="Python.Capitulum XIII. Pensum B" />
       <item itemvalue="Python.Capitulum XIII. Vocabula" />
+      <item itemvalue="Python.Capitulum XII. Grammatica. Adiectiva Decl 3" />
+      <item itemvalue="Python.Capitulum XII. Pensum A" />
+      <item itemvalue="Python.Capitulum XII. Pensum B" />
+      <item itemvalue="Python.Capitulum XII. Vocabula" />
       <item itemvalue="Python.Capitulum XIV. Grammatica. Participium" />
       <item itemvalue="Python.Capitulum XIV. Pensum A" />
       <item itemvalue="Python.Capitulum XIV. Pensum B" />
       <item itemvalue="Python.Capitulum XIV. Vocabula" />
-      <item itemvalue="Python.Capitulum XV. Pensum A" />
-      <item itemvalue="Python.Capitulum XV. Pensum B" />
-      <item itemvalue="Python.Capitulum XV. Vocabula" />
-      <item itemvalue="Python.Capitulum XVI. Pensum A" />
-      <item itemvalue="Python.Capitulum XVI. Pensum B" />
-      <item itemvalue="Python.Capitulum XVI. Vocabula" />
-      <item itemvalue="Python.Capitulum XVII. Pensum A" />
-      <item itemvalue="Python.Capitulum XVII. Pensum B" />
-      <item itemvalue="Python.Capitulum XVII. Vocabula" />
-      <item itemvalue="Python.Capitulum XVIII. Pensum A" />
-      <item itemvalue="Python.Capitulum XVIII. Pensum B" />
-      <item itemvalue="Python.Capitulum XVIII. Vocabula" />
       <item itemvalue="Python.Capitulum XIX. Grammatica. Imperfectum" />
       <item itemvalue="Python.Capitulum XIX. Pensum A" />
       <item itemvalue="Python.Capitulum XIX. Pensum B" />
       <item itemvalue="Python.Capitulum XIX. Vocabula" />
-      <item itemvalue="Python.Capitulum XX. Grammatica. Futurum primum" />
-      <item itemvalue="Python.Capitulum XX. Pensum A" />
-      <item itemvalue="Python.Capitulum XX. Pensum B" />
-      <item itemvalue="Python.Capitulum XX. Vocabula" />
-      <item itemvalue="Python.Capitulum XXI. Pensum A" />
-      <item itemvalue="Python.Capitulum XXI. Pensum B" />
-      <item itemvalue="Python.Capitulum XXI. Vocabula" />
-      <item itemvalue="Python.Capitulum XXII. Pensum A" />
-      <item itemvalue="Python.Capitulum XXII. Pensum B" />
-      <item itemvalue="Python.Capitulum XXII. Vocabula" />
+      <item itemvalue="Python.Capitulum XI. Pensum A" />
+      <item itemvalue="Python.Capitulum XI. Pensum B" />
+      <item itemvalue="Python.Capitulum XI. Vocabula" />
+      <item itemvalue="Python.Capitulum XVIII. Pensum A" />
+      <item itemvalue="Python.Capitulum XVIII. Pensum B" />
+      <item itemvalue="Python.Capitulum XVIII. Vocabula" />
+      <item itemvalue="Python.Capitulum XVII. Pensum A" />
+      <item itemvalue="Python.Capitulum XVII. Pensum B" />
+      <item itemvalue="Python.Capitulum XVII. Vocabula" />
+      <item itemvalue="Python.Capitulum XVI. Pensum A" />
+      <item itemvalue="Python.Capitulum XVI. Pensum B" />
+      <item itemvalue="Python.Capitulum XVI. Vocabula" />
+      <item itemvalue="Python.Capitulum XV. Pensum A" />
+      <item itemvalue="Python.Capitulum XV. Pensum B" />
+      <item itemvalue="Python.Capitulum XV. Vocabula" />
       <item itemvalue="Python.Capitulum XXIII. Grammatica. Participium et infinitivus futuri" />
       <item itemvalue="Python.Capitulum XXIII. Pensum A" />
       <item itemvalue="Python.Capitulum XXIII. Pensum B" />
       <item itemvalue="Python.Capitulum XXIII. Vocabula" />
+      <item itemvalue="Python.Capitulum XXII. Pensum A" />
+      <item itemvalue="Python.Capitulum XXII. Pensum B" />
+      <item itemvalue="Python.Capitulum XXII. Vocabula" />
       <item itemvalue="Python.Capitulum XXIV. Pensum A" />
       <item itemvalue="Python.Capitulum XXIV. Pensum B" />
       <item itemvalue="Python.Capitulum XXIV. Vocabula" />
+      <item itemvalue="Python.Capitulum XXI. Pensum A" />
+      <item itemvalue="Python.Capitulum XXI. Pensum B" />
+      <item itemvalue="Python.Capitulum XXI. Vocabula" />
+      <item itemvalue="Python.Capitulum XX. Grammatica. Futurum primum" />
+      <item itemvalue="Python.Capitulum XX. Pensum A" />
+      <item itemvalue="Python.Capitulum XX. Pensum B" />
+      <item itemvalue="Python.Capitulum XX. Vocabula" />
+      <item itemvalue="Python.Capitulum X. Grammatica. Infinitivus" />
+      <item itemvalue="Python.Capitulum X. Pensum A" />
+      <item itemvalue="Python.Capitulum X. Pensum B" />
+      <item itemvalue="Python.Capitulum X. Vocabula" />
       <item itemvalue="Python.Verba" />
       <item itemvalue="Python.Vocabula" />
       <item itemvalue="Python.prawily01-06.txt" />
@@ -3530,7 +3585,7 @@
       <item itemvalue="Python.test.txt" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="6" Folder0="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder1="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder2="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder3="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder4="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder5="C:\Users\Maksim\YandexDisk\goldendict\morphology" CustomDictionaries="6" CustomDictionary0="C:\Users\Maksim\YandexDisk\goldendict\morphology\be_BY.dic" CustomDictionary1="C:\Users\Maksim\YandexDisk\goldendict\morphology\en_US.dic" CustomDictionary2="C:\Users\Maksim\YandexDisk\goldendict\morphology\ko.dic" CustomDictionary3="C:\Users\Maksim\YandexDisk\goldendict\morphology\la_VA.dic" CustomDictionary4="C:\Users\Maksim\YandexDisk\goldendict\morphology\pl_PL.dic" CustomDictionary5="C:\Users\Maksim\YandexDisk\goldendict\morphology\ru_RU.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="6" Folder0="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder1="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder2="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder3="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder4="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder5="C:\Users\Maksim\YandexDisk\goldendict\morphology" CustomDictionaries="6" CustomDictionary0="C:\Users\Maksim\YandexDisk\goldendict\morphology\be_BY.dic" CustomDictionary1="C:\Users\Maksim\YandexDisk\goldendict\morphology\en_US.dic" CustomDictionary2="C:\Users\Maksim\YandexDisk\goldendict\morphology\ko.dic" CustomDictionary3="C:\Users\Maksim\YandexDisk\goldendict\morphology\la_VA.dic" CustomDictionary4="C:\Users\Maksim\YandexDisk\goldendict\morphology\pl_PL.dic" CustomDictionary5="C:\Users\Maksim\YandexDisk\goldendict\morphology\ru_RU.dic" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
     <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
@@ -3718,6 +3773,59 @@
       <workItem from="1573033684509" duration="1260000" />
       <workItem from="1573123664169" duration="668000" />
       <workItem from="1573298863086" duration="625000" />
+      <workItem from="1573481075801" duration="7233000" />
+      <workItem from="1573548895228" duration="245000" />
+      <workItem from="1573556075746" duration="2183000" />
+      <workItem from="1574159293454" duration="4419000" />
+      <workItem from="1574254871188" duration="15000" />
+      <workItem from="1574254923691" duration="3441000" />
+      <workItem from="1574326831287" duration="2636000" />
+      <workItem from="1574345776258" duration="1330000" />
+      <workItem from="1574414771143" duration="3543000" />
+      <workItem from="1574428474989" duration="6365000" />
+      <workItem from="1576176486266" duration="1180000" />
+      <workItem from="1576234039930" duration="4888000" />
+      <workItem from="1576684107581" duration="1341000" />
+      <workItem from="1581960122998" duration="1215000" />
+      <workItem from="1582016253395" duration="3805000" />
+      <workItem from="1582099428629" duration="6703000" />
+      <workItem from="1582111321219" duration="4908000" />
+      <workItem from="1582189218266" duration="2104000" />
+      <workItem from="1582296859725" duration="2044000" />
+      <workItem from="1582547536335" duration="5087000" />
+      <workItem from="1582620637261" duration="1557000" />
+      <workItem from="1582622209028" duration="2795000" />
+      <workItem from="1582733925080" duration="2358000" />
+      <workItem from="1582803773491" duration="3061000" />
+      <workItem from="1582816968449" duration="2759000" />
+      <workItem from="1582881518844" duration="7196000" />
+      <workItem from="1583163364659" duration="3884000" />
+      <workItem from="1583223150590" duration="6996000" />
+      <workItem from="1583322428869" duration="9369000" />
+      <workItem from="1583405929717" duration="1032000" />
+      <workItem from="1583511708867" duration="2242000" />
+      <workItem from="1583758489252" duration="9214000" />
+      <workItem from="1583921993787" duration="1369000" />
+      <workItem from="1584359432629" duration="9933000" />
+      <workItem from="1584441230362" duration="2196000" />
+      <workItem from="1584530584083" duration="7009000" />
+      <workItem from="1584608711874" duration="628000" />
+      <workItem from="1584630967506" duration="2254000" />
+      <workItem from="1585056513154" duration="847000" />
+      <workItem from="1585127093458" duration="150000" />
+      <workItem from="1585153331886" duration="1422000" />
+      <workItem from="1585304583319" duration="4942000" />
+      <workItem from="1585557140963" duration="6477000" />
+      <workItem from="1585651698562" duration="612000" />
+      <workItem from="1585744285469" duration="5116000" />
+      <workItem from="1585817600821" duration="3166000" />
+      <workItem from="1585901824180" duration="8135000" />
+      <workItem from="1585996545813" duration="2963000" />
+      <workItem from="1586158096653" duration="6498000" />
+      <workItem from="1586431484096" duration="2738000" />
+      <workItem from="1587571723361" duration="677000" />
+      <workItem from="1587636065851" duration="1367000" />
+      <workItem from="1602861525296" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="Update prawily231-234.txt">
       <created>1431553437956</created>
@@ -3848,17 +3956,8 @@
     <option name="localTasksCounter" value="19" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -3875,13 +3974,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -3910,6 +4022,16 @@
     <MESSAGE value="Add cap-24.pen-b.txt&#10;Some fixes" />
     <option name="LAST_COMMIT_MESSAGE" value="Add cap-24.pen-b.txt&#10;Some fixes" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="204" key="FileChooserDialogImpl" timestamp="1598111240058">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="611" y="204" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1598111240058" />
+    <state x="332" y="94" key="SettingsEditor" timestamp="1598108568547">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="332" y="94" key="SettingsEditor/62.0.1538.900@62.0.1538.900" timestamp="1598108568547" />
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -3918,65 +4040,6 @@
         <watch expression="matrix[i+1]" language="Python" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVI__Pensum_A.coverage" NAME="Capitulum XVI. Pensum A Coverage Results" MODIFIED="1556109483968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXII__Pensum_A.coverage" NAME="Capitulum XXII. Pensum A Coverage Results" MODIFIED="1566397266772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_VI__Vocabula.coverage" NAME="Capitulum VI. Vocabula Coverage Results" MODIFIED="1572512617377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Vocabula.coverage" NAME="Vocabula Coverage Results" MODIFIED="1562760804662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIII__Pensum_B.coverage" NAME="Capitulum XXIII. Pensum B Coverage Results" MODIFIED="1571311254853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_II__Pensum_B.coverage" NAME="Capitulum II. Pensum B Coverage Results" MODIFIED="1571332124403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVIII__Vocabula.coverage" NAME="Capitulum XVIII. Vocabula Coverage Results" MODIFIED="1557828732185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIII__Vocabula.coverage" NAME="Capitulum XIII. Vocabula Coverage Results" MODIFIED="1557509466626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVI__Vocabula.coverage" NAME="Capitulum XVI. Vocabula Coverage Results" MODIFIED="1556537646232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIV__Pensum_B.coverage" NAME="Capitulum XXIV. Pensum B Coverage Results" MODIFIED="1562841174752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XV__Pensum_A.coverage" NAME="Capitulum XV. Pensum A Coverage Results" MODIFIED="1553857116628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Praes__ind__act_.coverage" NAME="Praes. ind. act. Coverage Results" MODIFIED="1572513014965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXII__Pensum_B.coverage" NAME="Capitulum XXII. Pensum B Coverage Results" MODIFIED="1565362334537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_V__Vocabula.coverage" NAME="Capitulum V. Vocabula Coverage Results" MODIFIED="1572331449159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVI__Pensum_B.coverage" NAME="Capitulum XVI. Pensum B Coverage Results" MODIFIED="1556109922464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_III__Pensum_B.coverage" NAME="Capitulum III. Pensum B Coverage Results" MODIFIED="1571846348152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIV__Grammatica__Participium.coverage" NAME="Capitulum XIV. Grammatica. Participium Coverage Results" MODIFIED="1560254249955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_II__Pensum_A.coverage" NAME="Capitulum II. Pensum A Coverage Results" MODIFIED="1571314520852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_IV__Pensum_B.coverage" NAME="Capitulum IV. Pensum B Coverage Results" MODIFIED="1571996059603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XX__Pensum_B.coverage" NAME="Capitulum XX. Pensum B Coverage Results" MODIFIED="1565272157772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVII__Vocabula.coverage" NAME="Capitulum XVII. Vocabula Coverage Results" MODIFIED="1557480313907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XV__Pensum_B.coverage" NAME="Capitulum XV. Pensum B Coverage Results" MODIFIED="1553857826975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Verba.coverage" NAME="Verba Coverage Results" MODIFIED="1563274567175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XII__Pensum_A.coverage" NAME="Capitulum XII. Pensum A Coverage Results" MODIFIED="1566397129626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_I__Pensum_A.coverage" NAME="Capitulum I. Pensum A Coverage Results" MODIFIED="1571311269100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_III__Pensum_A.coverage" NAME="Capitulum III. Pensum A Coverage Results" MODIFIED="1571845171331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_IV__Pensum_A.coverage" NAME="Capitulum IV. Pensum A Coverage Results" MODIFIED="1571995846847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Pronomen_hic.coverage" NAME="Pronomen hic Coverage Results" MODIFIED="1561737110382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVII__Pensum_A.coverage" NAME="Capitulum XVII. Pensum A Coverage Results" MODIFIED="1557479614101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_IV__Vocabula.coverage" NAME="Capitulum IV. Vocabula Coverage Results" MODIFIED="1572254703799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XX__Grammatica__Futurum_primum.coverage" NAME="Capitulum XX. Grammatica. Futurum primum Coverage Results" MODIFIED="1565269451220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XX__Pensum_A.coverage" NAME="Capitulum XX. Pensum A Coverage Results" MODIFIED="1565271496003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_I__Vocabula.coverage" NAME="Capitulum I. Vocabula Coverage Results" MODIFIED="1571312241520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_III__Vocabula.coverage" NAME="Capitulum III. Vocabula Coverage Results" MODIFIED="1571844775141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_V__Pensum_A.coverage" NAME="Capitulum V. Pensum A Coverage Results" MODIFIED="1572329749651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIX__Grammatica__Imperfectum.coverage" NAME="Capitulum XIX. Grammatica. Imperfectum Coverage Results" MODIFIED="1565084917165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIX__Vocabula.coverage" NAME="Capitulum XIX. Vocabula Coverage Results" MODIFIED="1565269044408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_II__Vocabula.coverage" NAME="Capitulum II. Vocabula Coverage Results" MODIFIED="1571843988959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXI__Pensum_B.coverage" NAME="Capitulum XXI. Pensum B Coverage Results" MODIFIED="1565348938546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXI__Vocabula.coverage" NAME="Capitulum XXI. Vocabula Coverage Results" MODIFIED="1568042945751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Declinacio_5.coverage" NAME="Declinacio 5 Coverage Results" MODIFIED="1557581353474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XX__Vocabula.coverage" NAME="Capitulum XX. Vocabula Coverage Results" MODIFIED="1565273994528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIII__Pensum_A.coverage" NAME="Capitulum XXIII. Pensum A Coverage Results" MODIFIED="1568283078663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIX__Pensum_B.coverage" NAME="Capitulum XIX. Pensum B Coverage Results" MODIFIED="1558527582007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVIII__Pensum_B.coverage" NAME="Capitulum XVIII. Pensum B Coverage Results" MODIFIED="1557580343048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIV__Pensum_A.coverage" NAME="Capitulum XXIV. Pensum A Coverage Results" MODIFIED="1562839346678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XV__Vocabula.coverage" NAME="Capitulum XV. Vocabula Coverage Results" MODIFIED="1554717141715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVII__Pensum_B.coverage" NAME="Capitulum XVII. Pensum B Coverage Results" MODIFIED="1557479857283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIV__Vocabula.coverage" NAME="Capitulum XXIV. Vocabula Coverage Results" MODIFIED="1565001842001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXI__Pensum_A.coverage" NAME="Capitulum XXI. Pensum A Coverage Results" MODIFIED="1565274534427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXII__Vocabula.coverage" NAME="Capitulum XXII. Vocabula Coverage Results" MODIFIED="1568042968777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIII__Grammatica__Participium_et_infinitivus_futuri.coverage" NAME="Capitulum XXIII. Grammatica. Participium et infinitivus futuri Coverage Results" MODIFIED="1566483355973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XXIII__Vocabula.coverage" NAME="Capitulum XXIII. Vocabula Coverage Results" MODIFIED="1568282394114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_I__Pensum_B.coverage" NAME="Capitulum I. Pensum B Coverage Results" MODIFIED="1571311841304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XIX__Pensum_A.coverage" NAME="Capitulum XIX. Pensum A Coverage Results" MODIFIED="1565094996185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_XVIII__Pensum_A.coverage" NAME="Capitulum XVIII. Pensum A Coverage Results" MODIFIED="1557577673668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/orthotester$Capitulum_V__Pensum_B.coverage" NAME="Capitulum V. Pensum B Coverage Results" MODIFIED="1572330371038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">

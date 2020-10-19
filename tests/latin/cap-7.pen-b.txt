@@ -17,4 +17,4 @@ Iulia non ridet, sed [lacrimat]: in [oculis] eius sunt [lacrimae].
 Delia: "In atrio pater tuus te [exspectat], Iulia."
 Iulia [e] cubiculo [exit], ad Iulium currit et [ei] osculum dat.  # 1: = ex, 3: Iulio
 Iulia rosam ante Iulium [tenet].
-Iulia: "Nonne [haec] rosa [formosa] est?"  # 2: = pulchra
+Iulia: "Nonne [haec] rosa [formosa] est?"  # 1: гэта, 2: = pulchra

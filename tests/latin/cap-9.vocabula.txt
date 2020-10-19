@@ -46,7 +46,7 @@
 прыбягае -> accurrit
 кладзе на -> imponit
 
-сам -> ipse
+сам -> ipse, ipsa, ipsum
 далёка -> procul
 зверху -> supra
 пад -> sub

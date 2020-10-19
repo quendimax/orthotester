@@ -35,11 +35,11 @@
 хіба не -> nonne
 і...і -> et...et
 і не...і не -> neque...neque
-адно толькі -> solum
+адно толькі -> solum  # = tantum, modo
 там -> illic
 # e = ex
 яму -> ei
 ім -> iis  # Dat. pl.
 каму -> cui
 
-давальны -> dativus  # склон
+давальны -> casus dativus  # склон

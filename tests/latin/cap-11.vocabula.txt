@@ -43,7 +43,7 @@
 стаяць -> sto, steti, statum, stare
 кранаць -> tango, tetigi, tactum, tangere
 запрашаць, прыносіць -> arcesso, arcessivi, arcessitum, arcessere
-загадваць -> iubeo, iussi, iussum, iubere
+загадваць -> iubeo, iussi, iussum, iubere  # = impero, 1
 вяртацца -> revenio, reveni, reventum, revenire  # = redeo
 хварэць -> aegroto, —, —, aegrotare
 гаварыць -> dico, dixi, dictum, dicere

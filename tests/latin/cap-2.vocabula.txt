@@ -34,7 +34,7 @@
 чый? -> cuius?
 колькі? -> quot?
 
-мужчынскі -> masculinum  # род
-жаночы -> femininum  # род
-ніякі -> neutrum  # род
-родны -> genetivus  # склон
+мужчынскі -> genus masculinum  # род
+жаночы -> genus femininum  # род
+ніякі -> genus neutrum  # род
+родны -> casus genetivus  # склон
