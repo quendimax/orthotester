@@ -1,0 +1,34 @@
+# Capitulum V. Villa et hortus. Grammatica. Ablativus. Imperativus et indicativus plurales
+
+# Ablativus
+
+In hort[o] Iulii.
+In hort[is] Italiae.
+
+In vill[a] Iulii.
+In vill[is] Roman[is].
+
+In oppid[o] Tuscul[o].
+In oppid[is] Graec[is].
+
+# Imperativus et indicativus plurales
+
+Salut[a] dominum, serve!
+Servus dominum salut[at].
+Salut[ate] dominum, servi!
+Servi dominum salut[ant].
+
+Tac[e], puer!
+Puer tac[et].
+Tac[ete], pueri!
+Pueri tac[ent].
+
+Disced[e], serve!
+Servus disced[it].
+Disced[ite], servi!
+Servi disced[unt].
+
+Ven[i], Iulia!
+Iulia ven[it].
+Ven[ite], pueri!
+Pueri ven[iunt].

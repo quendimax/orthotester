@@ -1,4 +1,4 @@
-# Capitulum IV. Dominus et servi. Grammatica. Modus imperativus et casus vocativus
+# Capitulum IV. Dominus et servi. Grammatica. Vocativus. Imperativus et indicativus singulares
 
 # Vocātīvus
 
@@ -6,11 +6,11 @@ Medus Davum vocat: "Dav[e]!"
 Servus: "Salve, domin[e]!"
 Iulius Medum vocat: "Med[e]! Veni, improb[e] serv[e]!"
 
-# Imperativus et indicativus
+# Imperativus et indicativus singulares
 
 Dominus: "Voc[a] Davum!" Servus Davum voc[a]t.
 Dominus: "Tac[e] et aud[i]!" Servus tac[e]t et aud[i]t.
-Dominus: "Disced[e], serve!" Servus discedit.
+Dominus: "Disced[e], serve!" Servus disced[i]t.
 
 Medus: "Salut[a] dominum!" Davus dominum salut[a]t.
 Iulius: "Respond[e], serve!" Servus respond[e]t.

@@ -1,0 +1,43 @@
+# Capitulum VI. Via Latina. Grammatica. Praepositiones. Locativus. Activum et passivum
+
+# Praepositiones. Locativus
+
+# Iulius ad vill[am] it; ad oppid[um]; ad ancill[as].
+# Ursus ante Iuli[um] est; ante e[um]; ante vill[am].
+# Davus post Iuli[um] est; post e[um]; post vill[am].
+# Via inter Rom[am] et Capu[am]; inter serv[os].
+# Ostia est prope Rom[am]; prope vill[am]; prope e[am].
+# Circum oppid[um] murus est; circum mens[am].
+# Medus est apud amic[am] su[am], non apud domin[um].
+# Medus per port[am] Copen[am] Romam intrat; per osti[um].
+
+Quo it Medus? Medus Rom[am] it.
+Quo it Cornelius? Is Tuscul[um] it.
+
+Unde venit Cornelius? Cornelius Rom[a] venit.
+Unde venit Medus? Is Tuscul[o] venit.
+
+Ubi habitat Lydia? Lydia Rom[ae] habitat.
+Ubi habitat Cornelius? Is Tuscul[i] habitat.
+
+# Verbum activum et passivum
+
+# [1]
+Aemilia Iulium am[at] et ab eo am[atur].
+Pater et mater liberos am[ant] et ab iis am[antur].
+Lydia verbis Medi delect[atur].
+
+# [2]
+Iulia pueros non vid[et] neque ab iis vid[etur].
+Pueri Iuliam non vid[ent] neque ab ea vid[entur].
+
+# [3]
+Davus sacculum in mensa pon[it].
+Sacculus in mensa pon[itur] a Davo.
+Pueri rosas in aqua pon[unt].
+Rosae a pueris in aqua pon[untur].
+Cornelius equo veh[itur].
+
+# [4]
+Iulia pueros audit neque ab iis aud[itur].
+Pueri a Iulia aud[iuntur] neque eam aud[iunt].

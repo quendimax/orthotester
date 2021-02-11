@@ -132,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/reggen" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/latin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -157,19 +157,19 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester" />
-      <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\_others\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Workspace\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Archive\BSU-PHIL\Pastuplennie\orthotester\tests\latin" />
       <recent name="$PROJECT_DIR$/tests/greek" />
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
-      <recent name="$PROJECT_DIR$/tests/latin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester" />
+      <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Vocabula">
+  <component name="RunManager" selected="Python.Capitulum 06 (VI). Grammatica. Loc. Act. et pass.">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,271 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum III. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-3.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum III. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-3.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum III. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-3.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum II. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-2.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum II. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-2.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum II. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-2.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IV. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-4.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IV. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-4.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IV. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-4.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IX. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-9.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IX. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-9.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum IX. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-9.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum I. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 01 (I). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -497,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum I. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 01 (I). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -519,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum I. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 01 (I). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -541,51 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VIII. Grammatica. Qui, is, ille." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-8.gramm.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum VIII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-8.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum VIII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 02 (II). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -599,7 +291,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-8.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-2.pen-a.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -607,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VIII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 02 (II). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -621,7 +313,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-8.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-2.pen-b.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -629,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 02 (II). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -643,7 +335,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-7.pen-a.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-2.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -651,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 03 (III). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -665,7 +357,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-7.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-3.pen-a.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -673,29 +365,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-7.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum VI. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 03 (III). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -709,7 +379,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-6.pen-a.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-3.pen-b.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -717,7 +387,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VI. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 03 (III). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -731,7 +401,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-6.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-3.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -739,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum VI. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 04 (IV). Grammatica. Voc. Imp. et ind. sg." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -753,7 +423,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-6.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-4.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -761,7 +431,95 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum V. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 04 (IV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-4.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 04 (IV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-4.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 04 (IV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-4.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 05 (V). Grammatica. Abl. Imp. et ind. pl." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-5.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 05 (V). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -783,7 +541,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum V. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 05 (V). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -805,7 +563,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum V. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 05 (V). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -827,7 +585,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XIII. Grammatica. Declinatio quinta. Superlativus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 06 (VI). Grammatica. Loc. Act. et pass." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -841,7 +599,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-13.gramm.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-6.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -849,7 +607,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XIII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 06 (VI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -863,7 +621,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-13.pen-a.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-6.pen-a.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -871,7 +629,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XIII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 06 (VI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -885,7 +643,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-13.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-6.pen-b.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -893,7 +651,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XIII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 06 (VI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -907,7 +665,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-13.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-6.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -915,7 +673,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XII. Grammatica. Adiectiva Decl 3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 07 (VII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-7.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 07 (VII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-7.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 07 (VII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -929,7 +731,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-12.gramm.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-7.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -937,315 +739,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-12.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-12.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-12.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIV. Grammatica. Participium" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-14.gramm.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIV. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-14.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIV. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-14.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIV. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-14.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIX. Grammatica. Imperfectum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-19.gramm.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIX. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-19.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIX. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-19.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XIX. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-19.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XI. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-11.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XI. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-11.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XI. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-11.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVIII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 08 (VIII). Grammatica. Qui, is, ille." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1259,7 +753,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-18.pen-a.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-8.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1267,21 +761,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XVIII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 08 (VIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-18.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-8.pen-a.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1289,73 +783,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XVIII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-18.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-17.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-17.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 08 (VIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1369,7 +797,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-17.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-8.pen-b.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1377,51 +805,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XVI. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-16.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVI. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-16.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XVI. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 08 (VIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1435,7 +819,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-16.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-8.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1443,7 +827,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XV. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 09 (IX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1457,7 +841,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-15.pen-a.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-9.pen-a.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1465,7 +849,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XV. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 09 (IX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1479,7 +863,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-15.pen-b.txt --no-random" />
+      <option name="PARAMETERS" value="tests/latin/cap-9.pen-b.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1487,7 +871,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XV. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 09 (IX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1501,7 +885,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-15.vocabula.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-9.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1509,381 +893,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum XXIII. Grammatica. Participium et infinitivus futuri" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-23.gramm.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-23.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-23.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-23.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXII. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-22.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXII. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-22.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXII. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-22.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIV. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-24.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIV. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-24.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXIV. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-24.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXI. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-21.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXI. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-21.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XXI. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-21.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XX. Grammatica. Futurum primum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-20.gramm.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XX. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-20.pen-a.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XX. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-20.pen-b.txt --no-random" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum XX. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
-      <module name="orthotester" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\s2400082\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-20.vocabula.txt" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Capitulum X. Grammatica. Infinitivus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 10 (X). Grammatica. Infinitivus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1905,7 +915,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum X. Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 10 (X). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1927,7 +937,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum X. Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 10 (X). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1949,7 +959,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Capitulum X. Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+    <configuration name="Capitulum 10 (X). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1964,6 +974,1062 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
       <option name="PARAMETERS" value="tests/latin/cap-10.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 11 (XI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-11.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 11 (XI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-11.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 11 (XI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-11.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 12 (XII). Grammatica. Adiectiva Decl 3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-12.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 12 (XII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-12.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 12 (XII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-12.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 12 (XII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-12.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 13 (XIII). Grammatica. Decl. 5. Superl." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-13.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 13 (XIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-13.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 13 (XIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-13.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 13 (XIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-13.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 14 (XIV). Grammatica. Participium" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-14.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 14 (XIV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-14.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 14 (XIV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-14.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 14 (XIV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-14.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 15 (XV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-15.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 15 (XV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-15.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 15 (XV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-15.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 16 (XVI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-16.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 16 (XVI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-16.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 16 (XVI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-16.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 17 (XVII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-17.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 17 (XVII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-17.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 17 (XVII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-17.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 18 (XVIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\S2400082\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-18.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 18 (XVIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-18.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 18 (XVIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-18.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 19 (XIX). Grammatica. Imperfectum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-19.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 19 (XIX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-19.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 19 (XIX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-19.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 19 (XIX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-19.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 20 (XX). Grammatica. Futurum primum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-20.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 20 (XX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-20.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 20 (XX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-20.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 20 (XX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-20.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 21 (XXI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-21.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 21 (XXI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-21.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 21 (XXI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-21.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 22 (XXII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-22.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 22 (XXII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-22.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 22 (XXII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-22.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 23 (XXIII). Grammatica. Participium et infinitivus futuri" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-23.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 23 (XXIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-23.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 23 (XXIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-23.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 23 (XXIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-23.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 24 (XXIV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-24.pen-a.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 24 (XXIV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-24.pen-b.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 24 (XXIV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-24.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -2481,7 +2547,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="-n 100 tests/latin/cap-1.vocabula.txt tests/latin/cap-2.vocabula.txt tests/latin/cap-3.vocabula.txt tests/latin/cap-4.vocabula.txt tests/latin/cap-5.vocabula.txt tests/latin/cap-6.vocabula.txt tests/latin/cap-7.vocabula.txt tests/latin/cap-8.vocabula.txt tests/latin/cap-9.vocabula.txt tests/latin/cap-10.vocabula.txt tests/latin/cap-11.vocabula.txt tests/latin/cap-12.vocabula.txt tests/latin/cap-13.vocabula.txt" />
+      <option name="PARAMETERS" value="-n 100 tests/latin/cap-1.vocabula.txt tests/latin/cap-2.vocabula.txt tests/latin/cap-3.vocabula.txt tests/latin/cap-4.vocabula.txt tests/latin/cap-5.vocabula.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3464,86 +3530,89 @@
       <item itemvalue="Python.Praes. ind. act." />
       <item itemvalue="Python.Praes. ind. pass." />
       <item itemvalue="Python.Pronomen hic" />
-      <item itemvalue="Python.Capitulum III. Pensum A" />
-      <item itemvalue="Python.Capitulum III. Pensum B" />
-      <item itemvalue="Python.Capitulum III. Vocabula" />
-      <item itemvalue="Python.Capitulum II. Pensum A" />
-      <item itemvalue="Python.Capitulum II. Pensum B" />
-      <item itemvalue="Python.Capitulum II. Vocabula" />
-      <item itemvalue="Python.Capitulum IV. Pensum A" />
-      <item itemvalue="Python.Capitulum IV. Pensum B" />
-      <item itemvalue="Python.Capitulum IV. Vocabula" />
-      <item itemvalue="Python.Capitulum IX. Pensum A" />
-      <item itemvalue="Python.Capitulum IX. Pensum B" />
-      <item itemvalue="Python.Capitulum IX. Vocabula" />
-      <item itemvalue="Python.Capitulum I. Pensum A" />
-      <item itemvalue="Python.Capitulum I. Pensum B" />
-      <item itemvalue="Python.Capitulum I. Vocabula" />
-      <item itemvalue="Python.Capitulum VIII. Grammatica. Qui, is, ille." />
-      <item itemvalue="Python.Capitulum VIII. Pensum A" />
-      <item itemvalue="Python.Capitulum VIII. Pensum B" />
-      <item itemvalue="Python.Capitulum VIII. Vocabula" />
-      <item itemvalue="Python.Capitulum VII. Pensum A" />
-      <item itemvalue="Python.Capitulum VII. Pensum B" />
-      <item itemvalue="Python.Capitulum VII. Vocabula" />
-      <item itemvalue="Python.Capitulum VI. Pensum A" />
-      <item itemvalue="Python.Capitulum VI. Pensum B" />
-      <item itemvalue="Python.Capitulum VI. Vocabula" />
-      <item itemvalue="Python.Capitulum V. Pensum A" />
-      <item itemvalue="Python.Capitulum V. Pensum B" />
-      <item itemvalue="Python.Capitulum V. Vocabula" />
-      <item itemvalue="Python.Capitulum XIII. Grammatica. Declinatio quinta. Superlativus" />
-      <item itemvalue="Python.Capitulum XIII. Pensum A" />
-      <item itemvalue="Python.Capitulum XIII. Pensum B" />
-      <item itemvalue="Python.Capitulum XIII. Vocabula" />
-      <item itemvalue="Python.Capitulum XII. Grammatica. Adiectiva Decl 3" />
-      <item itemvalue="Python.Capitulum XII. Pensum A" />
-      <item itemvalue="Python.Capitulum XII. Pensum B" />
-      <item itemvalue="Python.Capitulum XII. Vocabula" />
-      <item itemvalue="Python.Capitulum XIV. Grammatica. Participium" />
-      <item itemvalue="Python.Capitulum XIV. Pensum A" />
-      <item itemvalue="Python.Capitulum XIV. Pensum B" />
-      <item itemvalue="Python.Capitulum XIV. Vocabula" />
-      <item itemvalue="Python.Capitulum XIX. Grammatica. Imperfectum" />
-      <item itemvalue="Python.Capitulum XIX. Pensum A" />
-      <item itemvalue="Python.Capitulum XIX. Pensum B" />
-      <item itemvalue="Python.Capitulum XIX. Vocabula" />
-      <item itemvalue="Python.Capitulum XI. Pensum A" />
-      <item itemvalue="Python.Capitulum XI. Pensum B" />
-      <item itemvalue="Python.Capitulum XI. Vocabula" />
-      <item itemvalue="Python.Capitulum XVIII. Pensum A" />
-      <item itemvalue="Python.Capitulum XVIII. Pensum B" />
-      <item itemvalue="Python.Capitulum XVIII. Vocabula" />
-      <item itemvalue="Python.Capitulum XVII. Pensum A" />
-      <item itemvalue="Python.Capitulum XVII. Pensum B" />
-      <item itemvalue="Python.Capitulum XVII. Vocabula" />
-      <item itemvalue="Python.Capitulum XVI. Pensum A" />
-      <item itemvalue="Python.Capitulum XVI. Pensum B" />
-      <item itemvalue="Python.Capitulum XVI. Vocabula" />
-      <item itemvalue="Python.Capitulum XV. Pensum A" />
-      <item itemvalue="Python.Capitulum XV. Pensum B" />
-      <item itemvalue="Python.Capitulum XV. Vocabula" />
-      <item itemvalue="Python.Capitulum XXIII. Grammatica. Participium et infinitivus futuri" />
-      <item itemvalue="Python.Capitulum XXIII. Pensum A" />
-      <item itemvalue="Python.Capitulum XXIII. Pensum B" />
-      <item itemvalue="Python.Capitulum XXIII. Vocabula" />
-      <item itemvalue="Python.Capitulum XXII. Pensum A" />
-      <item itemvalue="Python.Capitulum XXII. Pensum B" />
-      <item itemvalue="Python.Capitulum XXII. Vocabula" />
-      <item itemvalue="Python.Capitulum XXIV. Pensum A" />
-      <item itemvalue="Python.Capitulum XXIV. Pensum B" />
-      <item itemvalue="Python.Capitulum XXIV. Vocabula" />
-      <item itemvalue="Python.Capitulum XXI. Pensum A" />
-      <item itemvalue="Python.Capitulum XXI. Pensum B" />
-      <item itemvalue="Python.Capitulum XXI. Vocabula" />
-      <item itemvalue="Python.Capitulum XX. Grammatica. Futurum primum" />
-      <item itemvalue="Python.Capitulum XX. Pensum A" />
-      <item itemvalue="Python.Capitulum XX. Pensum B" />
-      <item itemvalue="Python.Capitulum XX. Vocabula" />
-      <item itemvalue="Python.Capitulum X. Grammatica. Infinitivus" />
-      <item itemvalue="Python.Capitulum X. Pensum A" />
-      <item itemvalue="Python.Capitulum X. Pensum B" />
-      <item itemvalue="Python.Capitulum X. Vocabula" />
+      <item itemvalue="Python.Capitulum 01 (I). Pensum A" />
+      <item itemvalue="Python.Capitulum 01 (I). Pensum B" />
+      <item itemvalue="Python.Capitulum 01 (I). Vocabula" />
+      <item itemvalue="Python.Capitulum 02 (II). Pensum A" />
+      <item itemvalue="Python.Capitulum 02 (II). Pensum B" />
+      <item itemvalue="Python.Capitulum 02 (II). Vocabula" />
+      <item itemvalue="Python.Capitulum 03 (III). Pensum A" />
+      <item itemvalue="Python.Capitulum 03 (III). Pensum B" />
+      <item itemvalue="Python.Capitulum 03 (III). Vocabula" />
+      <item itemvalue="Python.Capitulum 04 (IV). Grammatica. Voc. Imp. et ind. sg." />
+      <item itemvalue="Python.Capitulum 04 (IV). Pensum A" />
+      <item itemvalue="Python.Capitulum 04 (IV). Pensum B" />
+      <item itemvalue="Python.Capitulum 04 (IV). Vocabula" />
+      <item itemvalue="Python.Capitulum 05 (V). Grammatica. Abl. Imp. et ind. pl." />
+      <item itemvalue="Python.Capitulum 05 (V). Pensum A" />
+      <item itemvalue="Python.Capitulum 05 (V). Pensum B" />
+      <item itemvalue="Python.Capitulum 05 (V). Vocabula" />
+      <item itemvalue="Python.Capitulum 06 (VI). Grammatica. Loc. Act. et pass." />
+      <item itemvalue="Python.Capitulum 06 (VI). Pensum A" />
+      <item itemvalue="Python.Capitulum 06 (VI). Pensum B" />
+      <item itemvalue="Python.Capitulum 06 (VI). Vocabula" />
+      <item itemvalue="Python.Capitulum 07 (VII). Pensum A" />
+      <item itemvalue="Python.Capitulum 07 (VII). Pensum B" />
+      <item itemvalue="Python.Capitulum 07 (VII). Vocabula" />
+      <item itemvalue="Python.Capitulum 08 (VIII). Grammatica. Qui, is, ille." />
+      <item itemvalue="Python.Capitulum 08 (VIII). Pensum A" />
+      <item itemvalue="Python.Capitulum 08 (VIII). Pensum B" />
+      <item itemvalue="Python.Capitulum 08 (VIII). Vocabula" />
+      <item itemvalue="Python.Capitulum 09 (IX). Pensum A" />
+      <item itemvalue="Python.Capitulum 09 (IX). Pensum B" />
+      <item itemvalue="Python.Capitulum 09 (IX). Vocabula" />
+      <item itemvalue="Python.Capitulum 10 (X). Grammatica. Infinitivus" />
+      <item itemvalue="Python.Capitulum 10 (X). Pensum A" />
+      <item itemvalue="Python.Capitulum 10 (X). Pensum B" />
+      <item itemvalue="Python.Capitulum 10 (X). Vocabula" />
+      <item itemvalue="Python.Capitulum 11 (XI). Pensum A" />
+      <item itemvalue="Python.Capitulum 11 (XI). Pensum B" />
+      <item itemvalue="Python.Capitulum 11 (XI). Vocabula" />
+      <item itemvalue="Python.Capitulum 12 (XII). Grammatica. Adiectiva Decl 3" />
+      <item itemvalue="Python.Capitulum 12 (XII). Pensum A" />
+      <item itemvalue="Python.Capitulum 12 (XII). Pensum B" />
+      <item itemvalue="Python.Capitulum 12 (XII). Vocabula" />
+      <item itemvalue="Python.Capitulum 13 (XIII). Grammatica. Decl. 5. Superl." />
+      <item itemvalue="Python.Capitulum 13 (XIII). Pensum A" />
+      <item itemvalue="Python.Capitulum 13 (XIII). Pensum B" />
+      <item itemvalue="Python.Capitulum 13 (XIII). Vocabula" />
+      <item itemvalue="Python.Capitulum 14 (XIV). Grammatica. Participium" />
+      <item itemvalue="Python.Capitulum 14 (XIV). Pensum A" />
+      <item itemvalue="Python.Capitulum 14 (XIV). Pensum B" />
+      <item itemvalue="Python.Capitulum 14 (XIV). Vocabula" />
+      <item itemvalue="Python.Capitulum 15 (XV). Pensum A" />
+      <item itemvalue="Python.Capitulum 15 (XV). Pensum B" />
+      <item itemvalue="Python.Capitulum 15 (XV). Vocabula" />
+      <item itemvalue="Python.Capitulum 16 (XVI). Pensum A" />
+      <item itemvalue="Python.Capitulum 16 (XVI). Pensum B" />
+      <item itemvalue="Python.Capitulum 16 (XVI). Vocabula" />
+      <item itemvalue="Python.Capitulum 17 (XVII). Pensum A" />
+      <item itemvalue="Python.Capitulum 17 (XVII). Pensum B" />
+      <item itemvalue="Python.Capitulum 17 (XVII). Vocabula" />
+      <item itemvalue="Python.Capitulum 18 (XVIII). Pensum A" />
+      <item itemvalue="Python.Capitulum 18 (XVIII). Pensum B" />
+      <item itemvalue="Python.Capitulum 18 (XVIII). Vocabula" />
+      <item itemvalue="Python.Capitulum 19 (XIX). Grammatica. Imperfectum" />
+      <item itemvalue="Python.Capitulum 19 (XIX). Pensum A" />
+      <item itemvalue="Python.Capitulum 19 (XIX). Pensum B" />
+      <item itemvalue="Python.Capitulum 19 (XIX). Vocabula" />
+      <item itemvalue="Python.Capitulum 20 (XX). Grammatica. Futurum primum" />
+      <item itemvalue="Python.Capitulum 20 (XX). Pensum A" />
+      <item itemvalue="Python.Capitulum 20 (XX). Pensum B" />
+      <item itemvalue="Python.Capitulum 20 (XX). Vocabula" />
+      <item itemvalue="Python.Capitulum 21 (XXI). Pensum A" />
+      <item itemvalue="Python.Capitulum 21 (XXI). Pensum B" />
+      <item itemvalue="Python.Capitulum 21 (XXI). Vocabula" />
+      <item itemvalue="Python.Capitulum 22 (XXII). Pensum A" />
+      <item itemvalue="Python.Capitulum 22 (XXII). Pensum B" />
+      <item itemvalue="Python.Capitulum 22 (XXII). Vocabula" />
+      <item itemvalue="Python.Capitulum 23 (XXIII). Grammatica. Participium et infinitivus futuri" />
+      <item itemvalue="Python.Capitulum 23 (XXIII). Pensum A" />
+      <item itemvalue="Python.Capitulum 23 (XXIII). Pensum B" />
+      <item itemvalue="Python.Capitulum 23 (XXIII). Vocabula" />
+      <item itemvalue="Python.Capitulum 24 (XXIV). Pensum A" />
+      <item itemvalue="Python.Capitulum 24 (XXIV). Pensum B" />
+      <item itemvalue="Python.Capitulum 24 (XXIV). Vocabula" />
       <item itemvalue="Python.Verba" />
       <item itemvalue="Python.Vocabula" />
       <item itemvalue="Python.prawily01-06.txt" />
@@ -3826,6 +3895,17 @@
       <workItem from="1587571723361" duration="677000" />
       <workItem from="1587636065851" duration="1367000" />
       <workItem from="1602861525296" duration="644000" />
+      <workItem from="1603097841817" duration="100000" />
+      <workItem from="1610621395546" duration="2933000" />
+      <workItem from="1611240358415" duration="602000" />
+      <workItem from="1611307375976" duration="4016000" />
+      <workItem from="1611753931381" duration="1223000" />
+      <workItem from="1612191255316" duration="2949000" />
+      <workItem from="1612270800161" duration="7000" />
+      <workItem from="1612270812841" duration="8069000" />
+      <workItem from="1612365650350" duration="56000" />
+      <workItem from="1612454587512" duration="2206000" />
+      <workItem from="1612511332739" duration="7314000" />
     </task>
     <task id="LOCAL-00001" summary="Update prawily231-234.txt">
       <created>1431553437956</created>
@@ -4021,16 +4101,6 @@
     <MESSAGE value="Add cap-24.pen-a.txt&#10;Some fixes" />
     <MESSAGE value="Add cap-24.pen-b.txt&#10;Some fixes" />
     <option name="LAST_COMMIT_MESSAGE" value="Add cap-24.pen-b.txt&#10;Some fixes" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="611" y="204" key="FileChooserDialogImpl" timestamp="1598111240058">
-      <screen x="62" y="0" width="1538" height="900" />
-    </state>
-    <state x="611" y="204" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1598111240058" />
-    <state x="332" y="94" key="SettingsEditor" timestamp="1598108568547">
-      <screen x="62" y="0" width="1538" height="900" />
-    </state>
-    <state x="332" y="94" key="SettingsEditor/62.0.1538.900@62.0.1538.900" timestamp="1598108568547" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
