@@ -1,0 +1,12 @@
+# Capitulum VII. Puella et rosa. Grammatica. Dativus. Pronomen Hic/Haec/Hoc
+
+# Casus dativus
+
+Iulius serv[o] malum dat.  # sg.
+Iulius serv[is] mala dat.  # pl.
+
+Iulius ancill[ae] malum dat.  # sg.
+Iulius ancill[is] mala dat.   # pl.
+
+Fluvius oppid[o] aquam dat.   # sg.
+Fluvii oppid[is] aquam dant.  # pl.
