@@ -1,0 +1,66 @@
+# Capitulum IX. Pastor et oves. Grammatica. Declinatio vocabulorum
+
+# Declinatio prima
+
+insul[a]      # Nom. sg.
+insul[am]     # Acc. sg.
+insul[ae]     # Gen. sg.
+insul[ae]     # Dat. sg.
+insul[a]      # Abl. sg.
+
+insul[ae]     # Nom. pl.
+insul[as]     # Acc. pl.
+insul[arum]   # Gen. pl.
+insul[is]     # Dat. pl.
+insul[is]     # Abl. pl.
+
+# Declinatio secunda
+
+serv[us]     # Nom. sg.
+serv[um]     # Acc. sg.
+serv[i]      # Gen. sg.
+serv[o]      # Dat. sg.
+serv[o]      # Abl. sg.
+
+serv[i]      # Nom. pl.
+serv[os]     # Acc. pl.
+serv[orum]   # Gen. pl.
+serv[is]     # Dat. pl.
+serv[is]     # Abl. pl.
+
+verb[um]     # Nom. sg.
+verb[um]     # Acc. sg.
+verb[i]      # Gen. sg.
+verb[o]      # Dat. sg.
+verb[o]      # Abl. sg.
+
+verb[a]      # Nom. pl.
+verb[a]      # Acc. pl.
+verb[orum]   # Gen. pl.
+verb[is]     # Dat. pl.
+verb[is]     # Abl. pl.
+
+# Declinatio tertia
+pastor[]       # Nom. sg.
+pastor[em]     # Acc. sg.
+pastor[is]     # Gen. sg.
+pastor[i]      # Dat. sg.
+pastor[e]      # Abl. sg.
+
+pastor[es]     # Nom. pl.
+pastor[es]     # Acc. pl.
+pastor[um]     # Gen. pl.
+pastor[ibus]   # Dat. pl.
+pastor[ibus]   # Abl. pl.
+
+ov[is]     # Nom. sg.
+ov[em]     # Acc. sg.
+ov[is]     # Gen. sg.
+ov[i]      # Dat. sg.
+ov[e]      # Abl. sg.
+
+ov[es]     # Nom. pl.
+ov[es]     # Acc. pl.
+ov[ium]    # Gen. pl.
+ov[ibus]   # Dat. pl.
+ov[ibus]   # Abl. pl.

@@ -132,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/latin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -169,7 +169,7 @@
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 08 (VIII). Pensum B">
+  <component name="RunManager" selected="Python.Capitulum 09 (IX). Grammatica. Decl. 1-3">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -864,6 +864,28 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
       <option name="PARAMETERS" value="tests/latin/cap-8.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 09 (IX). Grammatica. Decl. 1-3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-9.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3551,29 +3573,6 @@
     </configuration>
     <list>
       <item itemvalue="Python.Arabic 1" />
-      <item itemvalue="Python.English" />
-      <item itemvalue="Python.Declinatio prima" />
-      <item itemvalue="Python.Declinatio secunda" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.dates-part-1 (Rus)" />
-      <item itemvalue="Python.dates-part-2 (Litwa)" />
-      <item itemvalue="Python.dates-part-3 (Recz Paspalitaja)" />
-      <item itemvalue="Python.dates-part-4 (Rasija)" />
-      <item itemvalue="Python.dates-part-5 (SSSR)" />
-      <item itemvalue="Python.dates-part-6 (RB)" />
-      <item itemvalue="Python.digits" />
-      <item itemvalue="Python.level-0" />
-      <item itemvalue="Python.level-1" />
-      <item itemvalue="Python.level-2" />
-      <item itemvalue="Python.Comparativus" />
-      <item itemvalue="Python.Declinacio 1, 2" />
-      <item itemvalue="Python.Declinacio 3" />
-      <item itemvalue="Python.Declinacio 4" />
-      <item itemvalue="Python.Declinacio 5" />
-      <item itemvalue="Python.Latin Aphorisms" />
-      <item itemvalue="Python.Praes. ind. act." />
-      <item itemvalue="Python.Praes. ind. pass." />
-      <item itemvalue="Python.Pronomen hic" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum A" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum B" />
       <item itemvalue="Python.Capitulum 01 (I). Vocabula" />
@@ -3604,6 +3603,7 @@
       <item itemvalue="Python.Capitulum 08 (VIII). Pensum A" />
       <item itemvalue="Python.Capitulum 08 (VIII). Pensum B" />
       <item itemvalue="Python.Capitulum 08 (VIII). Vocabula" />
+      <item itemvalue="Python.Capitulum 09 (IX). Grammatica. Decl. 1-3" />
       <item itemvalue="Python.Capitulum 09 (IX). Pensum A" />
       <item itemvalue="Python.Capitulum 09 (IX). Pensum B" />
       <item itemvalue="Python.Capitulum 09 (IX). Vocabula" />
@@ -3659,8 +3659,41 @@
       <item itemvalue="Python.Capitulum 24 (XXIV). Pensum A" />
       <item itemvalue="Python.Capitulum 24 (XXIV). Pensum B" />
       <item itemvalue="Python.Capitulum 24 (XXIV). Vocabula" />
+      <item itemvalue="Python.Comparativus" />
+      <item itemvalue="Python.Declinacio 1, 2" />
+      <item itemvalue="Python.Declinacio 3" />
+      <item itemvalue="Python.Declinacio 4" />
+      <item itemvalue="Python.Declinacio 5" />
+      <item itemvalue="Python.Declinatio prima" />
+      <item itemvalue="Python.Declinatio secunda" />
+      <item itemvalue="Python.English" />
+      <item itemvalue="Python.HistGram" />
+      <item itemvalue="Python.Latin Aphorisms" />
+      <item itemvalue="Python.Napisannie razam, praz zluczok, asobna" />
+      <item itemvalue="Python.Praes. ind. act." />
+      <item itemvalue="Python.Praes. ind. pass." />
+      <item itemvalue="Python.Prawapis halosnych" />
+      <item itemvalue="Python.Prawapis miakkaha znaka i apostrafa" />
+      <item itemvalue="Python.Prawapis zycznych" />
+      <item itemvalue="Python.Pronomen hic" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.USIE PRAWILY" />
+      <item itemvalue="Python.Uzywannie i napisannie NIE, NI" />
+      <item itemvalue="Python.Uzywannie i prawapis marfiem" />
       <item itemvalue="Python.Verba" />
       <item itemvalue="Python.Vocabula" />
+      <item itemvalue="Python.Wialikaja i malaja litary" />
+      <item itemvalue="Python.dates-part-1 (Rus)" />
+      <item itemvalue="Python.dates-part-2 (Litwa)" />
+      <item itemvalue="Python.dates-part-3 (Recz Paspalitaja)" />
+      <item itemvalue="Python.dates-part-4 (Rasija)" />
+      <item itemvalue="Python.dates-part-5 (SSSR)" />
+      <item itemvalue="Python.dates-part-6 (RB)" />
+      <item itemvalue="Python.digits" />
+      <item itemvalue="Python.level-0" />
+      <item itemvalue="Python.level-1" />
+      <item itemvalue="Python.level-2" />
+      <item itemvalue="Python.naciski.txt" />
       <item itemvalue="Python.prawily01-06.txt" />
       <item itemvalue="Python.prawily07-13.txt" />
       <item itemvalue="Python.prawily104-110.txt" />
@@ -3687,16 +3720,6 @@
       <item itemvalue="Python.prawily88-91.txt" />
       <item itemvalue="Python.prawily92-97.txt" />
       <item itemvalue="Python.prawily98-103.txt" />
-      <item itemvalue="Python.Napisannie razam, praz zluczok, asobna" />
-      <item itemvalue="Python.Prawapis halosnych" />
-      <item itemvalue="Python.Prawapis miakkaha znaka i apostrafa" />
-      <item itemvalue="Python.Prawapis zycznych" />
-      <item itemvalue="Python.USIE PRAWILY" />
-      <item itemvalue="Python.Uzywannie i napisannie NIE, NI" />
-      <item itemvalue="Python.Uzywannie i prawapis marfiem" />
-      <item itemvalue="Python.Wialikaja i malaja litary" />
-      <item itemvalue="Python.HistGram" />
-      <item itemvalue="Python.naciski.txt" />
       <item itemvalue="Python.test.txt" />
     </list>
   </component>
