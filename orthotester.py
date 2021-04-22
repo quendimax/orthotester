@@ -55,22 +55,18 @@ class AnswerStatistic:
 ANSWER_STAT = AnswerStatistic()
 
 
-if sys.platform == 'win32' and os.environ.get('PYCHARM_HOSTED', '0') == '0':
-    class TextProp:
-        HIGHLIGHT = ''
-        COMMENT = ''
-        RIGHT = ''
-        WRONG = ''
-        NORMAL = ''
-        BOLD = ''
-else:
-    class TextProp:
-        HIGHLIGHT = '\x1b[4;31m'
-        COMMENT = '\x1b[34m'
-        RIGHT = '\x1b[1;32m'   # bold green
-        WRONG = '\x1b[1;31m'   # bold red
-        NORMAL = '\x1b[0m'
-        BOLD = '\x1b[1m'
+# enable ANSI escape sequences support in Windows
+if sys.platform == 'win32':
+    os.system('color')
+
+
+class TextProp:
+    HIGHLIGHT = '\x1b[4;31m'
+    COMMENT = '\x1b[34m'
+    RIGHT = '\x1b[1;32m'   # bold green
+    WRONG = '\x1b[1;31m'   # bold red
+    NORMAL = '\x1b[0m'
+    BOLD = '\x1b[1m'
 
 
 def get_original_word(line, exclusions):
