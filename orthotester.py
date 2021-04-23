@@ -201,7 +201,7 @@ def check_test(func):
 
 @check_test
 def test_with_gaps(test_word, comment=''):
-    checker = re.compile(r'\[[^\[\]|]*\]')
+    checker = re.compile(r'\[[^\[\]|]*]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
 
     orig_word = get_original_word(test_word, exclusions)
@@ -234,7 +234,7 @@ def test_with_choice(line, comment=''):
 
 @check_test
 def test_with_small_choice(test_word, comment=''):
-    checker = re.compile(r'\[[^\[\]]+\]')
+    checker = re.compile(r'\[[^\[\]]+]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
 
     orig_word = ''
@@ -313,8 +313,8 @@ def main():
     print('Starting of {n} tests from {all}'.format(n=ANSWER_STAT.quantity, all=ANSWER_STAT.all))
     print('=' * 80)
 
-    gaps_checker = re.compile(r'\[[^\[\]|]*\]')
-    small_choice_checker = re.compile(r'\[[^\[\]]+\]')
+    gaps_checker = re.compile(r'\[[^\[\]|]*]')
+    small_choice_checker = re.compile(r'\[[^\[\]]+]')
     stress_checker = re.compile(r'[аоыэуяёіею]ʼ')
     translate_checker = re.compile(r'->')
     ANSWER_STAT.time = time.time()
