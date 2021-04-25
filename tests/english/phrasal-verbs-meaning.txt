@@ -57,3 +57,59 @@ To drive your vehicle to the side of the road to stop. -> pull over
 To enter data or record time on a device. -> punch in
 When something is causing a project to slow down -> put back
 When someone asks for a price for something that is too high, when someone cheats or steals. -> rip off
+When someone or something is excluded as a possibility. -> rule out
+To begin living a stable and routine life. -> settle down
+
+To accept something even though it’s not what you want or need. -> settle for
+To mix something in a container by shaking it. -> shake up
+To overly display your skills or what you have. -> show off
+To stop the operation of an electrical or mechanical device. -> shut off
+To stop talking. -> shut up
+
+To write your name on a list to indicate the day and time you arrived at a certain place. -> sign in
+To write your name on a list to indicate the day and time of your departure. -> sign out
+To change from a standing to a sitting position. -> sit down
+To leave a place without being noticed. -> sneak out
+To arrange or separate things into groups according to similarities. -> sort out
+
+To describe a person whose attention isn’t in the present moment. -> space out
+To rise from sitting or lying down to a vertical position. -> stand up
+The beginning of an event, activity or time period. -> start off
+To begin a trip or venture to some place. -> start out
+To start something. -> start up
+
+To avoid discussing a certain subject or topic. -> stay off
+To spend time out of your own home. -> stay out
+To remain in a place that is higher than ground level. -> stay up
+To place your foot on something or someone. -> step on
+To stay in a place or with someone for any period of time. -> stick around
+
+To feel very worried, nervous or anxious. -> stress out
+When you move something from the ‘on’ state to the ‘off’ state. Synonymous with “Turn Off.” -> switch off
+When you move something from the ‘off’ state to the ‘on’ state. Synonymous with “Turn On,” while “Switch Off” is the opposite. -> switch on
+To disconnect or separate the parts of an object. -> take apart
+To return something or someone. -> take back
+
+To have a conversation with someone. -> talk to
+To deconstruct a building or home. -> tear down
+To remove with force. -> tear off
+To be able to differentiate something or someone from something or someone else. -> tell apart
+To inform an authoritative figure about what someone else did. -> tell on
+
+To consider something prior to making a final decision. -> think about
+To think and plan carefully for a future situation or event. -> think ahead
+To be aware of someone or something. -> watch out
+To make the surface or top of something disappear due to friction. -> wear down
+To decrease or disappear gradually. -> wear off
+
+When something is damaged or weakened from use and age. -> wear out
+To operate a mechanical device by turning its handle. -> wind up
+To completely remove or clean something from a surface or location. -> wipe off
+To clean the inside of something. -> wipe out
+To remove liquid from a surface using a sponge, towel or cloth, etc. -> wipe up
+
+To make time in a busy schedule for a person or an activity. -> work in
+When a situation, event, plan, or idea is successful. -> work out
+To gradually improve at or make progress in something. -> work up
+To cover something with some kind of special paper. -> wrap up
+To close an item that has a zipper. -> zip up

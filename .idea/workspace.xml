@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add cap-24.pen-b.txt&#10;Some fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orthotester.py" beforeDir="false" afterPath="$PROJECT_DIR$/orthotester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/english/phrasal-verbs-meaning.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/english/phrasal-verbs-meaning.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/english/phrasal-verbs-usage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/english/phrasal-verbs-usage.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +146,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.24764594" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/orthotester.py" />
   </component>
@@ -156,6 +157,9 @@
         <option name="myModuleName" value="orthotester" />
       </console-settings>
     </option>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -170,7 +174,7 @@
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 10 (X). Vocabula">
+  <component name="RunManager" selected="Python.Phrasal Verbs by Meaning">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2362,7 +2366,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/english/phrasal-verbs-meaning.txt" />
+      <option name="PARAMETERS" value="tests/english/phrasal-verbs-meaning.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3618,6 +3622,31 @@
     </configuration>
     <list>
       <item itemvalue="Python.Arabic 1" />
+      <item itemvalue="Python.English" />
+      <item itemvalue="Python.Phrasal Verbs by Meaning" />
+      <item itemvalue="Python.Phrasal Verbs by Usage" />
+      <item itemvalue="Python.Declinatio prima" />
+      <item itemvalue="Python.Declinatio secunda" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.dates-part-1 (Rus)" />
+      <item itemvalue="Python.dates-part-2 (Litwa)" />
+      <item itemvalue="Python.dates-part-3 (Recz Paspalitaja)" />
+      <item itemvalue="Python.dates-part-4 (Rasija)" />
+      <item itemvalue="Python.dates-part-5 (SSSR)" />
+      <item itemvalue="Python.dates-part-6 (RB)" />
+      <item itemvalue="Python.digits" />
+      <item itemvalue="Python.level-0" />
+      <item itemvalue="Python.level-1" />
+      <item itemvalue="Python.level-2" />
+      <item itemvalue="Python.Comparativus" />
+      <item itemvalue="Python.Declinacio 1, 2" />
+      <item itemvalue="Python.Declinacio 3" />
+      <item itemvalue="Python.Declinacio 4" />
+      <item itemvalue="Python.Declinacio 5" />
+      <item itemvalue="Python.Latin Aphorisms" />
+      <item itemvalue="Python.Praes. ind. act." />
+      <item itemvalue="Python.Praes. ind. pass." />
+      <item itemvalue="Python.Pronomen hic" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum A" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum B" />
       <item itemvalue="Python.Capitulum 01 (I). Vocabula" />
@@ -3704,43 +3733,8 @@
       <item itemvalue="Python.Capitulum 24 (XXIV). Pensum A" />
       <item itemvalue="Python.Capitulum 24 (XXIV). Pensum B" />
       <item itemvalue="Python.Capitulum 24 (XXIV). Vocabula" />
-      <item itemvalue="Python.Comparativus" />
-      <item itemvalue="Python.Declinacio 1, 2" />
-      <item itemvalue="Python.Declinacio 3" />
-      <item itemvalue="Python.Declinacio 4" />
-      <item itemvalue="Python.Declinacio 5" />
-      <item itemvalue="Python.Declinatio prima" />
-      <item itemvalue="Python.Declinatio secunda" />
-      <item itemvalue="Python.English" />
-      <item itemvalue="Python.HistGram" />
-      <item itemvalue="Python.Latin Aphorisms" />
-      <item itemvalue="Python.Napisannie razam, praz zluczok, asobna" />
-      <item itemvalue="Python.Phrasal Verbs by Meaning" />
-      <item itemvalue="Python.Phrasal Verbs by Usage" />
-      <item itemvalue="Python.Praes. ind. act." />
-      <item itemvalue="Python.Praes. ind. pass." />
-      <item itemvalue="Python.Prawapis halosnych" />
-      <item itemvalue="Python.Prawapis miakkaha znaka i apostrafa" />
-      <item itemvalue="Python.Prawapis zycznych" />
-      <item itemvalue="Python.Pronomen hic" />
-      <item itemvalue="Python.Test" />
-      <item itemvalue="Python.USIE PRAWILY" />
-      <item itemvalue="Python.Uzywannie i napisannie NIE, NI" />
-      <item itemvalue="Python.Uzywannie i prawapis marfiem" />
       <item itemvalue="Python.Verba" />
       <item itemvalue="Python.Vocabula" />
-      <item itemvalue="Python.Wialikaja i malaja litary" />
-      <item itemvalue="Python.dates-part-1 (Rus)" />
-      <item itemvalue="Python.dates-part-2 (Litwa)" />
-      <item itemvalue="Python.dates-part-3 (Recz Paspalitaja)" />
-      <item itemvalue="Python.dates-part-4 (Rasija)" />
-      <item itemvalue="Python.dates-part-5 (SSSR)" />
-      <item itemvalue="Python.dates-part-6 (RB)" />
-      <item itemvalue="Python.digits" />
-      <item itemvalue="Python.level-0" />
-      <item itemvalue="Python.level-1" />
-      <item itemvalue="Python.level-2" />
-      <item itemvalue="Python.naciski.txt" />
       <item itemvalue="Python.prawily01-06.txt" />
       <item itemvalue="Python.prawily07-13.txt" />
       <item itemvalue="Python.prawily104-110.txt" />
@@ -3767,6 +3761,16 @@
       <item itemvalue="Python.prawily88-91.txt" />
       <item itemvalue="Python.prawily92-97.txt" />
       <item itemvalue="Python.prawily98-103.txt" />
+      <item itemvalue="Python.Napisannie razam, praz zluczok, asobna" />
+      <item itemvalue="Python.Prawapis halosnych" />
+      <item itemvalue="Python.Prawapis miakkaha znaka i apostrafa" />
+      <item itemvalue="Python.Prawapis zycznych" />
+      <item itemvalue="Python.USIE PRAWILY" />
+      <item itemvalue="Python.Uzywannie i napisannie NIE, NI" />
+      <item itemvalue="Python.Uzywannie i prawapis marfiem" />
+      <item itemvalue="Python.Wialikaja i malaja litary" />
+      <item itemvalue="Python.HistGram" />
+      <item itemvalue="Python.naciski.txt" />
       <item itemvalue="Python.test.txt" />
     </list>
   </component>
