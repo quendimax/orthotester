@@ -1,7 +1,7 @@
 # English: Phrasal Verbs. Usage
 
 # bit off
-The dog seized the meat and [bit] a piece [off].
+The dog seized the meat and [bite] a piece [off].
 
 # break in
 The thieves waited until it was dark enough to [break] [in].
@@ -40,7 +40,7 @@ The government has promised to [crack] [down] on criminal activity.
 Last night's severe snowstorm [cut] [off] three villages.
 
 # do without
-If there's no sugar you 'll have to [do] [without].
+If there's no sugar you'll have to [do] [without].
 
 # drop in
 Look who's just [dropped] [in]!
