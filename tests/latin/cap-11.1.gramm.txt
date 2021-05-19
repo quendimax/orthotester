@@ -1,0 +1,51 @@
+# Capitulum XI. Copus humanum. Grammatica. Declinatio tertia neutra
+
+# Declinatio tertia
+
+corp[us]       # Nom. sg.
+corp[us]       # Acc. sg.
+corp[oris]     # Gen. sg.
+corp[ori]      # Dat. sg.
+corp[ore]      # Abl. sg.
+
+corp[ora]      # Nom. pl.
+corp[ora]      # Acc. pl.
+corp[orum]     # Gen. pl.
+corp[oribus]   # Dat. pl.
+corp[oribus]   # Abl. pl.
+
+flum[en]       # Nom. sg.
+flum[en]       # Acc. sg.
+flum[inis]     # Gen. sg.
+flum[ini]      # Dat. sg.
+flum[ine]      # Abl. sg.
+
+flum[ina]      # Nom. pl.
+flum[ina]      # Acc. pl.
+flum[inum]     # Gen. pl.
+flum[inibus]   # Dat. pl.
+flum[inibus]   # Abl. pl.
+
+mar[e]         # Nom. sg.
+mar[e]         # Acc. sg.
+mar[is]        # Gen. sg.
+mar[i]         # Dat. sg.
+mar[i]         # Abl. sg.
+
+mar[ia]        # Nom. pl.
+mar[ia]        # Acc. pl.
+mar[ium]       # Gen. pl.
+mar[ibus]      # Dat. pl.
+mar[ibus]      # Abl. pl.
+
+animal[]       # Nom. sg.
+animal[]       # Acc. sg.
+animal[is]     # Gen. sg.
+animal[i]      # Dat. sg.
+animal[i]      # Abl. sg.
+
+animal[ia]     # Nom. pl.
+animal[ia]     # Acc. pl.
+animal[ium]    # Gen. pl.
+animal[ibus]   # Dat. pl.
+animal[ibus]   # Abl. pl.
