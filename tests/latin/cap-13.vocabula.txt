@@ -6,7 +6,7 @@
 стагоддзе -> saeculum
 час -> tempus, oris n
 твар -> facies, ei f
-раніца -> mane  # indecl.
+раніца -> mane n  # indecl.
 вечар -> vesper, eri m
 ноч -> nox, noctis f
 пачатак -> initium

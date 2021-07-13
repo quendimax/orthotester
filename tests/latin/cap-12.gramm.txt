@@ -21,7 +21,7 @@ Equites hastis long[is] et grav[ibus] pugnant.
 Gladius equitis long[ior] et grav[ior] est quam peditis.
 Eques gladium long[iorem] et grav[iorem] fert quam pedes.
 Eques gladio long[iore] et grav[iore] pugnat.
-Gladii equitum long[iores] et grav[iore] sunt quam peditum.
+Gladii equitum long[iores] et grav[iores] sunt quam peditum.
 Equites gladiis long[ioribus] et grav[ioribus] pugnant.
 Pilum brev[ius] et lev[ius] est quam hasta.
 Pila brev[iora] et lev[iora] sunt quam hastae.

@@ -19,7 +19,7 @@
 стаяць -> sto, steti, statum, stare
 кранаць -> tango, tetigi, tactum, tangere
 запрашаць, прыносіць -> arcesso, arcessivi, arcessitum, arcessere
-загадваць -> iubeo, iussi, iussum, iubere
+загадваць -> iubeo, iussi, iussum, iubere  # = impero
 прыходзіць -> venio, veni, ventum, venire
 хварэць -> aegroto, —, —, aegrotare
 гаварыць -> dico, dixi, dictum, dicere
