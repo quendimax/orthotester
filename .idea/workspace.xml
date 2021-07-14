@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add cap-24.pen-b.txt&#10;Some fixes">
-      <change afterPath="$PROJECT_DIR$/tests/latin/cap-11.1.gramm.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/latin/cap-11.2.gramm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +132,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/latin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -145,8 +143,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
     <property name="settings.editor.splitter.proportion" value="0.24764594" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/orthotester.py" />
   </component>
@@ -174,7 +171,7 @@
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 11 (XI). Grammatica. Decl 3 n.">
+  <component name="RunManager" selected="Python.Capitulum 15 (XV). Grammatica. Personae verbi">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1419,6 +1416,28 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
       <option name="PARAMETERS" value="tests/latin/cap-14.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 15 (XV). Grammatica. Personae verbi" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-15.gramm.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3729,8 +3748,8 @@
       <item itemvalue="Python.Capitulum 10 (X). Pensum A" />
       <item itemvalue="Python.Capitulum 10 (X). Pensum B" />
       <item itemvalue="Python.Capitulum 10 (X). Vocabula" />
-      <item itemvalue="Python.Capitulum 11 (XI). Grammatica. Decl 3 n." />
       <item itemvalue="Python.Capitulum 11 (XI). Grammatica. Acc. cum inf." />
+      <item itemvalue="Python.Capitulum 11 (XI). Grammatica. Decl 3 n." />
       <item itemvalue="Python.Capitulum 11 (XI). Pensum A" />
       <item itemvalue="Python.Capitulum 11 (XI). Pensum B" />
       <item itemvalue="Python.Capitulum 11 (XI). Vocabula" />
@@ -3746,6 +3765,7 @@
       <item itemvalue="Python.Capitulum 14 (XIV). Pensum A" />
       <item itemvalue="Python.Capitulum 14 (XIV). Pensum B" />
       <item itemvalue="Python.Capitulum 14 (XIV). Vocabula" />
+      <item itemvalue="Python.Capitulum 15 (XV). Grammatica. Personae verbi" />
       <item itemvalue="Python.Capitulum 15 (XV). Pensum A" />
       <item itemvalue="Python.Capitulum 15 (XV). Pensum B" />
       <item itemvalue="Python.Capitulum 15 (XV). Vocabula" />
