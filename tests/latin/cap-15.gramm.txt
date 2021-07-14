@@ -1,0 +1,23 @@
+# Capitulum XV. Magister et discipuli. Grammatica
+
+Pueri ride[nt]. Puella non ride[t].
+Pueri: "Cur tu non ride[s], cum nos ride[mus]?"
+Puella: "Ego non ride[o], quia vos me ride[tis]!"
+
+Malus discipulus in ludo clam[at] et rid[et].
+Qui id non fac[it], et omnia verba magistri aud[it], bonus [est] discipulus.
+
+Bonus discipulus malo dic[it]:
+"Ego bonus discipulus [sum]: in ludo nec clam[o] nec rid[eo], et omnia verba magistri aud[io]."
+"At tu malus discipulus [es]: in ludo clam[as] et rid[es] nec verba magistri aud[is]!"
+"Verum dic[o]! Nonne hoc fac[is]?"
+Malus discipulus: "Quod dic[is] verum non est: ego hoc non fac[io]!"
+
+Mali discipuli in ludo clam[ant] et rid[ent].
+Qui id non fac[iunt], et omnia verba magistri aud[iunt], boni [sunt] discipuli.
+
+Boni discipuli malis dic[unt]:
+"Nos boni discipuli [sumus]: in ludo nec clam[amus] nec rid[emus], et omnia verba magistri aud[imus]."
+"At vos mali discipuli [estis]: in ludo clam[atis] et rid[etis] nec verba magistri aud[itis]!"
+"Verum dic[imus]! Nonne hoc fac[itis]?"
+Mali discipuli: "Quod dic[itis] verum non est: nos hoc non fac[imus]!"
