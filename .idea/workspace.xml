@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add cap-24.pen-b.txt&#10;Some fixes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/latin/cap-16.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-16.vocabula.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +136,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/latin" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -160,18 +164,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maksim\Documents\GitHub\orthotester\tests\latin" />
       <recent name="$PROJECT_DIR$/tests/latin" />
       <recent name="D:\Develop\_others\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Workspace\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Archive\BSU-PHIL\Pastuplennie\orthotester\tests\latin" />
-      <recent name="$PROJECT_DIR$/tests/greek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester" />
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 15 (XV). Grammatica. Personae verbi">
+  <component name="RunManager" selected="Python.Capitulum 16 (XVI). Vocabula">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1437,7 +1441,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/latin/cap-15.gramm.txt" />
+      <option name="PARAMETERS" value="tests/latin/cap-15.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -1504,6 +1508,28 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
       <option name="PARAMETERS" value="tests/latin/cap-15.vocabula.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Capitulum 16 (XVI). Grammatica. Verba deponentia" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-16.gramm.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -3769,6 +3795,7 @@
       <item itemvalue="Python.Capitulum 15 (XV). Pensum A" />
       <item itemvalue="Python.Capitulum 15 (XV). Pensum B" />
       <item itemvalue="Python.Capitulum 15 (XV). Vocabula" />
+      <item itemvalue="Python.Capitulum 16 (XVI). Grammatica. Verba deponentia" />
       <item itemvalue="Python.Capitulum 16 (XVI). Pensum A" />
       <item itemvalue="Python.Capitulum 16 (XVI). Pensum B" />
       <item itemvalue="Python.Capitulum 16 (XVI). Vocabula" />
