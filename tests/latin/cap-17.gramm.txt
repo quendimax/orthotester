@@ -1,0 +1,13 @@
+# Capitulum XVII. Numeri difficiles. Grammatica. Personae verbi passivi
+
+Nauta, qui fluctibus iact[atur] ac merg[itur]: "Fluctibus iact[or] ac merg[or]!"
+"Serva me, Neptune, qui prope ades, quamquam non vid[eris] nec aud[iris] ab hominibus."
+Neptunus: "Fluctibus iact[aris], nauta, nec merg[eris]!"
+"Nam ego adsum, quamquam nec ved[eor] nec aud[ior]."
+Deus ab hominibus nec vid[etur] nec aud[itur].
+
+Nautae, qui fluctibus iact[antur] ac merg[untur]: "Fluctibus iact[amur] ac merg[imur]!"
+"Servate nos, o dei boni, qui prope adestis, quamquam nec vid[emini] nec aud[imini] ab hominibus."
+Dei: "Fluctibus iact[amini], nautae, nec merg[imini]!"
+"Nam nos adsumus, quamquam nec vid[emur] nec aud[imur]."
+Dei ab hominibus nec vid[entur] nec aud[iuntur].
