@@ -3,7 +3,7 @@
 Nauta, qui fluctibus iact[atur] ac merg[itur]: "Fluctibus iact[or] ac merg[or]!"
 "Serva me, Neptune, qui prope ades, quamquam non vid[eris] nec aud[iris] ab hominibus."
 Neptunus: "Fluctibus iact[aris], nauta, nec merg[eris]!"
-"Nam ego adsum, quamquam nec ved[eor] nec aud[ior]."
+"Nam ego adsum, quamquam nec vid[eor] nec aud[ior]."
 Deus ab hominibus nec vid[etur] nec aud[itur].
 
 Nautae, qui fluctibus iact[antur] ac merg[untur]: "Fluctibus iact[amur] ac merg[imur]!"
