@@ -35,5 +35,5 @@
 што? -> quid?
 
 граматыка -> grammatica
-адзіночны -> numerus singularis  # лік
-множны -> numerus pluralis  # лік
+адзіночны лiк -> numerus singularis
+множны лiк -> numerus pluralis

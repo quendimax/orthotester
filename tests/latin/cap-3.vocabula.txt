@@ -37,6 +37,6 @@
 якога, які -> quem
 якую -> quam
 
-назоўны -> casus nominativus  # склон
-вінавальны -> casus accusativus  # склон
+назоўны склон -> casus nominativus
+вінавальны склон -> casus accusativus
 слова, выраз -> verbum

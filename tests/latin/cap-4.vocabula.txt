@@ -38,6 +38,6 @@
 толькі -> tantum  # = solum, modo
 вітаю -> salve
 
-клічны -> casus vocativus  # склон
-загадны -> modus imperativus  # лад
-абвесны -> modus indicativus  # лад
+клічны склон -> casus vocativus
+загадны лад -> modus imperativus
+абвесны лад -> modus indicativus

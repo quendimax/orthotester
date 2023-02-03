@@ -60,4 +60,4 @@
 проці -> contra
 і -> ac  # = atque
 прыметнік -> adiectivum
-кампаратыў -> gradus comparativus
+вышэйшая ступень параўнання -> gradus comparativus

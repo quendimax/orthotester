@@ -42,4 +42,4 @@
 ім -> iis  # Dat. pl.
 каму -> cui
 
-давальны -> casus dativus  # склон
+давальны склон -> casus dativus

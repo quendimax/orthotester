@@ -7,10 +7,10 @@
 нос -> nasus
 уваход -> ostium
 акно -> fenestra
-гасцёўня -> atrium
-вадасток -> impluvium
+дворык знутры вiллы з дымаходам у столi -> atrium
+басейн пасярод атрыума -> impluvium
 вада -> aqua
-двор з каланадай -> peristylum
+сад унутры вiллы -> peristylum
 пакой -> cubiculum
 
 прыгожы -> pulcher, chra, chrum
@@ -41,4 +41,4 @@
 іх -> earum  # f, Gen.
 імі -> iis
 
-творны -> casus ablativus  # склон
+творны склон -> casus ablativus
