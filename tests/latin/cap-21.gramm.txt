@@ -1,0 +1,38 @@
+# Capitulum XXI. Pugna discipulorum. Grammatica
+# Praeteritum perfectum and imperfectum
+
+Nox obscura erat: nulla luna caelum illustra[bat]; caelum neque luna neque stellis illustra[batur].
+Tum fulgur caelum illustra[vit]; caelum obscurum fulgure clarissimo illustra[tum] est.
+
+# Activum
+
+Marcus dicit 'se Sextum pulsav[isse]': "Ego Sextum pulsav[i]."
+Iulius: "Tune solum eum pulsav[isti]?"
+Marcus: "Ego et Titus eum pulsav[imus]."
+Iulius: "Vosne unum pulsav[istis]?"
+Primum Marcum pulsav[it] Sextus, tum Marcus et Titus eum pulsav[erunt].
+
+Marcus malus discipulus [fuit]: male recit[avit], foede scrip[sit],
+in ludo dorm[ivit], nec magistro par[uit].
+Sed Marcus dicit 'se bonum discipulum [fuisse], bene recit[avisse],
+pulchre scrip[sisse], magistro par[uisse], nec in ludo dorm[ivisse]':
+
+"Ego bonus discipulus [fui], bene recit[avi], pulchre scrip[si],
+magistro par[ui], nec in ludo dorm[ivi]!"
+Iulius: "Mentiris, Marce! Tu malus discipulus [fuisti], male recit[avisti],
+foede scrip[sisti], in ludo dorm[ivisti], nec magistro par[uisti]!"
+
+Marcus et Titus mali discipuli [fuerunt]: male recit[averunt],
+foede scrip[serunt], in ludo dorm[iverunt], nec magistro par[uerunt].
+Marcus et Titus: "Nos boni discipuli [fuimus], bene recit[avimus],
+pulchre scrip[simus], magistro par[uimus], nec in ludo dorm[ivimus]!"
+Iulius: "Mentimini, pueri! Vos mali discipuli [fuistis], male recit[avistis],
+foede scrip[sistis], in ludo dorm[ivistis], nec magistro par[uistis]!"
+
+# Passivum
+
+Discipulus dicit 'se lauda[tum] [esse]': "A magistro lauda[tus] [sum]."
+Pater: "Tune lauda[tus] [es]?"
+
+Discipuli dicunt 'se lauda[tos] [esse]': "A magistro lauda[ti] [sumus]."
+Pater: "Vosne lauda[ti] [estis]?"
