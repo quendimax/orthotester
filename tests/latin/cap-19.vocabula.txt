@@ -16,7 +16,7 @@
 храм -> templum
 плошча -> forum
 дар -> donum
-кветка -> flos, floris m
+кветка -> flos, oris m
 патрэба -> opus n  # indecl.
 
 лепшы -> melior, ius
@@ -50,8 +50,9 @@
 хоць які, любы -> ullus
 аднак -> tamen
 штодня -> cotidie
-меней -> minus
-болей -> plus
+меней, у меншай ступенi -> minus
+болей, у большай ступенi -> plus
+нашмат, значна -> multo
 у адносінах да -> erga
 
 цяперашні час -> praesens, entis n

@@ -50,7 +50,7 @@
 радавацца -> laetor, laetatus sum, laetari  # = gaudere
 баяцца -> vereor, veritus sum, vereri  # depon., = timere
 углядацца -> intueor, intuitus sum, intueri
-каціцца, слізгацець -> labor, lapsus sum, labi
+скатвацца, падаць -> labor, lapsus sum, labi
 абдымаць -> complector, complexus sum, complecti
 суцяшаць -> consolor, consolatus sum, consolari
 гаварыць -> loquor, locutus sum, loqui  # = dicere
@@ -58,7 +58,7 @@
 кідаць і кідаць -> iacto, iactavi, iactatum, iactare
 вычэрпваць -> haurio, hausi, haustum, haurire
 ратаваць -> servo, servavi, servatum, servare
-спрабаваць -> conor, conatus sum, conari
+пробаваць -> conor, conatus sum, conari
 рабіцца -> fio, factus sum, fieri
 робіцца -> fit
 робяцца -> fiunt

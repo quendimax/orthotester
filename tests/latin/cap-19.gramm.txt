@@ -17,8 +17,8 @@ Quintus: "Quid? Num vos meliores discipuli er[atis] quam nos sumus?"
 Iulius: "Nos numquam in ludo dormi[ebamus], semper magistro pare[bamus], bene computa[bamus] et pulchre scrib[ebamus]!"
 "Certe nos discipuli multo meliores er[amus] quam vos nunc estis!"
 
-Iulius verum non dicit: ante viginti annos discipuli tam mali er[ant] quam nunc sunt: in ludo dormi[ebant],
-male computa[bant], foede scrib[ebant], neque magistro suo pare[bant]!
+Iulius verum non dicit: ante viginti annos discipuli tam mali er[ant] quam nunc sunt:
+in ludo dormi[ebant], male computa[bant], foede scrib[ebant], neque magistro suo pare[bant]!
 
 # Passivum
 

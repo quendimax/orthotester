@@ -7,10 +7,10 @@
 замужняя жанчына -> mulier, eris f
 карміцелька -> nutrix, icis f
 шаг -> gradus, us m
-гутарка -> sermo, onis m  # = colloquium
+размова -> sermo, onis m  # = colloquium
 дачушка -> filiola
 сыночак -> filiolus
-размова -> colloquium  # = sermo
+гутарка -> colloquium  # = sermo
 абавязак -> officium
 маўчанне -> silentium
 
@@ -21,11 +21,11 @@
 вільготны -> umidus
 
 гаварыць -> for, fatus sum, fari  # = loqui, dicere
-быць пазбаўленым -> careo, carui, cariturus, carere
+не мець -> careo, carui, cariturus, carere
 прасіць -> postulo, postulavi, postulatum, postulare  # = posco, poscere
 плакаць -> vagio, vagivi, vagitum, vagire  # пра немаўля
 карміць -> alo, alui, alitum (altum), alere
-гаварыць між сабой -> colloquor, collocutus sum, colloqui
+гутарыць -> colloquor, collocutus sum, colloqui
 хачу -> volo  # velle 1-sg
 хочаш -> vis  # velle 2-sg
 хочам -> volumus  # velle 1-pl
@@ -53,5 +53,5 @@ domus -> domo  # Abl. sg.
 не хаціце -> nolite
 ці еслі...ці еслі -> sive...sive
 вядома -> profecto  # = certe
-вядома не! -> minime!
+зусiм не! -> minime!
 разам з -> una cum
