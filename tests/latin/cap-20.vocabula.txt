@@ -38,7 +38,7 @@
 маўчаць -> sileo, silui, —, silere  # = taceo, tacere
 прывозіць -> adveho, advexi, advectum, advehere
 вяртацца -> revertor, reversus sum, reverti  # = red-īre
-любіць, шанаваць -> diligo, dilexi, dilectum, diligere
+любіць, шанаваць -> diligo, dilexi, dilectum, diligere  # amare ut parentes liberos suos
 быть вартым -> deceo, decui, —, decere
 не хацець -> nolo, nolui, —, nolle
 
@@ -55,3 +55,4 @@ domus -> domo  # Abl. sg.
 вядома -> profecto  # = certe
 зусiм не! -> minime!
 разам з -> una cum
+замест -> in loco

@@ -26,7 +26,7 @@
 гыркаць -> fremo, fremui, fremitum, fremere
 кусаць -> mordeo, momordi, morsum, mordere
 стрымліваць -> retineo, retinui, retentum, retinere
-сцерагчыся -> caveo, cavi, cautum, cavere
+сцерагчыся, быць асцярожным -> caveo, cavi, cautum, cavere
 нагадваць -> moneo, monui, monitum, monere
 спыняцца -> resisto, restiti, —, resistere  # = consisto
 развязваць -> solvo, solvi, solutum, solvere
@@ -43,19 +43,19 @@
 дрыжаць -> tremo, tremui, —, tremere
 гнаць -> pello, pepuli, pulsum, pellere
 выдаляць -> removeo, removi, remotum, removere
-меркаваць, думаць -> arbitror, arbitratus sum, arbitrari  # = puto, putare
+меркаваць, лiчыць -> arbitror, arbitratus sum, arbitrari  # = puto, putare
 раздзіраць -> scindo, scidi, scissum, scindere
 
 гэты побач з сабой -> iste, ista, istud
-ut sciunt omnes -> scilicet
+як вядома -> scilicet  # ut sciunt omnes
 раней -> antea
 пазней -> postea  # = deinde
 раней, спачатку -> prius  # adv.
 нарэшце -> tandem
 бліжэй -> propius
 нядаўна -> nuper  # = paulo ante
-знадворку -> foris  # за дзвярмі
-з дому -> foras  # adv.
+знадворку (дома) -> foris  # =за дзвярмі
+з нутры (дома на двор) -> foras  # =за дзверы
 так+як -> sicut
 чаму не -> quin  # = cur non
 знадворку -> extra

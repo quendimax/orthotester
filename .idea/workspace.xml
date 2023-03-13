@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add some improvements and fixes to Latin tests">
-      <change afterPath="$PROJECT_DIR$/tests/latin/cap-21.gramm.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/latin/cap-22.gramm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/latin/cap-20.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-20.vocabula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/latin/cap-22.pen-a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-22.pen-a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/latin/verba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/verba.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,14 +136,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/quendimax/Workspace/orthotester&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/quendimax/Workspace/orthotester/tests/latin",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="orthotester" is-module-sdk="true">
@@ -154,8 +157,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Maksim\Documents\GitHub\orthotester\tests\latin" />
       <recent name="$PROJECT_DIR$/tests/latin" />
+      <recent name="C:\Users\Maksim\Documents\GitHub\orthotester\tests\latin" />
       <recent name="D:\Develop\_others\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Workspace\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Archive\BSU-PHIL\Pastuplennie\orthotester\tests\latin" />
@@ -165,7 +168,7 @@
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 21 (XXI). Grammatica. Perfectum">
+  <component name="RunManager" selected="Python.Capitulum 22 (XXII). Pensum A">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2034,6 +2037,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Capitulum 22 (XXII). Grammatica. Supinum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
+      <module name="orthotester" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/latin/cap-22.gramm.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Capitulum 22 (XXII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -3793,7 +3818,6 @@
       <item itemvalue="Python.Praes. ind. act." />
       <item itemvalue="Python.Praes. ind. pass." />
       <item itemvalue="Python.Pronomen hic" />
-      <item itemvalue="Python.Capitulum 07 (VII). Grammatica. Dativus" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum A" />
       <item itemvalue="Python.Capitulum 01 (I). Pensum B" />
       <item itemvalue="Python.Capitulum 01 (I). Vocabula" />
@@ -3815,6 +3839,7 @@
       <item itemvalue="Python.Capitulum 06 (VI). Pensum A" />
       <item itemvalue="Python.Capitulum 06 (VI). Pensum B" />
       <item itemvalue="Python.Capitulum 06 (VI). Vocabula" />
+      <item itemvalue="Python.Capitulum 07 (VII). Grammatica. Dativus" />
       <item itemvalue="Python.Capitulum 07 (VII). Pensum A" />
       <item itemvalue="Python.Capitulum 07 (VII). Pensum B" />
       <item itemvalue="Python.Capitulum 07 (VII). Vocabula" />
@@ -3876,6 +3901,7 @@
       <item itemvalue="Python.Capitulum 21 (XXI). Pensum A" />
       <item itemvalue="Python.Capitulum 21 (XXI). Pensum B" />
       <item itemvalue="Python.Capitulum 21 (XXI). Vocabula" />
+      <item itemvalue="Python.Capitulum 22 (XXII). Grammatica. Supinum" />
       <item itemvalue="Python.Capitulum 22 (XXII). Pensum A" />
       <item itemvalue="Python.Capitulum 22 (XXII). Pensum B" />
       <item itemvalue="Python.Capitulum 22 (XXII). Vocabula" />

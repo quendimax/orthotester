@@ -8,3 +8,17 @@ Multi barbari Romam veniunt habita[tum].
 Syra: "Verba medici difficilia sunt audi[tu]."
 Ea res est fac[tu] facilis.
 Nomen barbarum difficile dic[tu] est.
+
+# Verba
+terrere [terru]isse [territ]um
+claudere [claus]isse [claus]um
+dicere [dix]isse [dict]um
+solvere [solv]isse [solut]um
+emere [em]isse [empt]um
+rumpere [rup]isse [rupt]um
+aperire [aperu]isse [apert]um
+vincire [vinx]isse [vinct]um
+pellere [pepul]isse [puls]um
+scindere [scid]isse [sciss]um
+venire [ven]isse [vent]um
+posse [potu]isse
