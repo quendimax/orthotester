@@ -9,7 +9,7 @@ Quintus: "Ubi est avunculus noster?" Iulius: "Avunculus [vester] est in Germania
 Provincia est [pars] imperii Romani.
 Rhenus Germaniam ab imperio Romano [dividit]; Rhenus [finis] imperii est.
 In Germania multi [milites] Romani sunt, qui contra Germanos [pugnant]; Germani enim [hostes] Romanorum sunt.
-Milites Romani scuta et [gladii] et pila [ferunt].
+Milites Romani scuta et [gladios] et pila [ferunt].
 Milites in [castris] habitant.
 Circum castra est [fossa] et [vallum], quod X pedes [altum] est.
 Milites patriam ab hostibus [defendunt].

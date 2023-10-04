@@ -1,20 +1,20 @@
 # Capitulum XXIII. Epistula magistri. Vocabula nova
 
 пячаць -> signum
-пісьмо -> litterae, arum f pl  # = epistula
-вітанні -> salus, utis f
+пісьмо -> litterae, arum f  # = epistula
+прывiтанне -> salus, utis f
 твар -> vultus, us m  # = facies
 пахвала -> laus, laudis f
 учынак -> factum
 сорам -> pudor, oris m
 абяцанне -> promissum
-пабои -> verbera, um n pl
+пабоi -> verbera, um n
 ключ -> clavis, is f
 спадарожнік -> comes, itis m
 
 цэлы, непашкоджаны -> integer, gra, grum
 бледны -> pallidus
-відочны -> planus
+зразумелы, просты -> planus
 вышэйшы, верхні -> superior, ius
 пазычаны -> debitus
 

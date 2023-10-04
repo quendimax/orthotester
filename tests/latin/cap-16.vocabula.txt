@@ -48,7 +48,7 @@
 рухацца следам -> sequor, secutus sum, sequi
 разгледзець, заўважыць -> cerno, crevi, cretum, cernere
 радавацца -> laetor, laetatus sum, laetari  # = gaudere
-баяцца -> vereor, veritus sum, vereri  # depon., = timere
+апасацца -> vereor, veritus sum, vereri  # depon., ~ timere
 углядацца -> intueor, intuitus sum, intueri
 скатвацца, падаць -> labor, lapsus sum, labi
 абдымаць -> complector, complexus sum, complecti

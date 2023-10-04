@@ -75,13 +75,13 @@
 выязджаць -> proficiscor, profectus sum, proficisci  # = abire, egredi
 рухацца следам -> sequor, secutus sum, sequi
 разгледзець, заўважыць -> cerno, crevi, cretum, cernere  # = animadverto, conspicio
-баяцца -> vereor, veritus sum, vereri  # depon., = timere, horrere
+апасацца -> vereor, veritus sum, vereri  # depon., = timere, horrere
 углядацца -> intueor, intuitus sum, intueri
 слізгацець, скочвацца -> labor, lapsus sum, labi
 абдымаць -> complector, complexus sum, complecti
 гаварыць -> loquor, locutus sum, loqui  # = dicere
 вычэрпваць -> haurio, hausi, haustum, haurire
-спрабаваць -> conor, conatus sum, conari
+пробаваць -> conor, conatus sum, conari
 рабіцца -> fio, factus sum, fieri
 
 # cap-17

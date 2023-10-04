@@ -2,7 +2,7 @@
 
 # Adiectiva declinationis tertiae
 
-Pedes fort[is] Roman[us] gladium grav[em] et lev[em], scutum magn[um] et grav[e] fert.
+Pedes fort[is] Roman[us] gladium brev[em] et lev[em], scutum magn[um] et grav[e] fert.
 Eques hastam fert long[am] et grav[em].
 Pediti fort[i] Roman[o] est gladius brev[is] et lev[is], scutum magn[um] et grav[e].
 Equiti hasta long[a] et grav[is] est.
