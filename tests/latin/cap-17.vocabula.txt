@@ -50,7 +50,7 @@
 лічыць -> computo, computavi, computatum, computare  # = numero, слоўн. ф.
 класці назад -> repono, reposui, repositum, reponere
 шчодра даваць -> largior, largitus sum, largiri
-паказваць (словамі) -> demonstro, demonstravi, demostratum, demonstrare
+паказваць (словамі) -> demonstro, demonstravi, demonstratum, demonstrare
 дзяліць -> partior, partitus sum, partiri  # depon., = divido
 
 кожны -> quisque  # = omnis, e
