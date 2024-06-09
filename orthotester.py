@@ -69,27 +69,24 @@ class TextProp:
     BOLD = '\x1b[1m'
 
 
-def get_original_word(line, exclusions):
-    orig_word = ''
+def parse_sentence(sentence, snaps):
+    original = ''
+    question = ''
     cur_pos = 0
-    for exclusion in exclusions:
-        orig_word += line[cur_pos:exclusion[0]]
-        excl_str = line[exclusion[0]:exclusion[1]].strip('[]')
-        orig_word += excl_str
-        cur_pos = exclusion[1]
-    orig_word += line[cur_pos:]
-    return orig_word
-
-
-def get_quest_word(line, exclusions):
-    orig_word = ''
-    cur_pos = 0
-    for exclusion in exclusions:
-        orig_word += line[cur_pos:exclusion[0]]
-        orig_word += '_'
-        cur_pos = exclusion[1]
-    orig_word += line[cur_pos:]
-    return orig_word
+    for snap in snaps:
+        original += sentence[cur_pos:snap[0]]
+        question += sentence[cur_pos:snap[0]]
+        word = sentence[snap[0]:snap[1]].strip('[]')
+        if (i := word.find(':')) != -1:
+            original += word[:i].strip()
+            question += '...' + TextProp.COMMENT + '(' + word[i+1:].strip() + ')' + TextProp.NORMAL
+        else:
+            original += word
+            question += '_'
+        cur_pos = snap[1]
+    original += sentence[cur_pos:]
+    question += sentence[cur_pos:]
+    return original, question
 
 
 def read_answer(comment=''):
@@ -113,9 +110,9 @@ def print_right():
 def print_wrong(right_answer, wrong_position, answer_marks, right_marks):
     msg = ' ---> ' + TextProp.WRONG + 'Wrong' + (' ' * wrong_position) + answer_marks + TextProp.NORMAL
     print(msg)
-    msg = ' ---> Right: ' + TextProp.BOLD + right_answer + TextProp.NORMAL
+    msg = ' ---> Right:  ' + TextProp.BOLD + right_answer + TextProp.NORMAL
     print(msg)
-    msg = '             ' + TextProp.RIGHT + right_marks + TextProp.NORMAL
+    msg = '              ' + TextProp.RIGHT + right_marks + TextProp.NORMAL
     print(msg)
 
 
@@ -204,8 +201,7 @@ def test_with_gaps(test_word, comment=''):
     checker = re.compile(r'\[[^\[\]|]*]')
     exclusions = [m.span() for m in checker.finditer(test_word)]
 
-    orig_word = get_original_word(test_word, exclusions)
-    quest_word = get_quest_word(test_word, exclusions)
+    orig_word, quest_word = parse_sentence(test_word, exclusions)
 
     print('Question:     %s' % quest_word, end='')
     print_comment(comment)

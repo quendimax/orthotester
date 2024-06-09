@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "lpsi: cap-i.pen-a",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "integratedTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-1.pen-a.txt", "--no-random"]
+        },
+        {
+            "name": "lpsi: cap-i.pen-b",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "integratedTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-1.pen-b.txt", "--no-random"]
+        },
+        {
+            "name": "lpsi: cap-i.vocabula",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "integratedTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-1.vocabula.txt"]
+        },
+
+
+
+
+
+
+        {
+            "name": "lpsi: cap-xx.pen-a",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "externalTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-20.pen-a.txt", "--no-random"]
+        },
+        {
+            "name": "lpsi: cap-xx.pen-b",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "externalTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-20.pen-b.txt", "--no-random"]
+        },
+        {
+            "name": "lpsi: cap-xx.vocabula",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "externalTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-20.vocabula.txt"]
+        },
+        {
+            "name": "lpsi: cap-xx.gramm",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/orthotester.py",
+            "console": "externalTerminal",
+            "args": ["${workspaceFolder}/tests/latin/cap-20.gramm.txt", "--no-random"]
+        },
+    ]
+}
