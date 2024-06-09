@@ -15,6 +15,7 @@
 аркуш папірусу -> charta
 папірус -> papyrus
 плата -> merces, edis f
+звярушка -> bestiola
 
 рэдкі -> rarus
 часты -> frequens
