@@ -1,0 +1,74 @@
+# Liczebniki
+
+
+#! Wyrazy podane w nawiasach proszę napisać w odpowiedniej formie.
+
+Znalazłam 4 [grzyby:grzyb].
+Kupiliśmy 2 [butelki:butelka] koniaku.
+Wypożyczyłam 8 [książek:książka].
+Poznałyśmy 3 [miłe Węgierki:miła Węgierka].
+Czekamy na 6 [zdolnych uczennic:zdolna uczennica].
+Dostałam wczoraj 2 [długie listy:długi list].
+Na spacerze widzieliśmy 5 [młodych lisków:młody lisek].
+Znasz te 3 [dziwne dziewczyny:dziwna dziewczyna].
+Zabrał ze sobą 4 [ostre noże:ostry nóż].
+Upiekłam 40 [okrągłych ciasteczek:okrągłe ciasteczko].
+Piotrek zjadł 5 [dużych bułek:duża bułka].
+Krawcowa miała rano 7 [stałych klientek:stała klientka].
+Zrobiłam do tej pory 17 [trudnych ćwiczeń:trudne ćwiczenie].
+Złodziej ukradł im 3 [cenne obrazy:cenny obraz] oraz 5 [złotych pierścionków:złoty pierścionek].
+Ela rozbiła 10 [głębokich talerzy:głęboki talerz].
+
+
+#! Proszę użyć odpowiedniej formy czasownika.
+
+W autobusie był taki tłok, że przy wysiadaniu [urwały się:urwać się] dwa guziki od mojego płaszcza.
+W tamtej części parku [stoi:stać] dużo ławek.
+Zobacz, [rośnie:rosnąć] tu osiem poziomek!
+Co się dzieje? [Szczeka:Szczekać] aż pięć psów.
+W czasie burzy [odłamały się:odłamać się] trzy gałęzie tego drzewa.
+Chłopczyk płacze, bo [wbiły się:wbić się] mu w palec dwie drzazgi.
+Był wiatr i ze sznurka [spadły:spaść] cztery koszule.
+Na biurku [leży:leżeć] kilka zeszytów.
+Niech tu [podejdą:podejść] trzy dziewczynki.
+Na parkingu [stoi:stać] jedenaście samochodów.
+Na postoju [czeka:czekać] dużo taksówek.
+Do światła [przyleciały:przylecieć] dwie ćmy.
+Do stołu [usiadło:usiąść] dwanaście osób.
+Wczoraj [zepsuły się:zepsuć się] obydwa moje radia.
+W pałacu [wisi:wisieć] dziewięć luster.
+
+
+#! Proszę użyć odpowiedniej formy czasownika.
+#! Liczebniki proszę napisać słowami.
+
+# 1
+W jednej klatce [śpią:spać] [trzy:3] lwy, a w sąsiedniej [bawią się:bawić się] [cztery:4] małpy.
+# 2
+[Pięć:5] dziewczynek [gra:grać] w klasy, a ich [dwie:2] koleżanki [siedzą:siedzieć] na ławce.
+# 3
+Na arenie [występuje:występować] teraz [dziesięć:10] koni: [dwa:2] tańczą, a [osiem:8] [biega:biegać].
+# 4
+[Sześć:6] nauczycielek [rozmawia:rozmawiać], a [dwie:2] [piją:pić] kawę.
+# 5
+W tym filmie aż [pięć:5] kobiet [jeździ:jeździć] świetnie konno, ale tylko [trzy:3] z nich [umieją:umieć] też prowadzić samochód.
+# 6
+[Dwie:2] studentki [zdają:zdawać] egzamin, a [sześć:6] [czeka:czekać] na swoją kolej.
+# 7
+[Trzy:3] pielęgniarki [przygotowywują:przygotowywać] pacjenta do operacji, a [pięć:5] [sprawdza:sprawdzać] narzędzia i aparaty.
+# 8
+Na wystawie [stoją:stać] [dwa:2] rowery, a w sklepie [znajduje się: znajdować się] ich [piętnaście:15].
+# 9
+Na pierwszym piętrze po prawej stronie [są:być] [cztery:4] sale, a po lewej [jest:być] [siedem:7].
+# 10
+Na tej linii [kursuje:kursować] zwykle [dwanaście:12] autobusów, ale dzisiaj [dwa:2] [są:być] zepsute.
+# 11
+Do tej pory [miało:mieć] wyjść [sześć:6] tomów encyklopedii, a [wyszły:wyjść] tylko [cztery:4].
+# 12
+[Trzy:3] kelnerki [ustawiają:ustawiać] kwiaty na stołach, a [pięć:5] [układa:układać] serwetki.
+# 13
+Przed chwilą [cztery:4] jabłka [spadły:spadać] z drzewa, a na drzewie [zostało:zostać] ich niedużo.
+# 14
+[Dwie:2] uczennice [oddały:oddać] ćwiczenia dziesięć minut temu, a [dziewięć:9] jeszcze nie [skończyło:skończyć] pisać.
+# 15
+Do Krysi [przyjdzie:przyjść] jutro [pięć:5] zaproszonych koleżanek; [trzy:3] niestety nie [mogą:moć] przyjść.

@@ -1,0 +1,95 @@
+# Dopełniacz — rodzaj męski nieżywitny: "-a" czy "-u"?
+
+# nazwy walut
+dolar[a]
+funt[a]
+cent[a]
+
+# marki
+Ford[a]
+Citroen[a]
+Adidas[a]
+
+# miary
+kilogram[a]
+kilometr[a]
+metr[a]
+
+# naczynia i sztućce
+talerz[a]
+nóż[a]
+garnk[a]
+
+# gry i sport
+tenis[a]
+hokeyj[a]
+brydż[a]
+
+# części ciała
+brzuch[a]
+palc[a]
+nos[a]
+
+# narzędzia
+młotk[a]
+klucz[a]
+ołówk[a]
+
+# tańce
+walc[a]
+polonez[a]
+fokstrot[a]
+
+# miasta
+Berlin[a]
+Paryż[a]
+Gdańsk[a]
+
+# niektróre producty spożywcze
+chleb[a]
+ser[a]
+naleśnik[a]
+
+# nazwy miesięcy
+styczni[a]
+marc[a]
+kweitni[a]
+maj[a]
+czerwc[a]
+lipc[a]
+serpni[a]
+wrześni[a]
+padzernik[a]
+listopad[a]
+grudni[a]
+
+# kwiaty, warzywa, owoce
+tulilpan[a]
+banan[a]
+ogórk[a]
+
+# środki transportu
+samochod[u]
+rower[u]
+autobus[u]
+
+# rzeczowniki "zbiorowe"
+makaron[u]
+cukr[u]
+las[u]
+
+# substancje płynne
+sok[u]
+majonez[u]
+klej[u]
+
+# dni tygodnia
+poniedzałk[u]
+wtork[u]
+czwartk[u]
+piątk[u]
+
+# pijęcia abstrakcyjne
+Nie ma problem[u]!
+Nie rób hałas[u]!
+Z chaos[u] wyłoniła się Gaja i Uranos.

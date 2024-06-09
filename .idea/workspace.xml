@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add some improvements and fixes to Latin tests">
-      <change afterPath="$PROJECT_DIR$/tests/latin/cap-22.gramm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-20.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-20.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-22.pen-a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-22.pen-a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-22.vocabula.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/verba.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/verba.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orthotester.py" beforeDir="false" afterPath="$PROJECT_DIR$/orthotester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/latin/cap-18.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-18.vocabula.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +118,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/tests/latin/aphorisms.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -128,6 +127,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="1OV2flejfKpKcRXnfr9s4p2Eshr" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -138,10 +140,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Capitulum 18 (XVIII). Grammatica. Adverbium.executor": "Run",
+    "Python.Capitulum 18 (XVIII). Vocabula.executor": "Run",
+    "Python.Capitulum 19 (XIX). Grammatica. Imperfectum.executor": "Run",
+    "Python.Capitulum 19 (XIX). Pensum A.executor": "Run",
+    "Python.Capitulum 19 (XIX). Pensum B.executor": "Run",
+    "Python.Capitulum 19 (XIX). Vocabula.executor": "Run",
+    "Python.Lection 02.executor": "Run",
+    "Python.Lekcja 08. Liczebniki.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/quendimax/Workspace/orthotester/tests/latin",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/quendimax/Workspace/orthotester/tests/polski/na-tak-b2",
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -157,18 +169,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/polski/na-tak-b2" />
       <recent name="$PROJECT_DIR$/tests/latin" />
       <recent name="C:\Users\Maksim\Documents\GitHub\orthotester\tests\latin" />
       <recent name="D:\Develop\_others\orthotester\tests\latin" />
       <recent name="D:\YandexDisk\Home\Workspace\orthotester\tests\latin" />
-      <recent name="D:\YandexDisk\Home\Archive\BSU-PHIL\Pastuplennie\orthotester\tests\latin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester" />
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Capitulum 22 (XXII). Pensum A">
+  <component name="RunManager" selected="Python.Lekcja 08. Liczebniki">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,6 +202,7 @@
     </configuration>
     <configuration name="Arabic 1" type="PythonConfigurationType" factoryName="Python" folderName="Arabic">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,6 +225,7 @@
     </configuration>
     <configuration name="Capitulum 01 (I). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -234,6 +248,7 @@
     </configuration>
     <configuration name="Capitulum 01 (I). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -256,6 +271,7 @@
     </configuration>
     <configuration name="Capitulum 01 (I). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -278,6 +294,7 @@
     </configuration>
     <configuration name="Capitulum 02 (II). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -300,6 +317,7 @@
     </configuration>
     <configuration name="Capitulum 02 (II). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -322,6 +340,7 @@
     </configuration>
     <configuration name="Capitulum 02 (II). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -344,6 +363,7 @@
     </configuration>
     <configuration name="Capitulum 03 (III). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -366,6 +386,7 @@
     </configuration>
     <configuration name="Capitulum 03 (III). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -388,6 +409,7 @@
     </configuration>
     <configuration name="Capitulum 03 (III). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -410,6 +432,7 @@
     </configuration>
     <configuration name="Capitulum 04 (IV). Grammatica. Voc. Imp. et ind. sg." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -432,6 +455,7 @@
     </configuration>
     <configuration name="Capitulum 04 (IV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -454,6 +478,7 @@
     </configuration>
     <configuration name="Capitulum 04 (IV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -476,6 +501,7 @@
     </configuration>
     <configuration name="Capitulum 04 (IV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -498,6 +524,7 @@
     </configuration>
     <configuration name="Capitulum 05 (V). Grammatica. Abl. Imp. et ind. pl." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -520,6 +547,7 @@
     </configuration>
     <configuration name="Capitulum 05 (V). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -542,6 +570,7 @@
     </configuration>
     <configuration name="Capitulum 05 (V). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -564,6 +593,7 @@
     </configuration>
     <configuration name="Capitulum 05 (V). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -586,6 +616,7 @@
     </configuration>
     <configuration name="Capitulum 06 (VI). Grammatica. Loc. Act. et pass." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -608,6 +639,7 @@
     </configuration>
     <configuration name="Capitulum 06 (VI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -630,6 +662,7 @@
     </configuration>
     <configuration name="Capitulum 06 (VI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -652,6 +685,7 @@
     </configuration>
     <configuration name="Capitulum 06 (VI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -674,6 +708,7 @@
     </configuration>
     <configuration name="Capitulum 07 (VII). Grammatica. Dativus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -696,6 +731,7 @@
     </configuration>
     <configuration name="Capitulum 07 (VII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -718,6 +754,7 @@
     </configuration>
     <configuration name="Capitulum 07 (VII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -740,6 +777,7 @@
     </configuration>
     <configuration name="Capitulum 07 (VII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -762,6 +800,7 @@
     </configuration>
     <configuration name="Capitulum 08 (VIII). Grammatica. Hic" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -784,6 +823,7 @@
     </configuration>
     <configuration name="Capitulum 08 (VIII). Grammatica. Qui, is, ille." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -806,6 +846,7 @@
     </configuration>
     <configuration name="Capitulum 08 (VIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -828,6 +869,7 @@
     </configuration>
     <configuration name="Capitulum 08 (VIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -850,6 +892,7 @@
     </configuration>
     <configuration name="Capitulum 08 (VIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -872,6 +915,7 @@
     </configuration>
     <configuration name="Capitulum 09 (IX). Grammatica. Decl. 1-3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -894,6 +938,7 @@
     </configuration>
     <configuration name="Capitulum 09 (IX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -916,6 +961,7 @@
     </configuration>
     <configuration name="Capitulum 09 (IX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -938,6 +984,7 @@
     </configuration>
     <configuration name="Capitulum 09 (IX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -960,6 +1007,7 @@
     </configuration>
     <configuration name="Capitulum 10 (X). Grammatica. Infinitivus" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -982,6 +1030,7 @@
     </configuration>
     <configuration name="Capitulum 10 (X). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1004,6 +1053,7 @@
     </configuration>
     <configuration name="Capitulum 10 (X). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1026,6 +1076,7 @@
     </configuration>
     <configuration name="Capitulum 10 (X). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1048,6 +1099,7 @@
     </configuration>
     <configuration name="Capitulum 11 (XI). Grammatica. Acc. cum inf." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1070,6 +1122,7 @@
     </configuration>
     <configuration name="Capitulum 11 (XI). Grammatica. Decl 3 n." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1092,6 +1145,7 @@
     </configuration>
     <configuration name="Capitulum 11 (XI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1114,6 +1168,7 @@
     </configuration>
     <configuration name="Capitulum 11 (XI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1136,6 +1191,7 @@
     </configuration>
     <configuration name="Capitulum 11 (XI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1158,6 +1214,7 @@
     </configuration>
     <configuration name="Capitulum 12 (XII). Grammatica. Adiectiva Decl 3" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1180,6 +1237,7 @@
     </configuration>
     <configuration name="Capitulum 12 (XII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1202,6 +1260,7 @@
     </configuration>
     <configuration name="Capitulum 12 (XII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1224,6 +1283,7 @@
     </configuration>
     <configuration name="Capitulum 12 (XII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1246,6 +1306,7 @@
     </configuration>
     <configuration name="Capitulum 13 (XIII). Grammatica. Decl. 5. Superl." type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1268,6 +1329,7 @@
     </configuration>
     <configuration name="Capitulum 13 (XIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1290,6 +1352,7 @@
     </configuration>
     <configuration name="Capitulum 13 (XIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1312,6 +1375,7 @@
     </configuration>
     <configuration name="Capitulum 13 (XIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1334,6 +1398,7 @@
     </configuration>
     <configuration name="Capitulum 14 (XIV). Grammatica. Participium" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1356,6 +1421,7 @@
     </configuration>
     <configuration name="Capitulum 14 (XIV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1378,6 +1444,7 @@
     </configuration>
     <configuration name="Capitulum 14 (XIV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1400,6 +1467,7 @@
     </configuration>
     <configuration name="Capitulum 14 (XIV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1422,6 +1490,7 @@
     </configuration>
     <configuration name="Capitulum 15 (XV). Grammatica. Personae verbi" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1444,6 +1513,7 @@
     </configuration>
     <configuration name="Capitulum 15 (XV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1466,6 +1536,7 @@
     </configuration>
     <configuration name="Capitulum 15 (XV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1488,6 +1559,7 @@
     </configuration>
     <configuration name="Capitulum 15 (XV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1510,6 +1582,7 @@
     </configuration>
     <configuration name="Capitulum 16 (XVI). Grammatica. Verba deponentia" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1532,6 +1605,7 @@
     </configuration>
     <configuration name="Capitulum 16 (XVI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1554,6 +1628,7 @@
     </configuration>
     <configuration name="Capitulum 16 (XVI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1576,6 +1651,7 @@
     </configuration>
     <configuration name="Capitulum 16 (XVI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1598,6 +1674,7 @@
     </configuration>
     <configuration name="Capitulum 17 (XVII). Grammatica. Personae verbi passivi" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1620,6 +1697,7 @@
     </configuration>
     <configuration name="Capitulum 17 (XVII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1642,6 +1720,7 @@
     </configuration>
     <configuration name="Capitulum 17 (XVII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1664,6 +1743,7 @@
     </configuration>
     <configuration name="Capitulum 17 (XVII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1686,6 +1766,7 @@
     </configuration>
     <configuration name="Capitulum 18 (XVIII). Grammatica. Adverbium" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1708,15 +1789,15 @@
     </configuration>
     <configuration name="Capitulum 18 (XVIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.11 (orthotester)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -1731,6 +1812,7 @@
     </configuration>
     <configuration name="Capitulum 18 (XVIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1753,6 +1835,7 @@
     </configuration>
     <configuration name="Capitulum 18 (XVIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1775,6 +1858,7 @@
     </configuration>
     <configuration name="Capitulum 19 (XIX). Grammatica. Imperfectum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1797,6 +1881,7 @@
     </configuration>
     <configuration name="Capitulum 19 (XIX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1819,6 +1904,7 @@
     </configuration>
     <configuration name="Capitulum 19 (XIX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1841,6 +1927,7 @@
     </configuration>
     <configuration name="Capitulum 19 (XIX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1863,6 +1950,7 @@
     </configuration>
     <configuration name="Capitulum 20 (XX). Grammatica. Futurum primum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1885,6 +1973,7 @@
     </configuration>
     <configuration name="Capitulum 20 (XX). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1907,6 +1996,7 @@
     </configuration>
     <configuration name="Capitulum 20 (XX). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1929,6 +2019,7 @@
     </configuration>
     <configuration name="Capitulum 20 (XX). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1951,6 +2042,7 @@
     </configuration>
     <configuration name="Capitulum 21 (XXI). Grammatica. Perfectum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1973,6 +2065,7 @@
     </configuration>
     <configuration name="Capitulum 21 (XXI). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1995,6 +2088,7 @@
     </configuration>
     <configuration name="Capitulum 21 (XXI). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2017,6 +2111,7 @@
     </configuration>
     <configuration name="Capitulum 21 (XXI). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2039,6 +2134,7 @@
     </configuration>
     <configuration name="Capitulum 22 (XXII). Grammatica. Supinum" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2061,6 +2157,7 @@
     </configuration>
     <configuration name="Capitulum 22 (XXII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2083,6 +2180,7 @@
     </configuration>
     <configuration name="Capitulum 22 (XXII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2105,6 +2203,7 @@
     </configuration>
     <configuration name="Capitulum 22 (XXII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2127,6 +2226,7 @@
     </configuration>
     <configuration name="Capitulum 23 (XXIII). Grammatica. Participium et infinitivus futuri" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2149,6 +2249,7 @@
     </configuration>
     <configuration name="Capitulum 23 (XXIII). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2171,6 +2272,7 @@
     </configuration>
     <configuration name="Capitulum 23 (XXIII). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2193,6 +2295,7 @@
     </configuration>
     <configuration name="Capitulum 23 (XXIII). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2215,6 +2318,7 @@
     </configuration>
     <configuration name="Capitulum 24 (XXIV). Pensum A" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2237,6 +2341,7 @@
     </configuration>
     <configuration name="Capitulum 24 (XXIV). Pensum B" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2259,6 +2364,7 @@
     </configuration>
     <configuration name="Capitulum 24 (XXIV). Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2281,6 +2387,7 @@
     </configuration>
     <configuration name="Comparativus" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2303,6 +2410,7 @@
     </configuration>
     <configuration name="Declinacio 1, 2" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2325,6 +2433,7 @@
     </configuration>
     <configuration name="Declinacio 3" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2347,6 +2456,7 @@
     </configuration>
     <configuration name="Declinacio 4" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2369,6 +2479,7 @@
     </configuration>
     <configuration name="Declinacio 5" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2391,6 +2502,7 @@
     </configuration>
     <configuration name="Declinatio prima" type="PythonConfigurationType" factoryName="Python" folderName="Greek">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2413,6 +2525,7 @@
     </configuration>
     <configuration name="Declinatio secunda" type="PythonConfigurationType" factoryName="Python" folderName="Greek">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2435,6 +2548,7 @@
     </configuration>
     <configuration name="English" type="PythonConfigurationType" factoryName="Python" folderName="BSU">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2457,6 +2571,7 @@
     </configuration>
     <configuration name="HistGram" type="PythonConfigurationType" factoryName="Python">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2479,6 +2594,7 @@
     </configuration>
     <configuration name="Latin Aphorisms" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2499,8 +2615,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lekcja 08. Liczebniki" type="PythonConfigurationType" factoryName="Python" folderName="Polski na tak">
+      <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
+      <option name="PARAMETERS" value="tests/polski/na-tak-b2/lec-08.liczebniki.txt --no-random" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Napisannie razam, praz zluczok, asobna" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2525,6 +2665,7 @@
     </configuration>
     <configuration name="Phrasal Verbs by Meaning" type="PythonConfigurationType" factoryName="Python" folderName="English">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2547,6 +2688,7 @@
     </configuration>
     <configuration name="Phrasal Verbs by Usage" type="PythonConfigurationType" factoryName="Python" folderName="English">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2569,6 +2711,7 @@
     </configuration>
     <configuration name="Praes. ind. act." type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2591,6 +2734,7 @@
     </configuration>
     <configuration name="Praes. ind. pass." type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2613,6 +2757,7 @@
     </configuration>
     <configuration name="Prawapis halosnych" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2637,6 +2782,7 @@
     </configuration>
     <configuration name="Prawapis miakkaha znaka i apostrafa" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2661,6 +2807,7 @@
     </configuration>
     <configuration name="Prawapis zycznych" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2683,6 +2830,7 @@
     </configuration>
     <configuration name="Pronomen hic" type="PythonConfigurationType" factoryName="Python" folderName="Lingua latina">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2705,6 +2853,7 @@
     </configuration>
     <configuration name="Test" type="PythonConfigurationType" factoryName="Python" folderName="Greek">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2727,6 +2876,7 @@
     </configuration>
     <configuration name="USIE PRAWILY" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2751,6 +2901,7 @@
     </configuration>
     <configuration name="Uzywannie i napisannie NIE, NI" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2775,6 +2926,7 @@
     </configuration>
     <configuration name="Uzywannie i prawapis marfiem" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2799,6 +2951,7 @@
     </configuration>
     <configuration name="Verba" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2821,6 +2974,7 @@
     </configuration>
     <configuration name="Vocabula" type="PythonConfigurationType" factoryName="Python" folderName="Lingva Latina per se Illustrata">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2843,6 +2997,7 @@
     </configuration>
     <configuration name="Wialikaja i malaja litary" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (short list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2865,6 +3020,7 @@
     </configuration>
     <configuration name="dates-part-1 (Rus)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2887,6 +3043,7 @@
     </configuration>
     <configuration name="dates-part-2 (Litwa)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2909,6 +3066,7 @@
     </configuration>
     <configuration name="dates-part-3 (Recz Paspalitaja)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2931,6 +3089,7 @@
     </configuration>
     <configuration name="dates-part-4 (Rasija)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2953,6 +3112,7 @@
     </configuration>
     <configuration name="dates-part-5 (SSSR)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2975,6 +3135,7 @@
     </configuration>
     <configuration name="dates-part-6 (RB)" type="PythonConfigurationType" factoryName="Python" folderName="History">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -2997,6 +3158,7 @@
     </configuration>
     <configuration name="digits" type="PythonConfigurationType" factoryName="Python" folderName="Korean">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3019,6 +3181,7 @@
     </configuration>
     <configuration name="level-0" type="PythonConfigurationType" factoryName="Python" folderName="Korean">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3043,6 +3206,7 @@
     </configuration>
     <configuration name="level-1" type="PythonConfigurationType" factoryName="Python" folderName="Korean">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3067,6 +3231,7 @@
     </configuration>
     <configuration name="level-2" type="PythonConfigurationType" factoryName="Python" folderName="Korean">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3091,6 +3256,7 @@
     </configuration>
     <configuration name="naciski.txt" type="PythonConfigurationType" factoryName="Python">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3113,6 +3279,7 @@
     </configuration>
     <configuration name="prawily01-06.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3137,6 +3304,7 @@
     </configuration>
     <configuration name="prawily07-13.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3161,6 +3329,7 @@
     </configuration>
     <configuration name="prawily104-110.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3183,6 +3352,7 @@
     </configuration>
     <configuration name="prawily111-117.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3205,6 +3375,7 @@
     </configuration>
     <configuration name="prawily118-127.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3227,6 +3398,7 @@
     </configuration>
     <configuration name="prawily128-138.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3249,6 +3421,7 @@
     </configuration>
     <configuration name="prawily14-24.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3273,6 +3446,7 @@
     </configuration>
     <configuration name="prawily150-154.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3295,6 +3469,7 @@
     </configuration>
     <configuration name="prawily231-234.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3317,6 +3492,7 @@
     </configuration>
     <configuration name="prawily235-237.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3341,6 +3517,7 @@
     </configuration>
     <configuration name="prawily238-239.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3363,6 +3540,7 @@
     </configuration>
     <configuration name="prawily240-244.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3387,6 +3565,7 @@
     </configuration>
     <configuration name="prawily245-247.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3411,6 +3590,7 @@
     </configuration>
     <configuration name="prawily248-250.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3435,6 +3615,7 @@
     </configuration>
     <configuration name="prawily25-33.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3459,6 +3640,7 @@
     </configuration>
     <configuration name="prawily251-254.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3481,6 +3663,7 @@
     </configuration>
     <configuration name="prawily255-257.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3505,6 +3688,7 @@
     </configuration>
     <configuration name="prawily34-40.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3529,6 +3713,7 @@
     </configuration>
     <configuration name="prawily41-52.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3553,6 +3738,7 @@
     </configuration>
     <configuration name="prawily53-63.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3577,6 +3763,7 @@
     </configuration>
     <configuration name="prawily64-71.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3601,6 +3788,7 @@
     </configuration>
     <configuration name="prawily72-80.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3625,6 +3813,7 @@
     </configuration>
     <configuration name="prawily81-87.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3649,6 +3838,7 @@
     </configuration>
     <configuration name="prawily88-91.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3673,6 +3863,7 @@
     </configuration>
     <configuration name="prawily92-97.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3697,6 +3888,7 @@
     </configuration>
     <configuration name="prawily98-103.txt" type="PythonConfigurationType" factoryName="Python" folderName="Mowa (long list)">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3719,6 +3911,7 @@
     </configuration>
     <configuration name="test.txt" type="PythonConfigurationType" factoryName="Python">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -3745,6 +3938,7 @@
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -3761,6 +3955,7 @@
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -3776,6 +3971,7 @@
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="orthotester" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -3948,10 +4144,18 @@
       <item itemvalue="Python.Uzywannie i napisannie NIE, NI" />
       <item itemvalue="Python.Uzywannie i prawapis marfiem" />
       <item itemvalue="Python.Wialikaja i malaja litary" />
+      <item itemvalue="Python.Lekcja 08. Liczebniki" />
       <item itemvalue="Python.HistGram" />
       <item itemvalue="Python.naciski.txt" />
       <item itemvalue="Python.test.txt" />
     </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="6" Folder0="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder1="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder2="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder3="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder4="C:\Users\Maksim\YandexDisk\goldendict\morphology" Folder5="C:\Users\Maksim\YandexDisk\goldendict\morphology" CustomDictionaries="6" CustomDictionary0="C:\Users\Maksim\YandexDisk\goldendict\morphology\be_BY.dic" CustomDictionary1="C:\Users\Maksim\YandexDisk\goldendict\morphology\en_US.dic" CustomDictionary2="C:\Users\Maksim\YandexDisk\goldendict\morphology\ko.dic" CustomDictionary3="C:\Users\Maksim\YandexDisk\goldendict\morphology\la_VA.dic" CustomDictionary4="C:\Users\Maksim\YandexDisk\goldendict\morphology\pl_PL.dic" CustomDictionary5="C:\Users\Maksim\YandexDisk\goldendict\morphology\ru_RU.dic" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
@@ -4372,15 +4576,6 @@
     </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -4391,6 +4586,15 @@
         <entry key="User">
           <value>
             <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>

@@ -1,0 +1,125 @@
+# Feminatywy
+
+# -ka
+szwagier -> szwagierka
+sąsiad -> sąsiadka
+nauczyciel -> nauczycielka
+malarz -> malarka
+
+# -yni(-ini)
+twórca -> twórczyni
+zdobywca -> zdobywczyni
+mistrz -> mistrzyni
+
+# -ca
+pracownik -> pracownica
+siostrzeniec -> siostrzenica
+
+lekarz -> lekarka
+doktor -> doktorka
+profesor -> profesorka
+lektor -> lektorka
+
+# -g
+chirurg -> chirurżka
+psycholog -> psycholożka
+ginekolog -> ginekolożka
+
+#
+gość -> gościni
+
+kierowca -> kierowczyni
+kierownik -> kierowniczka
+
+minister -> ministra
+magister -> magistra
+
+świadek -> świadkowa  # na ślubie
+świadek -> świadkini  # w sądzie
+
+# żeńskie nazwy zadania
+# XII
+właściciel -> właścicielka
+biegacz -> biegaczka
+student -> studentka
+aktor -> aktorka
+sprzedawca -> sprzedawczyni
+pisarz -> pisarka
+artysta -> artystka
+złośnik -> złośnica
+pomocnik -> pomocnica
+wnuk -> wnuczka
+tancerz -> tancerka
+prawnik -> prawniczka
+kuzyn -> kuzynka
+pianista -> pianistka
+poganin -> poganka
+Cygan -> Cyganka
+szatniarz -> szatniarka
+urzędnik -> urzędniczka
+
+# XIII
+słoń -> słonica
+fryzjer -> fryzjerka
+pustelnik -> pustelnica
+wychowawca -> wychowawczyni
+góral -> góralka
+poeta -> poetka
+plastyk -> plastyczka
+samotnik -> samotnica
+bibliotekarz -> bibliotekarka
+zastępca -> zastępczyni
+naturysta -> naturystka
+krakowianin -> krakowianka
+ekspedient -> ekspedientka
+
+# XIV
+Gdzie są [twoje świadkinie]?  # twój świadek
+Jestem umówiony z [pani docentką].  # pan docent
+Jesteś [prawdziwą miłośniczką] poezji.  # prawdziwy miłośnik
+Czy widzisz [tamte dwie urzędniczki]?  # tamten - dwa - urzędnik
+To [moja znajoma].  # mój znajomy
+[Nasza kucharka] świetnie gotuje.  # nasz kucharz
+Gratulacje dla [jedynej poliglotki] w naszym gronie!  # jedyny poliglota
+Co tydzień przejżdżają do nas [nasze wnuczki].  # nasz wnuczek
+Czy [twoje klientki] są bardzo wybredne?  # twój klient
+Tu są potrzebne [dwie sekretarki].  # dwa - sekretarz
+Poszukujemy [odpowiedzialną dozorczynią].  # odpowiedzialny dozorca
+W tej grupie są [dwie Amerykanki] z Kalifornii.  # dwa - Amerykanin
+[Te trzy pielęgniarki] są bardzo sympatyczne.  # ten - trzy - pielęgniarz
+Ona bardzo chce być [dobrą nauczycielką].  # dobry nauczyciel
+W konkursie weźmie udział [sławna pianistka].  # sławy pianista
+
+# XV
+Musisz porozmawiać z [twoją pacjentką].  # twój pacjent
+Poproś [tamtą kelnerkę] o rachinek.  # tamten kelner
+Czy [wasze kuzynki] grają w brydża?  # wasz kuzyn
+Oto [twoja wielbicielka]!  # twój wielbiciel
+Dlaczego uwzżasz, że [każda Francuzka] jest feministką?  # każdy Francuz
+[Obydwie właścicielki] tego pensjonatu pochodzą z Gdyni.  # obydwa - właściciel
+Paweł nie lubi [murzyńskich piosenkarek].  # murzyński piosenkarz - l.mn.
+Nie wiedzał, że mieszka z [perfidną morderczynią].  # perfidny morderca
+Nie znam [żadnej góralki], która by nie była [dobrą tancerką]. # 1 - żadny góral, 2 - dobry tancerz
+Coraz częściej widuję [ładny policjantki].  # ładny policjant - l.mn.
+Zorganizowano szkolenie dla [młodych fryzjerek].  # młody fryzjer - l.mn.
+W radiu pracuje coraz więcej [zdolnych dziennikarek].  # zdolny dziennikarz
+W ZOO dzieci patrzyły z zainteresowaniem na [ogromną lwicę] i dwoje lwiątek.  # ogromny lew
+[Moja siostrzenica] kolekcjonuje znaczki.  # mój siostrzeniec
+[Wzruszona zwyciężczyni] turnieju tenisowego przyjmowała gratulacje.  # wzruszony zwyciężca
+
+# XVI
+sprzedaje -> sprzedawca, sprzedawczyni
+urzęduje -> urzędnik, urzędniczka
+pielęgnuje -> pielęgniarz, pielęgniarka
+uczy -> nauczyciel, nauczycielka
+tańczy -> tancerz, tancerka
+pomaga -> pomocnik, pomocnica
+wychowuje -> wychowawca, wychowawczyni
+reżyseruje -> reżyser, reżyserka
+rzeźbi -> rzeźbiarz, rzeźbiarka
+maluje -> malarz, malarka
+pisze -> pisarz, pisarka
+czyta -> czytelnik, czytelniczka
+projektuje -> projektant, projektantka
+pływa -> pływak, pływaczka
+komponuje -> kompozytor, kompozytorka

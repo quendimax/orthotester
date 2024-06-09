@@ -1,0 +1,17 @@
+# Proszę uzupełnić tryb rozkazujący w 2 os. l.p.
+
+Nic dziś nie jadłeś. Pro cię [zjedz] cos.  # zjeść
+Jesteś zmęczona. [Zrob] sobie przerwę.  # zrobić
+Nie [kupuj] tyle ubrań. Nie masz miejsca w szafie.  # kupować
+Jeśli nie możesz spać, [wypij] napar z melissy.  # wypić
+Nie potrafię ci pomóc. [Daj] mi spokój.  # dać
+Nie chcę z tobą rozmawiać. [Wyjdź] stąd!  # wyjść
+Nie [patrz] tak na mnie. To nie moja wina.  # patrzeć
+Masz okropny bałagan w pokoju. [Posprzątaj]!  # posprzątać
+Idziesz do kawiarni? [Przynieś] mi kawę, proszę.  # przyniść
+[Wstawaj]. Jest już dziesiąta.  # wstawać
+Chcesz się zarejestrować? [Wypełnij] ten formularz.  # wypełniać
+[Podaj] mi moją torebkę, proszę.  # podać
+Nie [siedz] cały dzień przed telewizorem!  # sziedzieć
+Jest taka ładna pogoda, [idź] na spacer.  # iść
+Nie [pij] tyle! Przecież prowadzisz samochód! # pić

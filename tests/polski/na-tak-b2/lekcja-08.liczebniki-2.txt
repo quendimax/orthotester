@@ -1,0 +1,146 @@
+# Liczebniki
+
+#! Wyrazy w nawiasach proszę napisać w odpowiedniej formie.
+
+# 1
+[Trzej moi sąsiedzi: 3, mój, sąsiad] postanowili wybrać się w podróż dookoła świata.
+# 2
+Wyścig ukończyło tylko [pięciu kierowców:5, kierowca].
+# 3
+W konferencji bierze udział [sześciu profesorów: 6, profesor] światowej sławy.
+# 4
+[Dwóch policjantów:2, policjant] pilnowało aresztowanego.
+# 5
+Na wycieczkę pojechali z nami [dwaj przewodnicy:2, przewodnik].
+# 6
+Jutro odbędzie się koncert, w którym wystąpi [czterech znanych śpiewaków:4, znany, śpiewak].
+# 7
+Na imieninach u Janka było [siedmiu chłopców:7, chłopiec].
+# 8
+[Dwaj bracia:2, brat] budowali wieże kościoła Mariackiego.
+# 9
+Aż [pięciu Włochów:5, Włoch] znalazło się w pierwszej dziesiątce wyścigu.
+# 10
+[Ośmiu kolegów:8, kolega] odwiedziło Piotra w szpitalu.
+# 11
+Na uroczystości przybędzie [sześciu prezydentów:6, prezydent].
+# 12
+Na boisku piłkarskim znajduje się [trzech sędziów:3, sędzia].
+# 13
+[Dwaj znani podróżnicy:2, znany podróżnik] przygotowują do druku swoje wspomnienia.
+# 14
+[Ci dwaj dyktatorzy:ten, 2, dyktator] mody bardzo się nie lubią.
+# 15
+W czasie konferencji prasowej robiło zdjęcia aż [dwunastu fotografów:12, fotograf].
+
+
+#! Proszę wpisać słowami odpowiednie formy liczebników.
+
+# 1
+W zeszłym tygodniu byliśmy na [dwóch:2] kocertach.
+# 2
+Minister ma się spotkać z [czterema:4] konsulami.
+# 3
+Możesz mi pomóc w rozwiązywaniu krzyżówki? Brakuje mi jeszcze [pięciu:5] wyrazów.
+# 4
+Z tej opery lubię tylko [dwie:2] arie.
+# 5
+Proszę [osiem:8] biletów tramwajowych.
+# 6
+Nie będzie ci przeszkadzało, jeżeli przyjdzie do nas [trzech:3] moich kolegów?
+# 7
+Bardzo trudnyu jest ten teks. Przez pół godziny udało mi się przeczytać i zrozumieć tylko [jedną:1] stronę.
+# 8
+Nie wiedziałam, że masz [pięciu:5] braci. Znam tylko [dwóch:2].
+# 9
+Joanna zawsze dostaje od brata na imieniny [siedem:7] róż.
+# 10
+Przyglądam się tym [chterem:4] obrazom i nie wiem, który wybrać.
+# 11
+Spotkałam się z [dwoma:2] przyjaciółmi.
+# 12
+Muszę pomóc moim [trzem:3] kolegom.
+# 13
+Do bardzo dobrej oceny zabrakło mi [jednego:1] punktu.
+# 14
+Po [pięciu:5] godzinach oczekiwania na lotnisku dowiedzieliśmy się, że lot jest odwołany.
+# 15
+Krysztof zamówił [dwie:2] porcje lodów.
+
+
+#! Proszę wpisać słowami odpowiednie formy liczebników.
+
+# 1
+Profesor rozmawiał z [dwunastoma:12] studentami.
+# 2
+Nie możesz iść na ten film — jest dozwolony od [osiemnastu:18] lat.
+# 3
+Na zawody przyjechało już [dwadziestu:20] narciarzy.
+# 4
+Nie mogłem znaleźć w słowniku [jedenastu:11] wyrazów.
+# 5
+Oglądaliśmy katalog Forda. Jurek zaczwycał się wszystkimi [piętnastoma:15] modelami, które tam były.
+# 6
+Na wykład przyszło tak dużo ludzi, że dla [dziewiętnastu:19] osób brakło krzeseł.
+# 7
+Nauczyciel rozdał zeszyty [czternastu:14] uczniom.
+# 8
+W dalszym ciągu nie ma wiadomości o [szesnastu:16] zaginionych turystach.
+# 9
+W ostatnim miesiącu dostałem [siedemnaście:17] listów.
+# 10
+Bramkarz dostał czerwoną kartkę i na boisku zostało tylko [dwadziestu jeden:21] piłkarzy.
+# 11
+Dziennikarze zadawali pytania wszystkim [dwunastu:12] modelkom, które przyjechały na pokaz.
+# 12
+Po [pięćdziesięciu:50] kilometrach drogi okazało się, że jedziemy w przeciwnym kierunku.
+# 13
+Po dokładnym sprawdzeniu stwierdziliśmy, że w bibliotece brakuje [czterdziestu trzech:43] książek.
+# 14
+W hotelu zarezerwowano miejsca dla [trzydziestu siedmiu:37] uczestników konferencji.
+# 15
+Zajmował się z jednakową troską wszystimi [czternastoma:14] chorymi.
+
+
+#! Wyrazy podane w nawiasach proszę napisać w odpowiedniej formie. Liczebniki
+#! proszę napisać słowami.
+
+# 1
+Wczoraj rozpoczęto odnowę [dwóch kamienic:2, kamienica].
+# 2
+Ewa koresponduje z [trzema Włoszkami:3, Włoszka].
+# 3
+Czekamy na połączenie telefoniczne od [dziesięciu godzin:10, godzina].
+# 4
+Musimy jechać [dwoma samochodami:2, samochód], nie zmieścimy się do [jednego:1].
+# 5
+Czy powiedziałeś wszystkim [dziewięciu studentom:9, student] o zmianie terminu spotkania?
+# 6
+Jest to bardzo ciekawy artykuł o [pięciu siostrach:5, siostra].
+# 7
+Dlaczego ten sklep nazywa się [Tysiąc jednym drobiazgów:1001, drobiazg]?
+# 8
+Ten pisarz żył na przełomie [dwóch epok:2 epoka].
+# 9
+Dużo baśni rozpoczyna się tak: "Za [siedmioma górami:7, góra], za [siedmioma morzami:7, morze]..."
+# 10
+Piotruś umie już liczyć do [trzydziestu:30].
+# 11
+Ta książka została przetłumaczona na [dwadzieścia siedem języków:21, język].
+# 12
+Widzisz ten mały dom między [dwoma blokami:2, blok]?
+# 13
+Sekretarka wysłała listy do [ośmiu naukowców:8, naukowiec].
+# 14
+Adam przyglądał się [czterem kobietom:4, kobieta] czekającym na autobus.
+# 15
+W czsie ostatnich wakacji byli w [siedmiu stolicach:7, stolica] europejskich.
+
+
+#! Proszę uzupełnić:
+
+Pani Kowalska ma [trzy psy:3, pies] i [pięć kotów:5, kot].
+Codziennie kupuje mięso dla swoich [trzech psów:3, psy] i [pięciu kotów:5, kot].
+Rano i wieczorem daje jeść swoim [trzem psom:3, pies] i [pięciu kotom:5, kot].
+W południe wychodzi na spacer z [trzema psami:3, pies] i [pięcioma kotami:5, kot].
+Pani Kowalska lubi opowiadać o swoich [trzech psach:3, pies] i [pięciu kotach:5, kot].
