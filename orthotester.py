@@ -49,7 +49,7 @@ class AnswerStatistic:
         self.quantity = 0
         self.all = 0
         self.done = 0
-        self.time = 0
+        self.time = 0.0
 
 
 ANSWER_STAT = AnswerStatistic()
@@ -269,8 +269,11 @@ def test_with_stress(test_word, comment=''):
 def test_with_translation(line, comment=''):
     checker = re.compile(r'->')
     match = checker.search(line)
-    orig_word = line[:match.span()[0]].strip()
-    translation = line[match.span()[1]:].strip()
+    if match:
+        orig_word = line[:match.span()[0]].strip()
+        translation = line[match.span()[1]:].strip()
+    else:
+        raise SyntaxError("cannot find `->` in the sentence: %s" % line)
 
     print('Translate:   {}'.format(orig_word), end='')
     print_comment(comment)

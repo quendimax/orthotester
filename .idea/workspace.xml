@@ -7,7 +7,7 @@
     <list default="true" id="0a6e9771-44e6-4e28-bf0b-cd3d221397dc" name="Default" comment="Add some improvements and fixes to Latin tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orthotester.py" beforeDir="false" afterPath="$PROJECT_DIR$/orthotester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/latin/cap-18.vocabula.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/latin/cap-18.vocabula.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/kulikowicz/prawily180-191.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/kulikowicz/prawily180-191.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +141,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Capitulum 04 (IV). Vocabula.executor": "Run",
     "Python.Capitulum 18 (XVIII). Grammatica. Adverbium.executor": "Run",
     "Python.Capitulum 18 (XVIII). Vocabula.executor": "Run",
     "Python.Capitulum 19 (XIX). Grammatica. Imperfectum.executor": "Run",
@@ -149,11 +150,12 @@
     "Python.Capitulum 19 (XIX). Vocabula.executor": "Run",
     "Python.Lection 02.executor": "Run",
     "Python.Lekcja 08. Liczebniki.executor": "Run",
+    "Python.Wialikaja i malaja litary.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/quendimax/Workspace/orthotester/tests/polski/na-tak-b2",
-    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="PyConsoleOptionsProvider">
@@ -180,7 +182,7 @@
       <recent name="C:\Users\s2400082\Dropbox\Pastuplennie\orthotester\tests\latin" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lekcja 08. Liczebniki">
+  <component name="RunManager" selected="Python.Wialikaja i malaja litary">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2630,7 +2632,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/orthotester.py" />
-      <option name="PARAMETERS" value="tests/polski/na-tak-b2/lec-08.liczebniki.txt --no-random" />
+      <option name="PARAMETERS" value="tests/polski/na-tak-b2/lekcja-08.liczebniki-1.txt --no-random" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -4153,7 +4155,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-48dcec390571-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.89" />
       </set>
     </attachedChunks>
   </component>
